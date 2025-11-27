@@ -1,0 +1,253 @@
+{
+  "lesson_title": "Modelli standard di riferimento: OSI e TCP/IP",
+  "date": "18/9/2024",
+  "instructor": "Sasha Sheykina",
+  "slides": [
+    {
+      "slide_number": 2,
+      "title": "Agenda della Presentazione",
+      "content": [
+        {
+          "I": "Indice della fase attiva"
+        }
+      ]
+    },
+    {
+      "slide_number": 3,
+      "title": "Destinatari",
+      "content": [
+        {
+          "Ciclo": "Triennio"
+        },
+        {
+          "Percorso": "Informatica e Telecomunicazioni"
+        },
+        {
+          "Indirizzo": "Informatica e Telecomunicazioni"
+        },
+        {
+          "Articolazione": "Informatica"
+        },
+        {
+          "Disciplina": "Sistemi e reti"
+        },
+        {
+          "Grado": "Terzo anno"
+        },
+        {
+          "Numero studenti": 15
+        },
+        {
+          "BES": [
+            "1 alunna diversamente abile (programmazione differenziata)",
+            "1 alunno con PDP (precedente supporto)",
+            "2 alunni ripetenti senza specifici BES durante l'anno corrente"
+          ]
+        }
+      ]
+    },
+    {
+      "slide_number": 4,
+      "title": "Fasi della lezione",
+      "content": [
+        {
+          "Fase 1": "Verifica dei prerequisiti"
+        },
+        {
+          "Fase 2": "Presentazione dei contenuti"
+        },
+        {
+          "Fase 3": "Riepilogo e consolidamento"
+        },
+        {
+          "Fase 4": "Verifica degli obiettivi"
+        },
+        {
+          "Durata": "4 ore"
+        }
+      ]
+    },
+    {
+      "slide_number": 5,
+      "title": "Obiettivi finali",
+      "content": [
+        {
+          "Competenze chiave": [
+            "Digital content creation (DE:E.3)"
+          ]
+        },
+        {
+          "Competenze di base": [
+            "Configurare, installare e gestire sistemi di elaborazione dati e reti",
+            "Riconoscere gli aspetti di efficacia, efficienza e qualità nella propria attività lavorativa"
+          ]
+        }
+      ]
+    },
+    {
+      "slide_number": 6,
+      "title": "Prerequisiti",
+      "content": [
+        {
+          "Prerequisiti": [
+            "Fondamenti di Sistemi di Elaborazione"
+          ]
+        }
+      ]
+    },
+    {
+      "slide_number": 7,
+      "title": "Obiettivi specifici della lezione",
+      "content": [
+        {
+          "Abilità/Capacità": [
+            "Classificare una rete e i servizi offerti con riferimento agli standard tecnologici"
+          ]
+        },
+        {
+          "Conoscenze": [
+            "Comprendere l'organizzazione del software di rete in livelli",
+            "Conoscere i modelli standard di riferimento OSI e TCP/IP"
+          ]
+        }
+      ]
+    },
+    {
+      "slide_number": 8,
+      "title": "Metodo",
+      "content": [
+        {
+          "Metodologie": [
+            "Lezione frontale con presentazioni multimediali",
+            "Discussione in aula",
+            "Mappe concettuali interattive"
+          ]
+        },
+        {
+          "Sussidi didattici": [
+            "LIM",
+            "Presentazioni PowerPoint",
+            "MindMeister per mappe concettuali",
+            "Smartphone per QR code e risorse online"
+          ]
+        },
+        {
+          "Adattamento per BES": [
+            "Materiali semplificati per alunna diversamente abile",
+            "Misure compensative e dispensative per studenti con PDP"
+          ]
+        }
+      ]
+    },
+    {
+      "slide_number": 9,
+      "title": "Fasi della lezione: Fase 1",
+      "content": [
+        {
+          "subtitle": "Verifica dei prerequisiti"
+        },
+        {
+          "Metodologie": [
+            "Brainstorming iniziale",
+            "Quiz di valutazione iniziale tramite Google Moduli"
+          ]
+        },
+        {
+          "Sussidi didattici": [
+            "LIM",
+            "Google Moduli",
+            "Smartphone"
+          ]
+        },
+        {
+          "Durata": "30 minuti"
+        }
+      ],
+      "descrizione": "Iniziare con una discussione collettiva in aula per comprendere cosa gli studenti ricordano dal modulo precedente. Utilizzare Google Moduli per somministrare un quiz preliminare e discutere i risultati collettivamente tramite la LIM."
+    },
+    {
+      "slide_number": 10,
+      "title": "Fasi della lezione: Fase 2",
+      "content": [
+        {
+          "subtitle": "Presentazione dei contenuti"
+        },
+        {
+          "Metodologie": [
+            "Lezione frontale con presentazioni multimediali",
+            "Discussione in aula",
+            "Mappe concettuali interattive con MindMeister"
+          ]
+        },
+        {
+          "Sussidi didattici": [
+            "LIM",
+            "Presentazioni PowerPoint",
+            "MindMeister per mappe concettuali",
+            "Smartphone per QR code e risorse online"
+          ]
+        },
+        {
+          "Durata": "180 minuti"
+        }
+      ],
+      "descrizione": "Utilizzare la LIM per presentare le slide con i contenuti teorici. Interagire con gli studenti attraverso domande dirette, mappe concettuali, video esplicativi e risorse online accessibili tramite QR code."
+    },
+    {
+      "slide_number": 11,
+      "title": "Fasi della lezione: Fase 3",
+      "content": [
+        {
+          "subtitle": "Riepilogo e consolidamento"
+        },
+        {
+          "Metodologie": [
+            "Revisione collettiva dei concetti",
+            "Domande e risposte",
+            "Brainstorming"
+          ]
+        },
+        {
+          "Sussidi didattici": [
+            "LIM",
+            "Quizizz per attività interattive",
+            "Smartphone per quiz e sondaggi istantanei"
+          ]
+        },
+        {
+          "Durata": "30 minuti"
+        }
+      ],
+      "descrizione": "Utilizzare la LIM per riepilogare i concetti trattati, includendo un'attività di consolidamento interattiva tramite Quizizz. Stimolare il brainstorming e rispondere a eventuali domande degli studenti."
+    },
+    {
+      "slide_number": 12,
+      "title": "Fasi della lezione: Fase 4",
+      "content": [
+        {
+          "subtitle": "Verifica degli obiettivi"
+        },
+        {
+          "Metodologie": [
+            "Verifica scritta tramite Google Moduli",
+            "Attività pratica"
+          ]
+        },
+        {
+          "Sussidi didattici": [
+            "LIM",
+            "Google Moduli",
+            "Documenti di supporto per l'attività pratica"
+          ]
+        },
+        {
+          "BES": "Materiali semplificati e supporto personalizzato per alunni diversamente abili, misure compensative per studenti con PDP"
+        },
+        {
+          "Durata": "40 minuti"
+        }
+      ],
+      "descrizione": "Somministrare una verifica scritta tramite Google Moduli. Proporre un'attività pratica in cui gli studenti descrivono e confrontano i modelli OSI e TCP/IP utilizzando materiali di supporto e presentano i loro risultati."
+    }
+  ]
+}

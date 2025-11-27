@@ -1,0 +1,111 @@
+### Formato output
+Dovrai fornire la progettazione tramite un JSON strutturato come segue:
+{
+  "lesson_title": "Fase preattiva della lezione",
+  "date": "Data",
+  "instructor": "Nome Docente",
+  "slides": [
+    {
+      "slide_number": 2,
+      "title": "Destinatari",
+      "content":[
+            {"Ordinamento scuola":"Scuola secondaria di II grado"},
+            {"Tipo scuola":"Tipo scuola"},
+            {"Indirizzo":"Indirizzo"},
+            {"Articolazione":"Articolazione"},
+            {"Disciplina":"Disciplina"},
+            {"Grado":"Grado"},
+            {"Numero studenti":"Numero studenti in classe"},
+            {"BES":"Lista di numero di studenti con bes (con relativo disturbo) se presenti"}
+        ]
+    },
+    {
+      "slide_number": 3,
+      "title": "Fasi della leziona",
+      "content":[
+            {"Fase 1":"Verifica dei prerequisiti"},
+            {"Fase 2":"Presentazione dei contenuti"},
+            {"Fase 3":"Riepilogo e consolidamento"},
+            {"Fase 4":"Verifica degli obiettivi"},
+            {"Dutara":"Durata lezione"}
+        ]
+    },
+    {
+      "slide_number": 4,
+      "title":"Obiettivi finali",
+      "content":[
+            {"Competenze chiave":["Lista delle competenze chiave"]},
+            {"Competenze di base":["Lista delle competenze di base"]}
+        ]
+    },
+    {
+      "slide_number": 5,
+      "title":"Prerequisiti",
+      "content":[
+            {"Prerequisiti": ["Lista di prerequisiti per la lezione"]}
+        ]
+     },
+     {
+      "slide_number": 6,
+      "title":"Obiettivi specifici della lezione",
+      "content":[
+             {"Abilità/Capacità": ["Lista delle abilità e capacità da sviluppare"]},
+             {"Conoscenze": ["Lista delle conoscenze da trasferire"]}
+        ]
+     },
+     {
+      "slide_number": 7,
+      "title":"Metodo",
+      "content":[
+             {"Metodologie": ["Lista delle metodologie da applicare"]},
+             {"Sussidi didattici": ["Lista dei sissudi didattici da utilizzare"]},
+             {"Adattamento per BES": ["Lista misure dispensative e strumenti compensativi"]}
+        ]
+     },
+     {
+      "slide_number": 8,
+      "title":"Fasi della lezione: Fase 1",
+      "content":[
+             {"subtitle":"Verifica dei prerequisiti"},
+             {"Metodologie": ["Lista delle metodologie da applicare"]},
+             {"Sussidi didattici": ["Lista dei sissudi didattici da utilizzare"]},
+             {"Durata"}:{"Durata in minuti"}
+        ],
+      "descrizione": "Descrivere come verificare i prerequisiti degli studenti e come presentare i risultati usando metodologie e sussidi didattici"
+     },
+     {
+      "slide_number": 9,
+      "title":"Fasi della lezione: Fase 2",
+      "content":[
+             {"subtitle":"Presentazione dei contenuti"},
+             {"Metodologie": ["Lista delle metodologie applicate"]},
+             {"Sussidi didattici": ["Lista dei sissudi didattici da utilizzare"]},
+             {"Durata"}:{"Durata in ore"}
+        ],
+      "descrizione": "Descrivere come presentare ogni sezione usando metodologie e sussidi didattici, e come interagire con gli studenti"
+     },
+     {
+      "slide_number": 10,
+      "title":"Fasi della lezione: Fase 3",
+      "content":[
+             {"subtitle":"Riepilogo e consolidamento"},
+             {"Metodologie": ["Lista delle metodologie applicate"]},
+             {"Sussidi didattici": ["Lista dei sissudi didattici da utilizzare"]},
+             {"Durata":"Durata in minuti"}
+        ],
+      "descrizione": "Spiegare come utilizzare le metodologie e sussidi didattici per consolidare i concetti trattati"
+     },
+     {
+      "slide_number": 11,
+      "title":"Fasi della lezione: Fase 4",
+      "content":[
+             {"subtitle":"Verifica degli obiettivi"},
+             {"Metodologie": ["Lista delle metodologie da applicare"]},
+             {"Sussidi didattici": ["Lista dei sissudi didattici da utilizzare"]},
+             {"BES":"Adattamento bes se presenti"},
+             {"Durata":"Durata in minuti"}
+        ],
+      "descrizione": "Spiegare come utilizzare le metodologie e sussidi didattici per cla valutazione"
+     }
+    ]
+}

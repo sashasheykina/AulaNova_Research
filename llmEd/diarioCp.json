@@ -1,0 +1,11 @@
+{
+    "tipo_materiale": "Autovalutazione Compito-Prodotto",
+    "domande": [
+      {"domanda": "1. Descrivi il percorso generale dell'attività"},
+      {"domanda": "2. Indica come avete svolto il compito e cosa hai fatto tu"},
+      {"domanda": "3. Indica quali crisi hai dovuto affrontare e come le hai risolte"},
+      {"domanda": "4. Che cosa hai imparato da questa unità di apprendimento"},
+      {"domanda": "5. Cosa devi ancora imparare"},
+      {"domanda": "6. Come valuti il lavoro da te svolte"}
+    ]
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "numero_domande": "6",
+    "tipo_materiale": "Elenco di domande orali per la verifica.",
+    "tipo_domande": "domanda aperta",
+    "punti": "30",
+    "criteri_valutazione": "Correttezza delle risposte, capacità di ragionamento e collegamento tra i concetti appresi, chiarezza espositiva.",
+    "obiettivo_minimo": "Superamento della verifica con 18 punti su 30",
+    "domande": [
+      {
+        "id": "1",
+        "domanda": "Quali sono le principali funzioni di una scheda madre?",
+        "criteri": "Descrivere le funzioni chiave della scheda madre come l'interconnessione dei componenti, gestione dell'alimentazione e supporto del BIOS/UEFI."
+      },
+      {
+        "id": "2",
+        "domanda": "Spiega la differenza tra un router e uno switch.",
+        "criteri": "Differenziare in base alla funzione di instradamento del router e alla funzione di commutazione dello switch."
+      },
+      {
+        "id": "3",
+        "domanda": "Qual è la funzione principale di un Access Point nelle reti locali?",
+        "criteri": "Descrivere come un Access Point permette la connessione wireless dei dispositivi a una rete locale."
+      },
+      {
+        "id": "4",
+        "domanda": "Come si configura un Access Point per una rete locale?",
+        "criteri": "Spiegare i passaggi fondamentali per la configurazione di un Access Point, inclusa la connessione fisica e l'accesso alle impostazioni software."
+      },
+      {
+        "id": "5",
+        "domanda": "Analizza le funzionalità e i vantaggi dell'utilizzo di Access Point.",
+        "criteri": "Discutere le funzionalità aggiuntive rispetto ad altri dispositivi di rete e i vantaggi come la flessibilità e l'espansione della copertura wireless."
+      },
+      {
+        "id": "6",
+        "domanda": "Quali protocolli di comunicazione wireless sono utilizzati dagli Access Point?",
+        "criteri": "Elencare e descrivere brevemente i protocolli comuni come IEEE 802.11a/b/g/n/ac/ax."
+      }
+    ],
+    "istruzioni": [
+      {
+        "id": "1",
+        "descrizione": "Rispondere alle domande in modo chiaro e conciso, cercando di coprire tutti i punti chiave richiesti."
+      },
+      {
+        "id": "2",
+        "descrizione": "Utilizzare esempi pratici o esperienze personali, se pertinenti, per supportare le risposte."
+      },
+      {
+        "id": "3",
+        "descrizione": "Se necessario, chiedere chiarimenti sul significato delle domande per fornire una risposta più accurata."
+      }
+    ]
+  }
+]

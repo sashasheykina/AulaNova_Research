@@ -1,0 +1,43 @@
+### Formato output
+Dovrai fornire la progettazione tramite un JSON strutturato come segue:
+{   "Titolo":"Titolo della lezione",
+    "Verifica prerequisiti":[
+        "Metodologie":[{"Metodologia":"Metodologia da utilizzare"}],
+        "Materiali didattici":[{"Materiale didattico":"Materiale didattico"}],
+        "Strumenti tecnologici":[{"Strumento tecnologico":"Strumento tecnologico"}],
+        "Presentazione":"Descrizione come presentare",
+        "Durata":"Durata"
+        ]
+    "Contenuti":[
+        "C":"Contenuto",
+        "Metodologie":[{"Metodologia":"Metodologia da utilizzare"}],
+        "Materiali didattici":[{"Materiale didattico":"Materiale didattico"}],
+        "Strumenti tecnologici":[{"Strumento tecnologico":"Strumento tecnologico"}],
+        "Presentazione":"Descrizione come presentare",
+        "Durata":"Durata"
+        ]
+    "Riepilogo e consolidamento":[
+        "Metodologie":[{"Metodologia":"Metodologia da utilizzare"}],
+        "Materiali didattici":[{"Materiale didattico":"Materiale didattico"}],
+        "Strumenti tecnologici":[{"Strumento tecnologico":"Strumento tecnologico"}],
+        "Presentazione":"Descrizione come presentare",
+        "Durata":"Durata"
+    ]
+    "Verifica e valutazione":[
+        "Metodologie":[{"Metodologia":"Metodologia da utilizzare"}],
+        "Materiali didattici":[{"Materiale didattico":"Materiale didattico"}],
+        "Strumenti tecnologici":[{"Strumento tecnologico":"Strumento tecnologico"}],
+        "Presentazione":"Descrizione come presentare",
+        "Durata":"Durata"
+    ]
+    "Recupero e potenziamento":[
+        "Azioni di recupero":[{
+            "Azione":"Azione di recupero"},
+            "Descrizione":"Descrizione dell'azione di recupero"
+            ],
+        "Azioni di potenziamento":[{
+            "Azione":"Azione di potenziamento"},
+            "Descrizione":"Descrizione dell'azione di potenziamento"
+            ],
+    ]
+}

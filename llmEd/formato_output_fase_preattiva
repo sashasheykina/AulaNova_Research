@@ -1,0 +1,30 @@
+### Formato output
+Dovrai fornire la progettazione tramite un JSON strutturato come segue:
+{
+   "lesson_title": "Titolo della Lezione",
+   "date": "Data di oggi",
+   "instructor": "Nome Docente",
+   "ordinamento_scuola":"Scuola secondaria di II grado",
+   "tipo_scuola":"Tipo scuola",
+   "indirizzo": "Indirizzo",
+   "disciplina":"Disciplina",
+   "grado_classe": "Grado Classe",
+   "numero_studenti":"Numero studenti in classe",
+   "bes":["Lista di numero di studenti con bes (con relativo disturbo) se presenti"],
+   "Durata": "Durata della lezione (in ore)",
+   "Obiettivi finali": [
+        {"Competenze chiave": ["Lista delle competenze chiave"]},
+        {"Competenze di base": ["Lista delle competenze di base"]}
+    ],
+   "Prerequisiti": [
+        "Lista di prerequisiti per la lezione"
+    ],
+   "Obiettivi specifici della lezione": [
+        {"Abilità/Capacità": ["Lista delle abilità e capacità da sviluppare"]},
+        {"Conoscenze": ["Lista delle conoscenze da trasferire"]}
+    ],
+   "Contenuti": [
+        "Lista dei contenuti della lezione"
+    ],
+   "Note Aggiuntive": "Note aggiuntive facoltative"
+}

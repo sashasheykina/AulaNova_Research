@@ -1,0 +1,95 @@
+### Formato output FASE PROGETTAZIONE
+Per prerequisiti devi restituire almeno 3 contenuti. Indicare almeno 3 competenze in criteri_valutazione. Proponi almeno 5 metodologie didattiche. Devi scegliere tra seguenti metodologie didattiche: Lezione Frontale, Cooperative learning, Laboratorio pratico, Flipped Classroom, Problem Solving, Case Study, Brainstorming, Bacheche Digitali, Discussione guidata, Lavoro di gruppo. Per criteri_valutazione includi almeno 3 competenze.  Non usare simboli come /, , # o abbreviazioni non standard. Usa solo parole complete e punteggiatura convenzionale. Dovrai fornire la progettazione tramite un JSON strutturato come segue:
+{
+    "ordinamento scuola": "Scuola secondaria di II grado",
+    "tipo_scuola": "tipo scuola",
+    "grado": "grado classe",
+    "indirizzo": "indirizzo scuola",
+    "articolazione": "articolazione",
+    "disciplina": "disciplina",
+    "docente": "Prof. o prof.ssa seguito da nome docente",
+    "durata":"durata in minuti, indicare solo numero",
+    "Unita_didattica_apprendimento": "unita didattica di apprendimento",
+    "contesto":"non compilare questo campo, inserisce solo il tag e lascia il valore vuoto",
+    "titolo_lezione":"titolo lezione",
+    "anno_scolastico": "anno scolastico",
+    "data_oggi":"data di oggi",
+    "numero_bes":"numero studenti BES",
+    "BES":{
+        "lista_bes":[
+        {
+            "bes": "studenti con BES o DSA (con relativo disturbo)",
+            "misure_dispensative":"misure despensative da adottare",
+            "strumenti_compensativi": "strumenti compensativi da utilizzare"
+        }]
+    },
+    "obiettivi_formativi": {
+        "type": 1,
+        "obiettivo": [
+          {"o": "obiettivo"}
+          ]},
+    "abilita_capacita": {
+        "type": 1,
+        "abilita": [
+          {"a": "abilità_capacita per obiettivi di apprendimento"}
+          ]},
+    "conoscenze": {
+        "type": 1,
+        "conoscenza": [
+          {"c": "conoscenza per obiettivi di apprendimento"}
+          ]},
+    "cittadinanze": {
+        "type": 1,
+        "competenze": [
+          {"c": "competenze chiave di cittadinanza"}
+          ]},
+    "prerequisiti": {
+        "type": 1,
+        "prerequisito": [
+          {"pr": "prerequisito necessario per affrontare argomento della lezione"}
+          ]},
+    "strumenti": {
+        "type": 1,
+        "strumento": [
+          {"s": "strumento didattico utilizzato per la lezione"}
+          ]},
+    "bmd": {
+        "type": 1,
+        "dispensativi": [
+          {"d": "indicare almeno 3 misure dispensative per adattamento BES"}
+          ]},
+    "bsc": {
+        "type": 1,
+        "compensativi": [
+          {"c": "indicare almeno 3 strumenti compensativi per adattamento BES"}
+          ]},
+    "metodologie": {
+        "type": 1,
+        "metodologie": [
+          {"m": "metodologia"}
+          ]},
+    "criteri_valutazione":{
+            "competenze_indicatori":{
+                "type":1,
+                "competenza_indicatore":[
+                    {"c/i":"Definire competenza/indicatore/(livelli), separare competenza da indicatore con uno slash / Definire indicatore per relativa competenza  e tra parentesi tonde (Avanzato: descrizione per livello avanzato, Intermedio: descrizione per livello intermedio, Base: descrizione per livello base)"}
+                ]
+            }
+    },
+    "verifica":{
+            "type":1,
+            "orali":[
+                {"o":"interrogazioni, interventi o discussione in classe"}
+            ],
+            "scritte":[{
+                "s":"strutturata, semi-strutturata o aperta"
+            }]
+        },
+    ,
+    "recupero_potenziamneto":{
+            "type":1,
+            "rp":[
+                {"o":"definire almeno 4 strategie di recupero e potenziamento"}
+            ]
+        }
+}

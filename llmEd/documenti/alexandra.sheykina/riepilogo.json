@@ -1,0 +1,28 @@
+{
+  "lista_attivita": [
+    {
+      "attivita": "Verifica orale /15 minuti /Aula con LIM (Verifica orale anziché scritta per BES, utilizzo di domande semplificate.)"
+    },
+    {
+      "attivita": "Lezione Frontale /20 minuti /Aula con LIM (Utilizzo di materiali semplificati per BES, mappe concettuali.)"
+    },
+    {
+      "attivita": "Laboratorio pratico /30 minuti /Laboratorio di informatica (Supporto aggiuntivo da parte del docente per BES, software di supporto.)"
+    },
+    {
+      "attivita": "Problem Solving /20 minuti /Laboratorio di informatica (Mappe concettuali e appunti strutturati per BES.)"
+    },
+    {
+      "attivita": "Cooperative learning /25 minuti /Laboratorio di informatica (Supporto da parte del docente e divisione dei compiti per BES.)"
+    },
+    {
+      "attivita": "Discussione guidata /20 minuti /Aula con LIM (Discussione semplificata per BES, utilizzo di mappe concettuali.)"
+    },
+    {
+      "attivita": "Verifica scritta /15 minuti /Aula (Tempi aggiuntivi e verifica orale anziché scritta per BES.)"
+    },
+    {
+      "attivita": "Verifica orale /15 minuti /Aula con LIM (Domande semplificate e supporto visivo per BES.)"
+    }
+  ]
+}

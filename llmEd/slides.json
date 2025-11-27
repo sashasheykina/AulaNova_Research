@@ -1,0 +1,290 @@
+{
+  "lesson_title": "Introduzione ai Sistemi Informativi Aziendali",
+  "date": "Settembre 2023",
+  "instructor": "Sasha Sheykina",
+  "grado": "Terzo Anno",
+  "indirizzo": "Amministrazione, Finanza e Marketing",
+  "slides": [
+    {
+      "slide_number": 1,
+      "title": "Introduzione ai Sistemi Informativi Aziendali",
+      "content": [
+        {
+          "I": "Panoramica generale sui Sistemi Informativi Aziendali (SIA) e la loro importanza nel contesto aziendale."
+        }
+      ],
+      "presenter_notes": "Introduzione generale all'argomento, presentazione degli obiettivi della lezione."
+    },
+    {
+      "slide_number": 2,
+      "title": "Obiettivi della Lezione",
+      "content": [
+        {
+          "O": "Fornire una panoramica generale sui Sistemi Informativi Aziendali (SIA)"
+        },
+        {
+          "O": "Illustrare l'importanza dei SIA nel contesto aziendale"
+        },
+        {
+          "O": "Identificare i principali componenti di un SIA"
+        },
+        {
+          "O": "Stabilire una base di conoscenza per le lezioni successive sull'argomento"
+        }
+      ],
+      "presenter_notes": "Presentare gli obiettivi principali che verranno trattati durante la lezione."
+    },
+    {
+      "slide_number": 3,
+      "title": "Indice della Presentazione",
+      "content": [
+        {
+          "I": "Introduzione ai Sistemi Informativi Aziendali"
+        },
+        {
+          "I": "Importanza dei SIA"
+        },
+        {
+          "I": "Principali componenti di un SIA"
+        },
+        {
+          "I": "Discussione e Attività Pratica"
+        }
+      ],
+      "presenter_notes": "Fornire una panoramica degli argomenti che verranno trattati durante la presentazione."
+    },
+    {
+      "slide_number": 4,
+      "title": "Definizione di SIA",
+      "content": [
+        {
+          "C": "Un Sistema Informativo Aziendale (SIA) è l'insieme di risorse umane, tecnologiche e di processi operativi che gestisce le informazioni all'interno di un'azienda."
+        }
+      ],
+      "presenter_notes": "Spiegare cosa si intende per SIA e il suo ruolo in azienda."
+    },
+    {
+      "slide_number": 5,
+      "title": "Importanza di un SIA",
+      "content": [
+        {
+          "C": "Supporto decisionale"
+        },
+        {
+          "C": "Miglioramento dell'efficienza operativa"
+        },
+        {
+          "C": "Gestione delle informazioni aziendali"
+        },
+        {
+          "C": "Integrazione tra le diverse funzioni aziendali"
+        }
+      ],
+      "presenter_notes": "Illustrare i benefici e l’importanza di avere un SIA ben strutturato in azienda."
+    },
+    {
+      "slide_number": 6,
+      "title": "Componenti Principali di un SIA",
+      "content": [
+        {
+          "C": "Hardware"
+        },
+        {
+          "C": "Software"
+        },
+        {
+          "C": "Persone"
+        },
+        {
+          "C": "Procedure"
+        },
+        {
+          "C": "Dati"
+        }
+      ],
+      "presenter_notes": "Descrivere brevemente i principali componenti che costituiscono un SIA."
+    },
+    {
+      "slide_number": 7,
+      "title": "Componenti: Hardware",
+      "content": [
+        {
+          "C": "Server, computer, dispositivi di rete, periferiche"
+        }
+      ],
+      "presenter_notes": "Elencare ed esemplificare i vari tipi di hardware utilizzati in un SIA."
+    },
+    {
+      "slide_number": 8,
+      "title": "Componenti: Software",
+      "content": [
+        {
+          "C": "Sistemi operativi, applicazioni aziendali, software di gestione"
+        }
+      ],
+      "presenter_notes": "Fornire esempi di software utilizzati nei SIA, come ERP e CRM."
+    },
+    {
+      "slide_number": 9,
+      "title": "Componenti: Persone",
+      "content": [
+        {
+          "C": "Utenti, amministratori di sistema, sviluppatori, supporto IT"
+        }
+      ],
+      "presenter_notes": "Descrivere il ruolo delle persone nell'uso e nella gestione di un SIA."
+    },
+    {
+      "slide_number": 10,
+      "title": "Componenti: Procedure",
+      "content": [
+        {
+          "C": "Processi operativi standard, policy di sicurezza, flussi di lavoro"
+        }
+      ],
+      "presenter_notes": "Spiegare l'importanza delle procedure nell'efficiente funzionamento di un SIA."
+    },
+    {
+      "slide_number": 11,
+      "title": "Componenti: Dati",
+      "content": [
+        {
+          "C": "Informazioni aziendali, database, archiviazione sicura"
+        }
+      ],
+      "presenter_notes": "Sottolineare il ruolo critico dei dati nei SIA e l'importanza della loro gestione sicura."
+    },
+    {
+      "slide_number": 12,
+      "title": "Schema di un SIA",
+      "content": [],
+      "presenter_notes": "Mostrare un diagramma o schema che illustra come i vari componenti di un SIA interagiscono tra loro."
+    },
+    {
+      "slide_number": 13,
+      "title": "Esempi di SIA in Aziende Noti",
+      "content": [
+        {
+          "C": "SAP, Oracle E-Business Suite, Microsoft Dynamics"
+        }
+      ],
+      "presenter_notes": "Fornire esempi concreti di SIA utilizzati in alcune delle principali aziende."
+    },
+    {
+      "slide_number": 14,
+      "title": "Attività di Gruppo: Discussione di Casi Pratici",
+      "content": [
+        {
+          "A": "Dividere la classe in gruppi per discutere casi pratici di implementazione di SIA in aziende reali."
+        }
+      ],
+      "presenter_notes": "Guidare gli studenti nell'analisi e discussione di casi pratici di implementazione di SIA, suddividendoli in gruppi."
+    },
+    {
+      "slide_number": 15,
+      "title": "Caso Pratico 1",
+      "content": [
+        {
+          "A": "Implementazione di un ERP in un'azienda manifatturiera - Discussione sul processo e sui benefici ottenuti"
+        }
+      ],
+      "presenter_notes": "Descrivere il caso pratico, invitando gli studenti a discutere le sfide e i successi dell'implementazione."
+    },
+    {
+      "slide_number": 16,
+      "title": "Caso Pratico 2",
+      "content": [
+        {
+          "A": "Uso di un CRM in una grande azienda di servizi - Analisi delle funzionalità e dei vantaggi"
+        }
+      ],
+      "presenter_notes": "Illustrare il caso pratico e far riflettere gli studenti sulle specificità e sui benefici derivanti dall'uso di un CRM."
+    },
+    {
+      "slide_number": 17,
+      "title": "Condivisione dei Risultati dei Gruppi",
+      "content": [
+        {
+          "A": "Ogni gruppo presenta i risultati della discussione del proprio caso pratico."
+        }
+      ],
+      "presenter_notes": "Permettere a ciascun gruppo di condividere le proprie conclusioni con il resto della classe."
+    },
+    {
+      "slide_number": 18,
+      "title": "Sintesi dei Concetti Appresi",
+      "content": [
+        {
+          "D": "Riepilogo dei concetti principali trattati durante la lezione."
+        }
+      ],
+      "presenter_notes": "Ripassare i punti chiave trattati durante la lezione per consolidare l'apprendimento."
+    },
+    {
+      "slide_number": 19,
+      "title": "Quiz di Valutazione",
+      "content": [
+        {
+          "V": "Breve quiz a risposta multipla per valutare l'apprendimento degli studenti."
+        }
+      ],
+      "presenter_notes": "Somministrare un breve quiz per verificare l’apprendimento dei concetti chiave trattati."
+    },
+    {
+      "slide_number": 20,
+      "title": "Domande e Risposte",
+      "content": [
+        {
+          "D": "Sessione di domande e risposte per chiarire eventuali dubbi degli studenti."
+        }
+      ],
+      "presenter_notes": "Invitare gli studenti a fare domande su qualsiasi aspetto della lezione per assicurarsi che tutti i concetti siano chiari."
+    },
+    {
+      "slide_number": 21,
+      "title": "Discussione sugli Argomenti Emergenti",
+      "content": [
+        {
+          "P": "Discutere tecnologie emergenti nel campo dei SIA e il loro possibile impatto."
+        }
+      ],
+      "presenter_notes": "Sollecitare una discussione sugli sviluppi recenti nel campo dei sistemi informativi e le loro potenziali applicazioni future."
+    },
+    {
+      "slide_number": 22,
+      "title": "Progetti Futuri dei SIA",
+      "content": [
+        {
+          "P": "Discutere come le aziende possono innovare e migliorare i propri SIA."
+        }
+      ],
+      "presenter_notes": "Riflettere con gli studenti su come i sistemi informativi possono evolvere e aiutare le aziende a essere più competitive."
+    },
+    {
+      "slide_number": 23,
+      "title": "Conclusioni",
+      "content": [
+        {
+          "P": "Riepilogo finale e importanza dei SIA per le aziende."
+        }
+      ],
+      "presenter_notes": "Riassumere i principali concetti appresi e sottolineare l'importanza dei SIA nel mondo aziendale."
+    },
+    {
+      "slide_number": 24,
+      "title": "Compiti per Casa",
+      "content": [
+        {
+          "P": "Assegnare la lettura di un capitolo del libro di testo sui SIA e preparare un breve riassunto."
+        }
+      ],
+      "presenter_notes": "Indicare il compito per casa agli studenti, che servirà a consolidare quanto appreso durante la lezione."
+    },
+    {
+      "slide_number": 25,
+      "title": "Grazie per l'Attenzione",
+      "content": [],
+      "presenter_notes": "Ringraziare gli studenti per la loro partecipazione e concludere la lezione."
+    }
+  ]
+}

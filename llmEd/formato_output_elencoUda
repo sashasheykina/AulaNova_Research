@@ -1,0 +1,14 @@
+### Formato output \
+Dovrai fornire la progettazione tramite un JSON strutturato come segue: \
+{
+    "BES/DSA": [{
+        "Nome":"studente con la descrizione del relativo disturbo BES o DSA se presente"
+    }]
+    "Lista di studenti con BES o DSA (con relativo disturbo) se presenti",
+    "Unita Didattiche": [
+    {
+        "UDA": "Nome Unità Didattica",
+        "Periodo":"Mese inizio-Mese fine di attivazione (al massimo Maggio)",
+        "Motivazioni": "Descrivere Motivazioni"}
+        ]
+    }

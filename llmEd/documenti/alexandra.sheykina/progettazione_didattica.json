@@ -1,0 +1,1048 @@
+{
+    "ordinamento scuola": "Scuola secondaria di II grado",
+    "tipo scuola": "Istituti Tecnici Settore Tecnologico",
+    "grado": "III",
+    "indirizzo": "Informatica e Telecomunicazioni",
+    "articolazione": "Informatica",
+    "disciplina": "Sistemi e reti",
+    "contesto": "La classe è composta da 15 alunni, 11 maschi e 4 femmine. Vi è la presenza di un’alunna diversamente abile che segue una programmazione differenziata, 4 alunni ripetenti di cui uno che il precedente anno scolastico era stato seguito dai docenti con un PDP ed un altro che ha interrotto ufficialmente la frequenza scolastica il 6 ottobre 2024. La classe è vivace ma appare unita e abbastanza collaborativa. La maggior parte degli alluni partecipa con interesse al dialogo educativo e alle attività proposte. Dall’analisi iniziale è emerso un rendimento medio sufficiente, e l’atteggiamento verso la materia è di discreto interesse e curiosità. Per ciò che attiene il rendimento, si distinguono 3 gruppi: un primo gruppo si distingue per un'applicazione costante e per un buon livello di sviluppo delle capacità logiche, espressive e operative e per il fatto che esegue compiti in modo autonomo e responsabile con buona consapevolezza e padronanza delle conoscenze. Un secondo gruppo rientra nell'ambito di un livello soddisfacente dal momento che presenta un discreto sviluppo delle abilità di base ed un’applicazione nel complesso adeguata. Infine, un terzo gruppo presenta delle competenze acquisite in maniera essenziale che rivelano incertezze metodologiche e un approccio allo studio che necessita di maturare. Per tali motivi, l'insegnamento della disciplina si baserà, fondamentalmente, su un continuo stimolo alla partecipazione attiva degli alunni alle attività didattiche. Si terranno, lezioni partecipative e lezioni multimediali attraverso l’utilizzo della LIM, con richieste di intervento da posto e con correzioni collettiva degli esercizi, nonché attività laboratoriali tecnico-pratiche.\n",
+    "docente": "Alexandra Sheykina",
+    "anno_scolastico": "2025/2026",
+    "ore_settimanali": 4,
+    "ore_annue": 132,
+    "BES": [
+        {
+            "Nome": "alunna diversamente abile con programmazione differenziata"
+        },
+        {
+            "Nome": "alunno ripetente con PDP nell'anno scolastico precedente"
+        }
+    ],
+    "Unita Didattiche": [
+        {
+            "UNITA DI APPRENDIMENTO": "I sistemi: i sistemi; i modelli; gli automi",
+            "fase_applicazione": "Settembre-Ottobre",
+            "utenti_destinatari": "Classe III, Istituto Tecnico Settore Tecnologico, Indirizzo Informatica e Telecomunicazioni, Articolazione Informatica",
+            "Motivazioni": "Introduzione ai concetti fondamentali dei sistemi e automi per sviluppare la capacità di analisi e progettazione.",
+            "competenze_europee": {
+                "costruzione_del_se": {
+                    "imparare_ad_imparare": [
+                        "Identificare le proprie modalità di apprendimento",
+                        "Organizzare il lavoro in modo efficace",
+                        "Valutare i propri progressi"
+                    ],
+                    "progettare": [
+                        "Pianificare attività in base a obiettivi e risorse disponibili",
+                        "Riconoscere e risolvere problemi in fase di progettazione",
+                        "Adattare i piani iniziali in base ai feedback ricevuti"
+                    ]
+                },
+                "competenze_sociali_relazione_con_altri": {
+                    "comunicare": [
+                        "Esprimere idee e concetti con chiarezza",
+                        "Utilizzare linguaggi specifici in contesti diversi",
+                        "Ascoltare attivamente gli altri"
+                    ],
+                    "collaborare_partecipare": [
+                        "Contribuire attivamente al lavoro di gruppo",
+                        "Rispettare i ruoli e le opinioni altrui",
+                        "Facilitare il raggiungimento degli obiettivi comuni"
+                    ],
+                    "agire_in_modo_autonomo": [
+                        "Prendere decisioni in autonomia",
+                        "Assumere responsabilità per le proprie azioni",
+                        "Gestire il tempo in modo efficace"
+                    ]
+                },
+                "rapporto_con_realta_naturale_sociale": {
+                    "risolvere_problemi": [
+                        "Identificare problemi complessi",
+                        "Sviluppare soluzioni innovative",
+                        "Valutare l'efficacia delle soluzioni proposte"
+                    ],
+                    "individuare_collegamenti_relazioni": [
+                        "Riconoscere connessioni tra concetti diversi",
+                        "Utilizzare analogie per comprendere nuovi concetti",
+                        "Applicare conoscenze in contesti diversi"
+                    ],
+                    "acquisire_interpretare_informazione": [
+                        "Raccogliere informazioni da fonti diverse",
+                        "Valutare l'affidabilità delle fonti",
+                        "Interpretare dati complessi"
+                    ]
+                }
+            },
+            "competenze_professionali": [
+                "Comprendere le basi dei sistemi e dei modelli",
+                "Analizzare il funzionamento degli automi",
+                "Applicare i modelli teorici a situazioni pratiche",
+                "Progettare modelli di sistemi complessi",
+                "Valutare l'efficacia dei modelli proposti",
+                "Collaborare in team per lo sviluppo di progetti complessi"
+            ],
+            "competenze_di_area": [
+                "Conoscere le basi teoriche dei sistemi informatici",
+                "Sviluppare capacità di problem-solving in ambito informatico",
+                "Progettare e analizzare modelli di automi",
+                "Applicare tecniche di modellazione a problemi reali"
+            ],
+            "abilita": [
+                "Identificare i componenti principali di un sistema",
+                "Descrivere i modelli di automi",
+                "Progettare semplici automi per risolvere problemi",
+                "Valutare l'efficacia dei modelli di sistemi",
+                "Applicare metodi di analisi a situazioni complesse",
+                "Collaborare in gruppo per analisi di sistemi"
+            ],
+            "conoscenze": [
+                "Definire il concetto di sistema e modello",
+                "Descrivere le caratteristiche degli automi",
+                "Conoscere i principali tipi di modelli di automi",
+                "Comprendere le basi teoriche dell'analisi dei sistemi",
+                "Riconoscere l'importanza dei modelli nei sistemi informatici",
+                "Utilizzare terminologia tecnica di settore"
+            ],
+            "obiettivi_minimi": [
+                "Comprendere i concetti base di sistema e modello",
+                "Descrivere semplici modelli di automi",
+                "Applicare conoscenze base in semplici esercizi pratici"
+            ],
+            "prerequisiti": [
+                "Conoscenze di base di informatica",
+                "Capacità di analisi logica",
+                "Capacità di lavorare in gruppo"
+            ],
+            "Tempi": "4 ore settimanali",
+            "esperienze_attivate": [
+                "Lezioni partecipative con l'uso della LIM",
+                "Attività laboratoriali tecnico-pratiche",
+                "Correzioni collettive degli esercizi"
+            ],
+            "Metodologie": [
+                "Lezioni partecipative",
+                "Lezioni multimediali",
+                "Attività laboratoriali",
+                "Correzioni collettive"
+            ],
+            "risorse_umane": "Docenti interni e studenti",
+            "Strumenti": [
+                "LIM",
+                "Software di modellazione",
+                "Materiale didattico online"
+            ],
+            "Valutazioni": [
+                "Prove pratiche",
+                "Test scritti",
+                "Valutazione delle attività laboratoriali"
+            ],
+            "CP": {
+                "compito_prodotto": "Progettazione e analisi di un semplice automa",
+                "Modalita": "In gruppo",
+                "artefatti_consegnati": "Documentazione del progetto, modello dell'automa",
+                "Obiettivi": "Applicare le conoscenze sui sistemi e automi in un progetto pratico",
+                "Tempi": "3 settimane",
+                "Strumenti": [
+                    "Software di modellazione",
+                    "Consulenze con il docente",
+                    "Materiale didattico e risorse online"
+                ],
+                "criteri_valutazione": {
+                    "Competenze": [
+                        {
+                            "indicatore": "Capacità di analizzare e progettare un automa",
+                            "Base": "Dimostra comprensione base dei concetti di automa e modello",
+                            "Intermedio": "Applica correttamente i concetti per progettare un automa",
+                            "Avanzato": "Progetta autonomamente un automa complesso e ne valuta l'efficacia"
+                        }
+                    ]
+                },
+                "relazione_individuale": {
+                    "domande": [
+                        "1. Descrivi il percorso generale dell'attività",
+                        "2. Indica come avete svolto il compito e cosa hai fatto tu",
+                        "3. Indica quali crisi hai dovuto affrontare e come le hai risolte",
+                        "4. Che cosa hai imparato da questa unità di apprendimento",
+                        "5. Cosa devi ancora imparare",
+                        "6. Come valuti il lavoro da te svolto"
+                    ]
+                }
+            }
+        },
+        {
+            "UNITA DI APPRENDIMENTO": "Le architetture dei sistemi: Architettura del computer, modello di von Neumann",
+            "fase_applicazione": "Ottobre-Novembre",
+            "utenti_destinatari": "Alunni di classe III, Istituto Tecnico Settore Tecnologico, indirizzo Informatica e Telecomunicazioni, articolazione Informatica",
+            "Motivazioni": "Comprendere le basi dell'architettura del computer, necessario per sviluppare conoscenze tecniche solide.",
+            "competenze_europee": {
+                "costruzione_del_se": {
+                    "imparare_ad_imparare": [
+                        "Sviluppare strategie per migliorare l'apprendimento",
+                        "Autovalutare il proprio processo di apprendimento",
+                        "Pianificare il proprio percorso di studio"
+                    ],
+                    "progettare": [
+                        "Identificare obiettivi specifici e formulare piani per raggiungerli",
+                        "Organizzare il lavoro in modo efficiente",
+                        "Adattare i piani di lavoro in base ai feedback ricevuti"
+                    ]
+                },
+                "competenze_sociali_relazione_con_altri": {
+                    "comunicare": [
+                        "Utilizzare un linguaggio tecnico appropriato",
+                        "Esprimere chiaramente idee e concetti",
+                        "Ascoltare attivamente i contributi degli altri"
+                    ],
+                    "collaborare_partecipare": [
+                        "Lavorare efficacemente in gruppo",
+                        "Condividere informazioni e risorse",
+                        "Contribuire al raggiungimento degli obiettivi comuni"
+                    ],
+                    "agire_in_modo_autonomo": [
+                        "Prendere decisioni in modo indipendente",
+                        "Gestire il tempo e le risorse in autonomia",
+                        "Assumere responsabilità per il proprio apprendimento"
+                    ]
+                },
+                "rapporto_con_realta_naturale_sociale": {
+                    "risolvere_problemi": [
+                        "Identificare problemi e formulare soluzioni",
+                        "Applicare conoscenze teoriche a situazioni pratiche",
+                        "Valutare l'efficacia delle soluzioni proposte"
+                    ],
+                    "individuare_collegamenti_relazioni": [
+                        "Riconoscere le connessioni tra concetti teorici e applicazioni pratiche",
+                        "Integrare informazioni provenienti da diverse fonti",
+                        "Stabilire relazioni tra differenti aree di conoscenza"
+                    ],
+                    "acquisire_interpretare_informazione": [
+                        "Raccogliere dati e informazioni pertinenti",
+                        "Interpretare informazioni tecniche complesse",
+                        "Utilizzare le informazioni per prendere decisioni informate"
+                    ]
+                }
+            },
+            "competenze_professionali": [
+                "Comprendere l'architettura di sistema e i suoi componenti",
+                "Applicare concetti di base del modello di von Neumann",
+                "Identificare le funzioni principali della CPU",
+                "Descrivere il funzionamento delle memorie e delle interfacce I/O",
+                "Utilizzare il linguaggio tecnico appropriato",
+                "Analizzare e risolvere problemi tecnici legati all'hardware"
+            ],
+            "competenze_di_area": [
+                "Conoscere l'architettura del computer",
+                "Descrivere il modello di von Neumann",
+                "Riconoscere i componenti principali di un sistema informatico",
+                "Applicare concetti di base di hardware e software"
+            ],
+            "abilita": [
+                "Identificare i componenti fondamentali di un computer",
+                "Descrivere la funzione della CPU, memoria e I/O",
+                "Applicare il modello di von Neumann in contesti pratici",
+                "Analizzare l'architettura di diversi sistemi informatici",
+                "Utilizzare strumenti software per simulare architetture di sistema",
+                "Valutare le prestazioni di un sistema informatico"
+            ],
+            "conoscenze": [
+                "Struttura e funzionamento della CPU",
+                "Architettura del modello di von Neumann",
+                "Funzionamento delle memorie e BUS",
+                "Ruolo delle interfacce di input/output",
+                "Caratteristiche dei diversi tipi di memorie",
+                "Interazione tra hardware e software"
+            ],
+            "obiettivi_minimi": [
+                "Riconoscere i componenti principali di un computer",
+                "Descrivere a grandi linee il funzionamento della CPU",
+                "Comprendere il modello di von Neumann",
+                "Identificare le principali memorie di un sistema"
+            ],
+            "prerequisiti": [
+                "Conoscenze di base di informatica",
+                "Familiarità con i concetti di hardware e software",
+                "Capacità di lettura e comprensione di testi tecnici"
+            ],
+            "Tempi": "4 ore a settimana",
+            "esperienze_attivate": [
+                "Lezioni partecipative",
+                "Lezioni multimediali con LIM",
+                "Laboratori tecnico-pratici"
+            ],
+            "Metodologie": [
+                "Lezioni frontali",
+                "Apprendimento cooperativo",
+                "Problem solving",
+                "Simulazioni pratiche",
+                "Utilizzo della LIM per visualizzazioni interattive"
+            ],
+            "risorse_umane": "Docenti interni, studenti",
+            "Strumenti": [
+                "LIM",
+                "Computer e simulatori",
+                "Materiale didattico multimediale"
+            ],
+            "Valutazioni": [
+                "Prove scritte",
+                "Prove pratiche",
+                "Osservazioni in itinere"
+            ],
+            "CP": {
+                "compito_prodotto": "Progettare e presentare un modello di architettura di sistema basato sul modello di von Neumann",
+                "Modalita": "In gruppo",
+                "artefatti_consegnati": "Presentazione multimediale e relazione scritta",
+                "Obiettivi": "Dimostrare la comprensione dell'architettura di sistema e la capacità di applicare concetti teorici in contesti pratici",
+                "Tempi": "3 settimane",
+                "Strumenti": [
+                    "Computer",
+                    "Software di presentazione",
+                    "Materiale didattico"
+                ],
+                "criteri_valutazione": {
+                    "Competenze": [
+                        {
+                            "indicatore": "Comprendere e applicare il modello di von Neumann",
+                            "Base": "Descrive semplicemente il modello di von Neumann con supporto",
+                            "Intermedio": "Applica il modello di von Neumann in contesti semplici con minima guida",
+                            "Avanzato": "Analizza e progetta sistemi complessi utilizzando il modello di von Neumann"
+                        }
+                    ]
+                },
+                "relazione_individuale": {
+                    "domande": [
+                        "1. Descrivi il percorso generale dell'attività",
+                        "2. Indica come avete svolto il compito e cosa hai fatto tu",
+                        "3. Indica quali crisi hai dovuto affrontare e come le hai risolte",
+                        "4. Che cosa hai imparato da questa unità di apprendimento",
+                        "5. Cosa devi ancora imparare",
+                        "6. Come valuti il lavoro da te svolto"
+                    ]
+                }
+            }
+        },
+        {
+            "UNITA DI APPRENDIMENTO": "Il linguaggio Assembly",
+            "fase_applicazione": "Novembre-Gennaio",
+            "utenti_destinatari": "Alunni classe III, Istituto Tecnico Settore Tecnologico, Indirizzo Informatica e Telecomunicazioni, articolazione Informatica",
+            "Motivazioni": "Introduzione alla programmazione di basso livello per sviluppare capacità analitiche e di problem-solving.",
+            "competenze_europee": {
+                "costruzione_del_se": {
+                    "imparare_ad_imparare": [
+                        "Riflettere sui propri processi di apprendimento",
+                        "Identificare strategie efficaci per affrontare compiti complessi"
+                    ],
+                    "progettare": [
+                        "Pianificare attività di programmazione",
+                        "Utilizzare strumenti per migliorare la produttività"
+                    ]
+                },
+                "competenze_sociali_relazione_con_altri": {
+                    "comunicare": [
+                        "Condividere idee e conoscenze con i compagni",
+                        "Utilizzare un linguaggio tecnico appropriato"
+                    ],
+                    "collaborare_partecipare": [
+                        "Lavorare in gruppo per risolvere problemi complessi",
+                        "Contribuire attivamente alle discussioni di gruppo"
+                    ],
+                    "agire_in_modo_autonomo": [
+                        "Gestire in modo autonomo i propri compiti",
+                        "Prendere decisioni informate durante le attività pratiche"
+                    ]
+                },
+                "rapporto_con_realta_naturale_sociale": {
+                    "risolvere_problemi": [
+                        "Applicare concetti teorici a situazioni pratiche",
+                        "Individuare soluzioni innovative a problemi tecnici"
+                    ],
+                    "individuare_collegamenti_relazioni": [
+                        "Collegare conoscenze diverse per risolvere problemi",
+                        "Analizzare la relazione tra hardware e software"
+                    ],
+                    "acquisire_interpretare_informazione": [
+                        "Raccogliere dati e informazioni da fonti diverse",
+                        "Interpretare specifiche tecniche per applicazioni pratiche"
+                    ]
+                }
+            },
+            "competenze_professionali": [
+                "Sviluppare programmi in linguaggio Assembly",
+                "Comprendere l'architettura e il funzionamento dei processori",
+                "Interpretare e utilizzare manuali tecnici",
+                "Analizzare e risolvere problemi a livello di codice macchina",
+                "Collaborare con altri per progettare soluzioni efficaci",
+                "Utilizzare strumenti di sviluppo per il debugging e la simulazione"
+            ],
+            "competenze_di_area": [
+                "Conoscere la struttura interna di un processore",
+                "Comprendere i principi del funzionamento dei sistemi operativi",
+                "Gestire la memoria e le risorse di sistema",
+                "Applicare i principi della programmazione a basso livello"
+            ],
+            "abilita": [
+                "Scrivere e analizzare programmi in Assembly",
+                "Utilizzare emulatori e debugger per il testing",
+                "Comprendere e applicare metodi di indirizzamento",
+                "Implementare procedure e funzioni in Assembly",
+                "Gestire i registri del processore efficacemente",
+                "Risolvere problemi di programmazione complessi"
+            ],
+            "conoscenze": [
+                "Struttura e funzionamento del processore 8086",
+                "Registri, segmenti e bus dati",
+                "Indirizzamento e controllo",
+                "Istruzioni Assembly: MOV, CMP, JMP, ecc.",
+                "Debug del DOS e TASM",
+                "Ambienti alternativi: emu8086 e Johnny simulator"
+            ],
+            "obiettivi_minimi": [
+                "Comprendere il funzionamento base del linguaggio Assembly",
+                "Utilizzare emulatori per eseguire e testare programmi",
+                "Scrivere semplici programmi in linguaggio Assembly"
+            ],
+            "prerequisiti": [
+                "Conoscenze base di programmazione",
+                "Familiarità con l'architettura del computer",
+                "Capacità di problem-solving"
+            ],
+            "Tempi": "4 ore a settimana",
+            "esperienze_attivate": [
+                "Lezioni partecipative",
+                "Lezioni multimediali con LIM",
+                "Attività laboratoriali tecnico-pratiche"
+            ],
+            "Metodologie": [
+                "Lezioni frontali",
+                "Lavoro di gruppo",
+                "Laboratorio pratico",
+                "Discussioni guidate",
+                "Utilizzo di strumenti multimediali e simulatori"
+            ],
+            "risorse_umane": "Docenti di classe, studenti",
+            "Strumenti": [
+                "LIM",
+                "Computer e emulatori",
+                "Manuali tecnici",
+                "Software di simulazione e debugging"
+            ],
+            "Valutazioni": [
+                "Prove pratiche",
+                "Test scritti",
+                "Osservazione continua",
+                "Valutazione dei progetti"
+            ],
+            "CP": {
+                "compito_prodotto": "Sviluppo di un programma in Assembly che esegue una serie di operazioni aritmetiche e logiche",
+                "Modalita": "In gruppo",
+                "artefatti_consegnati": "Codice sorgente, documentazione tecnica",
+                "Obiettivi": "Dimostrare la comprensione del linguaggio Assembly e la capacità di applicarlo",
+                "Tempi": "3 settimane",
+                "Strumenti": [
+                    "Emulatori Assembly",
+                    "Manuali tecnici",
+                    "Strumenti di debugging"
+                ],
+                "criteri_valutazione": {
+                    "Competenze": [
+                        {
+                            "indicatore": "Capacità di scrivere codice Assembly funzionante",
+                            "Base": "Scrive codice che compila con errori minimi",
+                            "Intermedio": "Scrive codice funzionale e documentato",
+                            "Avanzato": "Scrive codice ottimizzato, funzionale e ben documentato"
+                        }
+                    ]
+                },
+                "relazione_individuale": {
+                    "domande": [
+                        "1. Descrivi il percorso generale dell'attività",
+                        "2. Indica come avete svolto il compito e cosa hai fatto tu",
+                        "3. Indica quali crisi hai dovuto affrontare e come le hai risolte",
+                        "4. Che cosa hai imparato da questa unità di apprendimento",
+                        "5. Cosa devi ancora imparare",
+                        "6. Come valuti il lavoro da te svolte"
+                    ]
+                }
+            }
+        },
+        {
+            "UNITA DI APPRENDIMENTO": "I sistemi embedded e Arduino",
+            "fase_applicazione": "Gennaio-Febbraio",
+            "utenti_destinatari": "Classe III, Istituto Tecnico Settore Tecnologico, indirizzo Informatica e Telecomunicazioni, articolazione Informatica",
+            "Motivazioni": "Avvicinare gli studenti ai sistemi embedded per ampliare le loro conoscenze in ambito di sviluppo tecnologico pratico.",
+            "competenze_europee": {
+                "costruzione_del_se": {
+                    "imparare_ad_imparare": [
+                        "Riconoscere i propri limiti e punti di forza durante lo sviluppo dei progetti.",
+                        "Applicare strategie di studio efficaci per comprendere i sistemi embedded."
+                    ],
+                    "progettare": [
+                        "Pianificare attività per la realizzazione di soluzioni con Arduino.",
+                        "Sviluppare un progetto di sistema embedded rispettando specifiche e tempi."
+                    ]
+                },
+                "competenze_sociali_relazione_con_altri": {
+                    "comunicare": [
+                        "Esporre le proprie idee e soluzioni tecniche in modo chiaro.",
+                        "Utilizzare terminologia tecnica corretta nelle discussioni."
+                    ],
+                    "collaborare_partecipare": [
+                        "Contribuire attivamente ai lavori di gruppo.",
+                        "Rispettare i ruoli e le responsabilità all'interno del team."
+                    ],
+                    "agire_in_modo_autonomo": [
+                        "Gestire autonomamente il proprio tempo di lavoro.",
+                        "Prendere decisioni informate durante lo sviluppo del progetto."
+                    ]
+                },
+                "rapporto_con_realta_naturale_sociale": {
+                    "risolvere_problemi": [
+                        "Identificare e risolvere problemi tecnici nei sistemi embedded.",
+                        "Applicare soluzioni innovative ai problemi di progettazione."
+                    ],
+                    "individuare_collegamenti_relazioni": [
+                        "Riconoscere le connessioni tra componenti hardware e software.",
+                        "Collegare concetti teorici con applicazioni pratiche."
+                    ],
+                    "acquisire_interpretare_informazione": [
+                        "Interpretare documentazione tecnica e specifiche di progetto.",
+                        "Estrarre informazioni rilevanti per la progettazione."
+                    ]
+                }
+            },
+            "competenze_professionali": [
+                "Integrare componenti hardware e software in sistemi embedded.",
+                "Utilizzare Arduino per lo sviluppo di progetti pratici.",
+                "Analizzare specifiche tecniche e tradurle in soluzioni progettuali.",
+                "Verificare e testare il funzionamento di sistemi embedded.",
+                "Documentare il processo di progettazione e sviluppo.",
+                "Adottare misure di sicurezza nell'uso di dispositivi elettronici."
+            ],
+            "competenze_di_area": [
+                "Comprendere l'architettura e le funzionalità di sistemi embedded.",
+                "Progettare circuiti elettronici con Arduino.",
+                "Implementare soluzioni software per il controllo di hardware.",
+                "Gestire progetti tecnici rispettando tempi e risorse."
+            ],
+            "abilita": [
+                "Progettare e realizzare un sistema embedded con Arduino.",
+                "Interpretare schemi elettrici e datasheet dei componenti.",
+                "Scrivere programmi in linguaggio C per il controllo di Arduino.",
+                "Testare e risolvere problemi nei circuiti elettronici.",
+                "Utilizzare strumenti di misura per verificare il funzionamento dei sistemi.",
+                "Collaborare in team per lo sviluppo di progetti complessi."
+            ],
+            "conoscenze": [
+                "Principi di funzionamento dei sistemi embedded.",
+                "Caratteristiche e funzionalità di Arduino.",
+                "Elementi di programmazione in C per microcontrollori.",
+                "Tecniche di progettazione di circuiti elettronici.",
+                "Sistemi di comunicazione tra dispositivi embedded.",
+                "Norme di sicurezza nell'uso di dispositivi elettronici."
+            ],
+            "obiettivi_minimi": [
+                "Descrivere le caratteristiche principali di un sistema embedded.",
+                "Sviluppare semplici programmi per il controllo di un microcontrollore.",
+                "Realizzare un circuito base con componenti elettronici e Arduino."
+            ],
+            "prerequisiti": [
+                "Conoscenza di base dell'architettura del computer.",
+                "Esperienza pratica con linguaggi di programmazione.",
+                "Familiarità con l'uso di strumenti di laboratorio elettronico."
+            ],
+            "Tempi": "3 ore a settimana",
+            "esperienze_attivate": [
+                "Attività di laboratorio con Arduino.",
+                "Progetti di gruppo per lo sviluppo di sistemi embedded."
+            ],
+            "Metodologie": [
+                "Lezioni partecipative con utilizzo della LIM.",
+                "Approccio pratico con attività laboratoriale.",
+                "Problem-solving e lavoro di gruppo."
+            ],
+            "risorse_umane": "Docente Alexandra Sheykina, studenti della classe III",
+            "Strumenti": [
+                "Arduino e kit di componenti elettronici.",
+                "Computer con software di sviluppo per Arduino.",
+                "Strumenti di misura come multimetri e oscilloscopi."
+            ],
+            "Valutazioni": [
+                "Valutazioni formative su attività di laboratorio.",
+                "Test scritti su conoscenze teoriche.",
+                "Valutazione di progetti finali."
+            ],
+            "CP": {
+                "compito_prodotto": "Progettazione e realizzazione di un sistema embedded con Arduino.",
+                "Modalita": "In gruppo",
+                "artefatti_consegnati": "Progetto documentato con schemi e codice sorgente.",
+                "Obiettivi": "Applicare concetti di sistemi embedded per realizzare un progetto funzionante.",
+                "Tempi": "3 settimane",
+                "Strumenti": [
+                    "Arduino e kit di componenti.",
+                    "Software di sviluppo e documentazione tecnica."
+                ],
+                "criteri_valutazione": {
+                    "Competenze": [
+                        {
+                            "indicatore": "Progettare e realizzare un sistema embedded funzionante.",
+                            "Base": "Realizza un circuito base e scrive un semplice programma per Arduino.",
+                            "Intermedio": "Integra più componenti e sviluppa un progetto moderatamente complesso.",
+                            "Avanzato": "Sviluppa un sistema avanzato con funzionalità complesse e documentazione completa."
+                        }
+                    ]
+                },
+                "relazione_individuale": {
+                    "domande": [
+                        "1. Descrivi il percorso generale dell'attività",
+                        "2. Indica come avete svolto il compito e cosa hai fatto tu",
+                        "3. Indica quali crisi hai dovuto affrontare e come le hai risolte",
+                        "4. Che cosa hai imparato da questa unità di apprendimento",
+                        "5. Cosa devi ancora imparare",
+                        "6. Come valuti il lavoro da te svolto"
+                    ]
+                }
+            }
+        },
+        {
+            "UNITA DI APPRENDIMENTO": "Comunicazione e networking: networking e tipologia delle reti",
+            "fase_applicazione": "Febbraio-Marzo",
+            "utenti_destinatari": "Alunni della classe III, Istituto Tecnico Settore Tecnologico, indirizzo Informatica e Telecomunicazioni, articolazione Informatica",
+            "Motivazioni": "Introdurre i fondamenti delle reti di comunicazione per focalizzare l'attenzione su un campo chiave dell'informatica moderna.",
+            "competenze_europee": {
+                "costruzione_del_se": {
+                    "imparare_ad_imparare": [
+                        "Sviluppare strategie per apprendere in modo autonomo",
+                        "Pianificare il proprio percorso di apprendimento",
+                        "Valutare i propri progressi e adattare le strategie di apprendimento"
+                    ],
+                    "progettare": [
+                        "Elaborare piani di lavoro per raggiungere obiettivi",
+                        "Analizzare e prevedere le risorse necessarie",
+                        "Adattare i piani in base ai feedback ricevuti"
+                    ]
+                },
+                "competenze_sociali_relazione_con_altri": {
+                    "comunicare": [
+                        "Utilizzare un linguaggio tecnico adeguato",
+                        "Interagire in modo efficace in contesti collaborativi",
+                        "Ascoltare attivamente e rispondere in modo pertinente"
+                    ],
+                    "collaborare_partecipare": [
+                        "Contribuire attivamente alle attività di gruppo",
+                        "Risolvere conflitti in modo costruttivo",
+                        "Condividere informazioni e risorse in modo equo"
+                    ],
+                    "agire_in_modo_autonomo": [
+                        "Prendere decisioni informate in autonomia",
+                        "Gestire il tempo e le risorse personali",
+                        "Assumere responsabilità per il proprio apprendimento"
+                    ]
+                },
+                "rapporto_con_realta_naturale_sociale": {
+                    "risolvere_problemi": [
+                        "Identificare problemi complessi e scomporli in parti più gestibili",
+                        "Sviluppare soluzioni creative e innovative",
+                        "Valutare l'efficacia delle soluzioni implementate"
+                    ],
+                    "individuare_collegamenti_relazioni": [
+                        "Riconoscere relazioni tra concetti e idee",
+                        "Utilizzare conoscenze pregresse per comprendere nuovi contesti",
+                        "Applicare modelli teorici a situazioni pratiche"
+                    ],
+                    "acquisire_interpretare_informazione": [
+                        "Raccogliere dati da fonti diverse",
+                        "Analizzare e interpretare informazioni in modo critico",
+                        "Utilizzare informazioni per prendere decisioni informate"
+                    ]
+                }
+            },
+            "competenze_professionali": [
+                "Configurare e gestire reti locali e geografiche",
+                "Installare e configurare dispositivi di rete",
+                "Progettare reti in base alle esigenze specifiche",
+                "Analizzare protocolli di comunicazione di rete",
+                "Garantire la sicurezza e l'integrità delle reti",
+                "Utilizzare strumenti di monitoraggio e gestione delle reti"
+            ],
+            "competenze_di_area": [
+                "Comprendere le tipologie di reti di comunicazione",
+                "Descrivere i modelli di architettura di rete",
+                "Analizzare il funzionamento dei protocolli di rete",
+                "Valutare le prestazioni delle reti"
+            ],
+            "abilita": [
+                "Identificare le tipologie di reti e le loro caratteristiche",
+                "Configurare dispositivi di rete per una LAN",
+                "Analizzare protocolli di rete come TCP/IP",
+                "Implementare misure di sicurezza per la protezione della rete",
+                "Gestire indirizzamenti IP e subnetting",
+                "Utilizzare strumenti di diagnostica di rete"
+            ],
+            "conoscenze": [
+                "Tipologie di reti: LAN, MAN, WAN",
+                "Protocolli di rete: TCP/IP, UDP",
+                "Struttura e funzionamento degli indirizzi IP",
+                "Tecniche di subnetting e indirizzamento",
+                "Dispositivi di rete: router, switch, access point",
+                "Concetti di sicurezza delle reti",
+                "Strumenti di monitoraggio e diagnostica di rete",
+                "Architettura a strati e modelli ISO/OSI"
+            ],
+            "obiettivi_minimi": [
+                "Comprendere le tipologie di reti di comunicazione",
+                "Identificare i principali protocolli di rete",
+                "Configurare una semplice rete locale"
+            ],
+            "prerequisiti": [
+                "Conoscenza di base dell'architettura del computer",
+                "Competenze elementari di programmazione",
+                "Nozioni preliminari di elettronica"
+            ],
+            "Tempi": "4 ore a settimana",
+            "esperienze_attivate": [
+                "Lezioni partecipative e multimediali con utilizzo della LIM",
+                "Richieste di intervento e correzioni collettive",
+                "Attività laboratoriali tecnico-pratiche"
+            ],
+            "Metodologie": [
+                "Lezioni partecipative",
+                "Lezioni multimediali",
+                "Correzioni collettive",
+                "Attività laboratoriali tecnico-pratiche"
+            ],
+            "risorse_umane": "Docente: Alexandra Sheykina; studenti della classe III",
+            "Strumenti": [
+                "LIM",
+                "Computer",
+                "Software di simulazione di rete",
+                "Strumenti di laboratorio di rete"
+            ],
+            "Valutazioni": [
+                "Verifiche scritte e pratiche",
+                "Osservazioni sistematiche",
+                "Autovalutazioni"
+            ],
+            "CP": {
+                "compito_prodotto": "Progettazione e configurazione di una rete locale",
+                "Modalita": "In gruppo",
+                "artefatti_consegnati": "Documentazione di progetto, configurazioni di rete",
+                "Obiettivi": "Sviluppare competenze nella progettazione e configurazione di reti",
+                "Tempi": "3 settimane",
+                "Strumenti": [
+                    "Computers",
+                    "Software di simulazione",
+                    "Documentazione tecnica"
+                ],
+                "criteri_valutazione": {
+                    "Competenze": [
+                        {
+                            "indicatore": "Configurare una rete locale",
+                            "Base": "Configura una rete con supporto",
+                            "Intermedio": "Configura una rete con minima supervisione",
+                            "Avanzato": "Configura autonomamente una rete complessa"
+                        }
+                    ]
+                },
+                "relazione_individuale": {
+                    "domande": [
+                        "1. Descrivi il percorso generale dell'attività",
+                        "2. Indica come avete svolto il compito e cosa hai fatto tu",
+                        "3. Indica quali crisi hai dovuto affrontare e come le hai risolte",
+                        "4. Che cosa hai imparato da questa unità di apprendimento",
+                        "5. Cosa devi ancora imparare",
+                        "6. Come valuti il lavoro da te svolto"
+                    ]
+                }
+            }
+        },
+        {
+            "UNITA DI APPRENDIMENTO": "Dispositivi per la realizzazione di reti locali",
+            "fase_applicazione": "Marzo-Aprile",
+            "utenti_destinatari": "Classe III, Istituto Tecnico Settore Tecnologico, Indirizzo Informatica e Telecomunicazioni, articolazione Informatica",
+            "Motivazioni": "Comprendere l'hardware di networking necessario per la progettazione e realizzazione di reti locali.",
+            "competenze_europee": {
+                "costruzione_del_se": {
+                    "imparare_ad_imparare": [
+                        "Riconoscere e utilizzare strategie di apprendimento efficace",
+                        "Monitorare il proprio progresso e adattare le strategie di studio",
+                        "Pianificare tempi di studio e impegno in modo autonomo"
+                    ],
+                    "progettare": [
+                        "Elaborare piani di lavoro dettagliati",
+                        "Stabilire obiettivi chiari e realistici",
+                        "Valutare e rivedere il piano di lavoro in base ai risultati ottenuti"
+                    ]
+                },
+                "competenze_sociali_relazione_con_altri": {
+                    "comunicare": [
+                        "Esprimere chiaramente idee e informazioni tecniche",
+                        "Utilizzare terminologia tecnica corretta",
+                        "Ascoltare attivamente e rispondere in modo pertinente"
+                    ],
+                    "collaborare_partecipare": [
+                        "Contribuire attivamente al lavoro di gruppo",
+                        "Rispettare e valutare le opinioni altrui",
+                        "Assumere responsabilità nel gruppo"
+                    ],
+                    "agire_in_modo_autonomo": [
+                        "Prendere decisioni in modo indipendente",
+                        "Gestire autonomamente il proprio lavoro",
+                        "Riconoscere quando chiedere supporto o consulenza"
+                    ]
+                },
+                "rapporto_con_realta_naturale_sociale": {
+                    "risolvere_problemi": [
+                        "Identificare problemi tecnici e proporre soluzioni adeguate",
+                        "Analizzare criticamente le diverse opzioni disponibili",
+                        "Implementare soluzioni efficaci"
+                    ],
+                    "individuare_collegamenti_relazioni": [
+                        "Riconoscere connessioni tra concetti teorici e applicazioni pratiche",
+                        "Integrare conoscenze provenienti da diverse fonti",
+                        "Collegare le teorie alle applicazioni pratiche"
+                    ],
+                    "acquisire_interpretare_informazione": [
+                        "Ricercare e selezionare informazioni rilevanti",
+                        "Interpretare dati tecnici e documentazione",
+                        "Utilizzare le informazioni per supportare le decisioni"
+                    ]
+                }
+            },
+            "competenze_professionali": [
+                "Configurare dispositivi di rete",
+                "Installare e gestire infrastrutture di rete locale",
+                "Identificare e risolvere problemi di connettività",
+                "Utilizzare strumenti di monitoraggio delle reti",
+                "Implementare protocolli di rete",
+                "Garantire la sicurezza delle reti locali"
+            ],
+            "competenze_di_area": [
+                "Conoscenza delle tecnologie di rete",
+                "Abilità nella configurazione di dispositivi di rete",
+                "Capacità di progettare reti locali",
+                "Comprensione dei protocolli di comunicazione"
+            ],
+            "abilita": [
+                "Installare e configurare switch e router",
+                "Progettare l'architettura di una rete locale",
+                "Configurare protocolli VLAN",
+                "Implementare misure di sicurezza di base per le reti locali",
+                "Utilizzare strumenti software per monitorare il traffico di rete",
+                "Identificare e risolvere problemi di rete comuni"
+            ],
+            "conoscenze": [
+                "Tipologie di dispositivi di rete",
+                "Funzionamento dei protocolli di rete",
+                "Struttura e funzionalità delle VLAN",
+                "Tecniche di risoluzione dei problemi di rete",
+                "Concetti di base di sicurezza delle reti",
+                "Utilizzo di strumenti di monitoraggio delle reti"
+            ],
+            "obiettivi_minimi": [
+                "Riconoscere i principali dispositivi di rete",
+                "Comprendere le basi dei protocolli di rete",
+                "Saper configurare una rete locale semplice"
+            ],
+            "prerequisiti": [
+                "Conoscenza di base dei componenti hardware del computer",
+                "Comprensione dei concetti fondamentali di rete",
+                "Capacità di lavorare in gruppo"
+            ],
+            "Tempi": "4 ore a settimana",
+            "esperienze_attivate": [
+                "Laboratori pratici di configurazione di dispositivi di rete",
+                "Simulazioni di reti locali",
+                "Studio di casi reali di progettazione di reti"
+            ],
+            "Metodologie": [
+                "Lezioni frontali",
+                "Attività di laboratorio",
+                "Apprendimento cooperativo",
+                "Utilizzo di strumenti multimediali e LIM",
+                "Problem solving"
+            ],
+            "risorse_umane": "Docente di Sistemi e reti, studenti della classe III",
+            "Strumenti": [
+                "Computer e dispositivi di rete",
+                "Software di simulazione di rete",
+                "LIM",
+                "Manuali tecnici"
+            ],
+            "Valutazioni": [
+                "Test scritto",
+                "Valutazione delle attività di laboratorio",
+                "Lavori di gruppo",
+                "Relazioni individuali"
+            ],
+            "CP": {
+                "compito_prodotto": "Progettare e realizzare una rete locale in laboratorio",
+                "Modalita": "In gruppo",
+                "artefatti_consegnati": "Schema di rete, report tecnico, configurazioni dispositivi",
+                "Obiettivi": "Sviluppare competenze nella progettazione e configurazione di reti locali",
+                "Tempi": "3 settimane",
+                "Strumenti": [
+                    "Computer",
+                    "Switch e router",
+                    "Software di simulazione",
+                    "Manuali tecnici"
+                ],
+                "criteri_valutazione": {
+                    "Competenze": [
+                        {
+                            "indicatore": "Progettare una rete locale",
+                            "Base": "Progetta una rete locale semplice con supporto",
+                            "Intermedio": "Progetta una rete locale con alcune componenti avanzate",
+                            "Avanzato": "Progetta una rete locale complessa in autonomia"
+                        }
+                    ]
+                },
+                "relazione_individuale": {
+                    "domande": [
+                        "1. Descrivi il percorso generale dell'attività",
+                        "2. Indica come avete svolto il compito e cosa hai fatto tu",
+                        "3. Indica quali crisi hai dovuto affrontare e come le hai risolte",
+                        "4. Che cosa hai imparato da questa unità di apprendimento",
+                        "5. Cosa devi ancora imparare",
+                        "6. Come valuti il lavoro da te svolto"
+                    ]
+                }
+            }
+        },
+        {
+            "UNITA DI APPRENDIMENTO": "Le reti Ethernet e lo strato di collegamento",
+            "fase_applicazione": "Aprile-Maggio",
+            "utenti_destinatari": "Alunni di classe III, Istituto Tecnico Settore Tecnologico, indirizzo Informatica e Telecomunicazioni, articolazione Informatica",
+            "Motivazioni": "Esplorare la tecnologia Ethernet per consolidare le conoscenze delle reti locali e dei protocolli di comunicazione.",
+            "competenze_europee": {
+                "costruzione_del_se": {
+                    "imparare_ad_imparare": [
+                        "Riconoscere le proprie modalità di apprendimento",
+                        "Individuare strategie efficaci per l'apprendimento autonomo"
+                    ],
+                    "progettare": [
+                        "Pianificare attività in modo autonomo",
+                        "Definire obiettivi e strategie per il raggiungimento degli stessi"
+                    ]
+                },
+                "competenze_sociali_relazione_con_altri": {
+                    "comunicare": [
+                        "Esprimere chiaramente le idee in modo coerente",
+                        "Usare linguaggio tecnico adeguato al contesto"
+                    ],
+                    "collaborare_partecipare": [
+                        "Lavorare in gruppo in modo costruttivo",
+                        "Contribuire attivamente al raggiungimento degli obiettivi comuni"
+                    ],
+                    "agire_in_modo_autonomo": [
+                        "Assumere responsabilità delle proprie azioni",
+                        "Prendere decisioni autonomamente"
+                    ]
+                },
+                "rapporto_con_realta_naturale_sociale": {
+                    "risolvere_problemi": [
+                        "Identificare problemi complessi e proporre soluzioni creative",
+                        "Valutare diverse opzioni per risolvere un problema"
+                    ],
+                    "individuare_collegamenti_relazioni": [
+                        "Collegare concetti teorici a situazioni pratiche",
+                        "Riconoscere le interrelazioni tra diversi ambiti di conoscenza"
+                    ],
+                    "acquisire_interpretare_informazione": [
+                        "Raccogliere informazioni da fonti varie",
+                        "Valutare criticamente le informazioni raccolte"
+                    ]
+                }
+            },
+            "competenze_professionali": [
+                "Configurare dispositivi di rete Ethernet",
+                "Installare e gestire reti locali",
+                "Analizzare protocolli di comunicazione di rete",
+                "Gestire problematiche di connettività",
+                "Progettare soluzioni di rete affidabili",
+                "Garantire la sicurezza delle reti informatiche"
+            ],
+            "competenze_di_area": [
+                "Comprendere l'architettura e il funzionamento delle reti Ethernet",
+                "Applicare protocolli di comunicazione nello strato di collegamento",
+                "Utilizzare strumenti di diagnostica di rete",
+                "Progettare reti locali efficienti"
+            ],
+            "abilita": [
+                "Configurare e gestire dispositivi Ethernet",
+                "Progettare una rete locale Ethernet",
+                "Diagnosticare e risolvere problemi di rete",
+                "Implementare protocolli di rete nello strato di collegamento",
+                "Assicurare la sicurezza delle informazioni in rete",
+                "Utilizzare strumenti di monitoraggio del traffico di rete"
+            ],
+            "conoscenze": [
+                "Struttura e architettura delle reti Ethernet",
+                "Protocolli di comunicazione nello strato di collegamento",
+                "Dispositivi e strumenti per reti locali",
+                "Concetti di sicurezza nelle reti",
+                "Tecniche di gestione del traffico di rete",
+                "Terminologia tecnica di settore"
+            ],
+            "obiettivi_minimi": [
+                "Riconoscere i componenti di una rete Ethernet",
+                "Descrivere il funzionamento dei protocolli di collegamento",
+                "Utilizzare strumenti di base per la gestione delle reti"
+            ],
+            "prerequisiti": [
+                "Conoscenze di base sulle reti di comunicazione",
+                "Capacità di utilizzare strumenti informatici",
+                "Comprensione di protocolli di rete fondamentali"
+            ],
+            "Tempi": "4 ore a settimana",
+            "esperienze_attivate": [
+                "Laboratori pratici di configurazione di reti Ethernet",
+                "Simulazioni di rete tramite software dedicati",
+                "Discussioni e analisi di casi studio reali"
+            ],
+            "Metodologie": [
+                "Lezioni partecipative",
+                "Lezioni multimediali con utilizzo della LIM",
+                "Attività laboratoriali tecnico-pratiche"
+            ],
+            "risorse_umane": "Docente di Informatica e Telecomunicazioni, studenti",
+            "Strumenti": [
+                "Computer e dispositivi di rete",
+                "Software di simulazione e monitoraggio",
+                "LIM per lezioni interattive"
+            ],
+            "Valutazioni": [
+                "Valutazione formativa tramite osservazione continua",
+                "Test scritti e prove pratiche",
+                "Autovalutazioni degli studenti"
+            ],
+            "CP": {
+                "compito_prodotto": "Progettazione e implementazione di una rete Ethernet locale",
+                "Modalita": "In gruppo",
+                "artefatti_consegnati": "Documentazione del progetto, configurazioni di rete, report finale",
+                "Obiettivi": "Dimostrare la capacità di progettare, configurare e gestire una rete Ethernet",
+                "Tempi": "4 settimane",
+                "Strumenti": [
+                    "Computer, dispositivi di rete, software di monitoraggio"
+                ],
+                "criteri_valutazione": {
+                    "Competenze": [
+                        {
+                            "indicatore": "Capacità di configurare una rete Ethernet",
+                            "Base": "Configura i dispositivi di base di una rete",
+                            "Intermedio": "Configura la rete con protocolli di sicurezza",
+                            "Avanzato": "Ottimizza la configurazione per prestazioni elevate"
+                        }
+                    ]
+                },
+                "relazione_individuale": {
+                    "domande": [
+                        "1. Descrivi il percorso generale dell'attività",
+                        "2. Indica come avete svolto il compito e cosa hai fatto tu",
+                        "3. Indica quali crisi hai dovuto affrontare e come le hai risolte",
+                        "4. Che cosa hai imparato da questa unità di apprendimento",
+                        "5. Cosa devi ancora imparare",
+                        "6. Come valuti il lavoro da te svolto"
+                    ]
+                }
+            }
+        }
+    ]
+}

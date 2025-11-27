@@ -1,0 +1,43 @@
+### Formato output VERIFICA PREREQUISITI
+Dovrai fornire il contenuto tramite un JSON strutturato come segue:
+{
+   "prerequisiti_orale":[{
+        "numero_domande":"numero domande",
+        "tipo_materiale":"tipo materiale didattico",
+        "tipo_domande": "tipo domanda",
+        "criteri_valutazione": "indicare criteri di valutazione",
+        "domande":[
+            {
+                "id": "id domanda espresso in numero",
+                "domanda": "formulazione della domanda",
+                "criteri":"criteri di valutazione e possibili risposte"
+                }
+            ],
+        "istruzioni": [
+            {"id":"id istruzione",
+             "descrizione":"descrizione dell'istruzione per la verifica prerequisiti"}
+          ]
+   }]
+}
+
+
+{
+
+    "Brainstorming":{
+        "type": 0,
+        "tipo_domanda": "Word Cloud",
+        "domanda": "domanda da porre agli studenti",
+        "risposte": "lista di 5 possibili risposte racchiusa tra parentesi ()"
+        "istruzione": {
+            "tipo": "Word Cloud",
+            "descrizione": "descrizione dell'istruzione per verifica prerequisiti"
+        },
+        "quiz": {
+            "type": 1,
+            "domande": [
+            {
+                "domanda": "formulazione della domanda aggiungi simbolo "\n" lista possibili opzioni tra parentesi ()"
+            }]
+    }}
+}
+

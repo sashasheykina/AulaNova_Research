@@ -1,0 +1,14 @@
+"lista_nodi": [{
+    "nodo": "",
+    "punti": "",
+    "modalita_valutazione": "",
+    "obiettivo_minimo": "",
+    "contenuto": "",
+    "lista_elementi": [{
+        "elemento": "",
+        "lista_sub_elementi": [{
+            "sub_elemento": "",
+            "contenuto": ""
+        }]
+    }],
+}]

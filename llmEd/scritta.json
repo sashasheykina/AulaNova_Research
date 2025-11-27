@@ -1,0 +1,132 @@
+{
+  "ordinamento scuola": "Scuola secondaria di II grado",
+  "tipo_scuola": "Istituti Tecnici Settore Economico",
+  "grado": "III",
+  "indirizzo": "Amministrazione, finanza e marketing",
+  "articolazione": "Sistemi informativi aziendali",
+  "disciplina": "Informatica",
+  "docente": "Prof. tor cerino",
+  "durata": 4,
+  "uda": "Introduzione ai Sistemi Informativi Aziendali",
+  "titolo_lezione": "Componenti dei Sistemi Informativi Aziendali",
+  "anno_scolastico": "2024/2025",
+  "data_oggi": "2025-01-30",
+  "numero_bes": 2,
+  "scritta": [
+    {
+      "tipo_materiale": "verifica scritta semi-strutturata",
+      "numero_domande": "10",
+      "tipo_verifica": "semi-strutturata",
+      "struttra": "6 domande a risposta multipla/VF e 4 domande aperte",
+      "descrizione": "Valutare la conoscenza e l'applicazione dei concetti relativi ai Sistemi Informativi Aziendali",
+      "punti": "30",
+      "criteri_valutazione": "Risposte corrette, completezza nell'analisi, capacità di esprimere concetti in modo chiaro",
+      "obiettivo_minimo": "Superamento della verifica con 18 punti su 30",
+      "domande_sm_vf": [
+        {
+          "domande": [
+            {
+              "id_d": "1",
+              "domanda": "Quali sono i componenti principali di un sistema informativo aziendale?",
+              "tipo": "scelta_multipla",
+              "opzioni": [
+                "Hardware, Software, Data, People, Procedures",
+                "Solo Hardware e Software",
+                "Data, People, Internet",
+                "Nessuna delle precedenti"
+              ],
+              "risposta_corretta": "Hardware, Software, Data, People, Procedures"
+            },
+            {
+              "id_d": "2",
+              "domanda": "Il software gestionale è fondamentale per l'efficacia dei processi aziendali. Vero o Falso?",
+              "tipo": "vero/falso",
+              "opzioni": [
+                "Vero",
+                "Falso"
+              ],
+              "risposta_corretta": "Vero"
+            },
+            {
+              "id_d": "3",
+              "domanda": "Qual è il ruolo dei dati in un sistema informativo aziendale?",
+              "tipo": "scelta_multipla",
+              "opzioni": [
+                "Costituire la base per le decisioni aziendali",
+                "Non hanno un ruolo significativo",
+                "Servono solo a backup",
+                "Nessuna delle precedenti"
+              ],
+              "risposta_corretta": "Costituire la base per le decisioni aziendali"
+            },
+            {
+              "id_d": "4",
+              "domanda": "I componenti hardware comprendono solo i computer. Vero o Falso?",
+              "tipo": "vero/falso",
+              "opzioni": [
+                "Vero",
+                "Falso"
+              ],
+              "risposta_corretta": "Falso"
+            },
+            {
+              "id_d": "5",
+              "domanda": "Le procedure nei sistemi informativi aziendali sono definite come:",
+              "tipo": "scelta_multipla",
+              "opzioni": [
+                "Serie di istruzioni per completare un'attività",
+                "Regolamenti legali",
+                "Dipendenti dell'azienda",
+                "Fornitori"
+              ],
+              "risposta_corretta": "Serie di istruzioni per completare un'attività"
+            },
+            {
+              "id_d": "6",
+              "domanda": "L'interazione tra componenti è fondamentale per il funzionamento di un sistema informativo. Vero o Falso?",
+              "tipo": "vero/falso",
+              "opzioni": [
+                "Vero",
+                "Falso"
+              ],
+              "risposta_corretta": "Vero"
+            }
+          ]
+        }
+      ],
+      "domande_a": [
+        {
+          "tipo_domande": "domanda aperta",
+          "domande": [
+            {
+              "id_d": "7",
+              "domanda": "Descrivi come i sistemi informativi aziendali possono supportare le operazioni aziendali.",
+              "criteri": "Completezza nella spiegazione, capacità di connettere i componenti ai benefici operativi"
+            },
+            {
+              "id_d": "8",
+              "domanda": "Spiega l'importanza dei dati all'interno di un sistema informativo aziendale.",
+              "criteri": "Analisi dettagliata, esempi chiari di utilizzo dei dati"
+            },
+            {
+              "id_d": "9",
+              "domanda": "Identifica le conseguenze di un guasto nel software all'interno di un sistema informativo aziendale.",
+              "criteri": "Descrizione delle ripercussioni operative, suggerimenti per mitigare il rischio"
+            },
+            {
+              "id_d": "10",
+              "domanda": "Analizza come un componente hardware difettoso può influenzare l'efficacia dell'intero sistema informativo aziendale.",
+              "criteri": "Capacità di analisi, approfondimento sugli effetti a cascata sul sistema"
+            }
+          ]
+        }
+      ],
+      "istruzioni": [
+        {
+          "id": "1",
+          "descrizione": "Leggi attentamente ogni domanda e rispondi in modo chiaro e conciso. Per le domande a scelta multipla e vero/falso, seleziona l'opzione corretta. Per le domande aperte, fornisci una risposta dettagliata basata sui concetti discussi in classe. Utilizza il tempo a disposizione in modo efficace."
+        }
+      ]
+    }
+  ]
+}

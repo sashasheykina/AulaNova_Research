@@ -1,0 +1,56 @@
+{
+  "ordinamento scuola": "Scuola secondaria di II grado",
+  "tipo_scuola": "Istituto Tecnico Settore Tecnologico",
+  "grado": "Classe III",
+  "indirizzo": "Informatica e Telecomunicazioni",
+  "articolazione": "Informatica",
+  "disciplina": "Sistemi e reti",
+  "docente": "Prof.ssa Alexandra Sheykina",
+  "durata": "160",
+  "uda": "Dispositivi per la realizzazione di reti locali",
+  "titolo_lezione": "Access Point: Utilizzo e Configurazione",
+  "anno_scolastico": "2025/2026",
+  "data_oggi": "2025-11-26",
+  "numero_bes": "2",
+  "prerequisiti_orale": [
+    {
+      "numero_domande": "5",
+      "tipo_materiale": "Elenco di domande per la verifica orale",
+      "tipo_domande": "Domande aperte",
+      "criteri_valutazione": "Chiarezza delle risposte, correttezza delle informazioni, capacità di collegare i concetti",
+      "domande": [
+        {
+          "id": "1",
+          "domanda": "Qual è la funzione principale di una scheda madre in un computer?",
+          "criteri": "Descrivere il ruolo della scheda madre come piattaforma centrale per la comunicazione tra i componenti hardware."
+        },
+        {
+          "id": "2",
+          "domanda": "Qual è il ruolo del processore in un computer?",
+          "criteri": "Spiegare la funzione del processore come unità centrale di elaborazione che esegue istruzioni e comandi."
+        },
+        {
+          "id": "3",
+          "domanda": "Descrivi brevemente come funziona una rete locale.",
+          "criteri": "Definire la rete locale come gruppo di computer e dispositivi collegati per condividere risorse all'interno di un'area limitata."
+        },
+        {
+          "id": "4",
+          "domanda": "Quali sono i componenti essenziali necessari per assemblare un computer?",
+          "criteri": "Elencare componenti come scheda madre, processore, memoria RAM, disco rigido, alimentatore e case."
+        },
+        {
+          "id": "5",
+          "domanda": "Spiega il concetto di indirizzamento IP in una rete.",
+          "criteri": "Descrivere l'indirizzamento IP come sistema numerico che identifica univocamente ogni dispositivo collegato a una rete."
+        }
+      ],
+      "istruzioni": [
+        {
+          "id": "1",
+          "descrizione": "Verifica la comprensione degli studenti sui concetti di base attraverso domande aperte, fornendo feedback immediato."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "ordinamento scuola": "Scuola secondaria di II grado",
+  "tipo_scuola": "Istituto Tecnico Settore Tecnologico",
+  "grado": "III",
+  "indirizzo": "Informatica e Telecomunicazioni",
+  "articolazione": "Informatica",
+  "disciplina": "Sistemi e Reti",
+  "docente": "Prof. Antonio Scelzo",
+  "durata": "330",
+  "Unita_didattica_apprendimento": "Comunicazione e networking",
+  "contesto": "La classe è composta da 10 alunni 9 maschi ed 1 femmina",
+  "titolo_lezione": "Introduzione al Networking e alle Tipologie di Rete",
+  "anno_scolastico": "2024/2025",
+  "data_oggi": "2025-08-07",
+  "numero_bes": "0",
+  "BES": {
+    "lista_bes": [
+      {
+        "bes": "Studente con disabilitÃ  - programmazione differenziata",
+        "misure_dispensative": "Adattamento dei contenuti e delle modalità di verifica",
+        "strumenti_compensativi": "Utilizzo di strumenti digitali e supporto individualizzato"
+      },
+      {
+        "bes": "Studente con dislessia - Disturbi Specifici dellâ€TMApprendimento (DSA)",
+        "misure_dispensative": "Tempi aggiuntivi per le verifiche e lettura facilitata",
+        "strumenti_compensativi": "Sintesi vocale per la lettura dei testi e calcolatrice"
+      }
+    ]
+  },
+  "obiettivi_formativi": {
+    "type": 1,
+    "obiettivo": [
+      {
+        "o": "Introdurre gli studenti ai concetti fondamentali del networking e delle tipologie di rete."
+      },
+      {
+        "o": "Sviluppare una comprensione di base della struttura delle reti."
+      },
+      {
+        "o": "Comprendere l'importanza dei protocolli di rete."
+      }
+    ]
+  },
+  "abilita_capacita": {
+    "type": 1,
+    "abilita": [
+      {
+        "a": "Identificare le diverse tipologie di rete e le loro applicazioni."
+      },
+      {
+        "a": "Descrivere i principali protocolli di rete e le loro funzioni."
+      },
+      {
+        "a": "Configurare una rete locale di base."
+      }
+    ]
+  },
+  "conoscenze": {
+    "type": 1,
+    "conoscenza": [
+      {
+        "c": "Tipologie di reti: punto punto, multipunto, LAN, MAN, WAN."
+      },
+      {
+        "c": "Protocolli di rete: ISO-OSI e TCP-IP."
+      },
+      {
+        "c": "Funzionamento dei dispositivi di rete: router, switch, access point."
+      }
+    ]
+  },
+  "cittadinanze": {
+    "type": 1,
+    "competenze": [
+      {
+        "c": "Imparare ad imparare: Identificare le proprie modalità di apprendimento nel contesto della comunicazione e del networking."
+      },
+      {
+        "c": "Comunicare: Utilizzare un linguaggio tecnico appropriato per descrivere le reti."
+      },
+      {
+        "c": "Collaborare e partecipare: Lavorare efficacemente in gruppo per configurare e testare reti."
+      }
+    ]
+  },
+  "prerequisiti": {
+    "type": 1,
+    "prerequisito": [
+      {
+        "pr": "Conoscenze di base sull'architettura dei computer."
+      },
+      {
+        "pr": "Esperienza con sistemi operativi e loro configurazione."
+      },
+      {
+        "pr": "Capacità di lavorare in gruppo e comunicare in modo efficace."
+      }
+    ]
+  },
+  "strumenti": {
+    "type": 1,
+    "strumento": [
+      {
+        "s": "Software di simulazione di rete."
+      },
+      {
+        "s": "Dispositivi di rete (router, switch, access point)."
+      },
+      {
+        "s": "Documentazione tecnica."
+      }
+    ]
+  },
+  "bmd": {
+    "type": 1,
+    "dispensativi": [
+      {
+        "d": "Tempi aggiuntivi per lo svolgimento delle attività."
+      },
+      {
+        "d": "Riduzione del carico di lavoro per le attività complesse."
+      },
+      {
+        "d": "Utilizzo di mappe concettuali per facilitare la comprensione."
+      }
+    ]
+  },
+  "bsc": {
+    "type": 1,
+    "compensativi": [
+      {
+        "c": "Utilizzo di software di simulazione per visualizzare concetti astratti."
+      },
+      {
+        "c": "Accesso a risorse digitali e tutorial online."
+      },
+      {
+        "c": "Supporto visivo tramite diagrammi e schemi."
+      }
+    ]
+  },
+  "metodologie": {
+    "type": 1,
+    "metodologie": [
+      {
+        "m": "Lezione Frontale"
+      },
+      {
+        "m": "Laboratorio pratico"
+      },
+      {
+        "m": "Discussione guidata"
+      },
+      {
+        "m": "Problem Solving"
+      },
+      {
+        "m": "Cooperative learning"
+      }
+    ]
+  },
+  "criteri_valutazione": {
+    "competenze_indicatori": {
+      "type": 1,
+      "competenza_indicatore": [
+        {
+          "c/i": "Configurare e gestire reti locali e wireless / Capacità di configurare una rete locale semplice (Avanzato: Configura e ottimizza reti locali complesse in autonomia, Intermedio: Configura reti locali con supporto minimo, Base: Configura reti locali semplici con supervisione)"
+        },
+        {
+          "c/i": "Descrivere le funzionalità di protocolli di rete come TCP-IP / Comprensione dei protocolli di rete (Avanzato: Analizza e implementa protocolli di rete complessi, Intermedio: Spiega e utilizza protocolli di rete standard, Base: Comprende protocolli di rete di base)"
+        },
+        {
+          "c/i": "Implementare tecniche di rilevazione degli errori in trasmissione / Applicazione di tecniche di rilevazione degli errori (Avanzato: Implementa soluzioni di rilevazione degli errori in scenari complessi, Intermedio: Applica tecniche di rilevazione degli errori standard, Base: Utilizza tecniche di rilevazione degli errori di base)"
+        }
+      ]
+    }
+  },
+  "verifica": {
+    "type": 1,
+    "orali": [
+      {
+        "o": "Interrogazioni, interventi o discussione in classe"
+      }
+    ],
+    "scritte": [
+      {
+        "s": "Strutturata, semi-strutturata o aperta"
+      }
+    ]
+  },
+  "recupero_potenziamento": {
+    "type": 1,
+    "rp": [
+      {
+        "o": "Sessioni di recupero su concetti chiave di networking."
+      },
+      {
+        "o": "Approfondimenti su protocolli di rete avanzati."
+      },
+      {
+        "o": "Laboratori aggiuntivi per la pratica della configurazione di rete."
+      },
+      {
+        "o": "Tutoraggio individuale per studenti che necessitano di supporto extra."
+      }
+    ]
+  }
+}

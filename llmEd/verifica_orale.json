@@ -1,0 +1,75 @@
+{
+  "ordinamento scuola": "Scuola secondaria di II grado",
+  "tipo_scuola": "Istituto Tecnico Settore Economico",
+  "grado": "III",
+  "indirizzo": "Amministrazione, Finanza e Marketing",
+  "articolazione": "Sistemi Informativi Aziendali",
+  "disciplina": "Informatica",
+  "docente": "Prof.ssa Alexandra Sheykina",
+  "durata": "320",
+  "uda": "Fondamenti di Database Management System (DBMS)",
+  "titolo_lezione": "Modellazione dei dati: Modello E-R",
+  "anno_scolastico": "2024/2025",
+  "data_oggi": "2025-03-17",
+  "numero_bes": 2,
+  "orale": [
+    {
+      "numero_domande": "6",
+      "tipo_materiale": "Domande orali strutturate",
+      "tipo_domande": "domanda aperta",
+      "punti": "30",
+      "criteri_valutazione": "Chiarezza e completezza della risposta, capacità di applicare i concetti, utilizzo del linguaggio tecnico appropriato",
+      "obiettivo_minimo": "18 su 30",
+      "domande": [
+        {
+          "id": "1",
+          "domanda": "Spiega cos'è un diagramma E-R e quali sono i suoi componenti principali.",
+          "criteri": "Descrizione chiara dei componenti principali come entità, attributi e relazioni."
+        },
+        {
+          "id": "2",
+          "domanda": "Come identificheresti le entità in un contesto aziendale? Fornisci un esempio.",
+          "criteri": "Capacità di identificare correttamente le entità con un esempio pertinente."
+        },
+        {
+          "id": "3",
+          "domanda": "Qual è il processo per trasformare un modello E-R in uno schema relazionale?",
+          "criteri": "Descrizione accurata dei passaggi necessari per la trasformazione del modello."
+        },
+        {
+          "id": "4",
+          "domanda": "Descrivi un caso in cui l'uso di un diagramma E-R potrebbe migliorare le operazioni aziendali.",
+          "criteri": "Capacità di applicare il modello E-R in un contesto pratico e migliorare le operazioni aziendali."
+        },
+        {
+          "id": "5",
+          "domanda": "Quali sono le differenze tra attributi semplici e attributi composti in un modello E-R?",
+          "criteri": "Chiarezza nella distinzione tra i due tipi di attributi con esempi."
+        },
+        {
+          "id": "6",
+          "domanda": "Come utilizzeresti un software per la creazione di diagrammi E-R? Descrivi i passaggi.",
+          "criteri": "Descrizione dettagliata dei passaggi per l'utilizzo di un software per la creazione di diagrammi E-R."
+        }
+      ],
+      "istruzioni": [
+        {
+          "id": "1",
+          "descrizione": "Rispondi a ciascuna domanda in modo chiaro e dettagliato, utilizzando esempi ove possibile."
+        },
+        {
+          "id": "2",
+          "descrizione": "Puoi fare riferimento a immagini o schemi visualizzati sulla LIM per supportare le tue risposte."
+        },
+        {
+          "id": "3",
+          "descrizione": "Prenditi il tempo necessario per riflettere prima di rispondere, ma cerca di essere conciso."
+        },
+        {
+          "id": "4",
+          "descrizione": "Utilizza un linguaggio tecnico appropriato e cerca di collegare le risposte ai concetti appresi in classe."
+        }
+      ]
+    }
+  ]
+}

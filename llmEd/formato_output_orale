@@ -1,0 +1,23 @@
+### Formato output VERIFICA ORALE
+Dovrai fornire il contenuto con almeno 6 domande aperte. Dovrai fornire il contenuto tramite un JSON strutturato come segue:Dovrai fornire il contenuto tramite un JSON strutturato come segue:
+{
+   "orale":[{
+        "numero_domande":"numero domande",
+        "tipo_materiale":"tipo materiale didattico",
+        "tipo_domande": "domanda aperta",
+        "punti": "punti_totali",
+        "criteri_valutazione": "indicare criteri di valutazione",
+        "obiettivo_minimo": "Superamento della verifica con quale punteggio su totale",
+        "domande":[
+            {
+                "id": "id domanda espresso in numero",
+                "domanda": "formulazione della domanda",
+                "criteri":"criteri di valutazione"
+                }
+            ],
+        "istruzioni": [
+            {"id":"id istruzione",
+             "descrizione":"descrizione dell'istruzione per test strutturato"}
+          ]
+   }]
+}

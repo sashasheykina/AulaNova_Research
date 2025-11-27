@@ -1,0 +1,30 @@
+### Formato output MATERIALI DIDATTICI
+Considera che per verifica orale devi prevedere 6 domande, per verifica scritta semi-strutturata 4 domande aperte e 6 a risposta multipla. Dovrai fornire la progettazione tramite un JSON strutturato come segue:
+{"materiali_didattici" : [{
+            "attivita":"nome attività",
+            "tipo_materiale": "nome materiale didattico",
+            "tema":"definire il tema del materiale didattico",
+            "obiettivo_materiale": "definire obiettivo della creazione del materiale didattico",
+            "descrizione_materiale": "descrizione materiale didattico",
+            "lista_nodi": [{
+                  "nodo": "descrizione dettagliata del contenuto del materiale didattico",
+                  "punti": "punti totali",
+                  "modalita_valutazione": "chiarire modalità valutazione con assegnazione del punteggio",
+                  "obiettivo_minimo": "superamento su quale punteggio su totale",
+                  "lista_istruzioni": [{
+                    "istruzione": "istruzione dettagliata per gli studenti per completare le attività"
+                    }],
+                  "lista_elementi": [{
+                      "elemento": "indicare nome elemento se è una colonna, caso, contenuto, nodo",
+                      "lista_sub_elementi": [
+                            {"sub_elemento": "definire il nome del sub-elemento se è un post, domanda, ramo",
+                             "contenuto":"definire contenuto del sub-elemento"}
+                          ]
+                }
+              ],
+            "adattamento_bes": "come il materiale didattico può essere adattato per gli studenti BES",
+            "formato/strumento": "indicare formato o strumento materiale didattico"
+            }]
+            }
+       ]
+}

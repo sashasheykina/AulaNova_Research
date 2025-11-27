@@ -1,0 +1,383 @@
+{
+  "docente": "Prof.ssa Alexandra Sheykina",
+  "fasi": [
+    {
+      "FASE": "Verifica dei prerequisiti",
+      "lista_attivita": [
+        {
+          "attivita": "Verifica orale",
+          "descr_att": "Domande orali per verificare la conoscenza di base dei componenti hardware e dei concetti fondamentali di rete.",
+          "metodologia": "Verifica orale",
+          "strumenti": [
+            "LIM"
+          ],
+          "materiali_didattici": [
+            {
+              "materiale_didattico": "Elenco di domande per la verifica orale."
+            }
+          ],
+          "durata": "15 minuti",
+          "di_gruppo": "False",
+          "setting": "Aula con LIM",
+          "adattamento_BES": "Verifica orale anziché scritta per BES, utilizzo di domande semplificate.",
+          "formato/strumento": "Cartaceo e digitale",
+          "sub_attivita": [
+            {
+              "sub_att": "Introduzione alla verifica",
+              "descr_breve": "Presentazione della verifica orale e delle sue modalità agli studenti.",
+              "contenuto": "Si inizia la lezione introducendo l'attività di verifica orale, spiegando che verranno poste domande sui componenti hardware e sui concetti fondamentali di rete. Si chiede agli studenti di prepararsi mentalmente e si fa presente che l'obiettivo è valutare la loro comprensione degli argomenti trattati.",
+              "esposizione": "Oggi effettueremo una verifica orale per valutare la vostra conoscenza sui componenti hardware e sui concetti fondamentali di rete. Vi farò delle domande a cui risponderete uno alla volta. Ricordate che l'obiettivo è capire quanto avete appreso, quindi rispondete con calma e chiarezza.",
+              "esempio": "Esempio di domanda: 'Qual è la funzione principale di una scheda madre in un computer?'"
+            },
+            {
+              "sub_att": "Esecuzione della verifica orale",
+              "descr_breve": "Interrogazione degli studenti con domande mirate su hardware e rete.",
+              "contenuto": "Durante questa fase, gli studenti vengono chiamati uno alla volta per rispondere alle domande preparate. Le domande possono variare in difficoltà per adattarsi al livello di ciascuno studente e si possono utilizzare domande semplificate per gli studenti BES. Si fornisce feedback immediato per ogni risposta.",
+              "esposizione": "Ora iniziamo con le domande. Ricordate che potete chiedere chiarimenti se una domanda non è chiara. Iniziamo con la prima domanda: 'Qual è il ruolo del processore in un computer?'",
+              "esempio": "Domanda per verifica: 'Descrivi brevemente come funziona una rete locale.'"
+            },
+            {
+              "sub_att": "Conclusione della verifica",
+              "descr_breve": "Sintesi finale e feedback agli studenti.",
+              "contenuto": "Al termine delle interrogazioni, si riassumono le risposte corrette e si fornisce un feedback generale alla classe. Si sottolinea l'importanza di riconoscere le aree di miglioramento e si incoraggia lo studio continuo degli argomenti trattati.",
+              "esposizione": "Abbiamo concluso la verifica orale. Complimenti a tutti per l'impegno! Ricordate che è importante continuare a studiare e migliorare nelle aree in cui avete trovato più difficoltà. Se avete domande o dubbi, sono a disposizione per ulteriori chiarimenti.",
+              "esempio": "Feedback: 'La maggior parte di voi ha dimostrato una buona comprensione del funzionamento di base delle reti. Vi invito a rivedere i concetti di indirizzamento IP per migliorare ulteriormente.'"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "FASE": "Nucleo centrale",
+      "lista_attivita": [
+        {
+          "attivita": "Lezione Frontale",
+          "descr_att": "Presentazione delle funzionalità e dei vantaggi degli Access Point nelle reti locali.",
+          "metodologia": "Lezione Frontale",
+          "strumenti": [
+            "LIM",
+            "Computer"
+          ],
+          "materiali_didattici": [
+            {
+              "materiale_didattico": "Presentazione PowerPoint sugli Access Point."
+            }
+          ],
+          "durata": "20 minuti",
+          "di_gruppo": "False",
+          "setting": "Aula con LIM",
+          "adattamento_BES": "Utilizzo di materiali semplificati per BES, mappe concettuali.",
+          "formato/strumento": "Digitale",
+          "sub_attivita": [
+            {
+              "sub_att": "Introduzione agli Access Point",
+              "descr_breve": "Introduzione generale sugli Access Point e la loro importanza nelle reti locali.",
+              "contenuto": "Verranno spiegati cosa sono gli Access Point, come funzionano e perché sono essenziali per le reti Wi-Fi. Saranno descritti i tipi di Access Point e le loro principali caratteristiche.",
+              "esposizione": "Gli Access Point sono dispositivi che consentono ai dispositivi wireless di connettersi a una rete cablata. Essi fungono da ponte tra le reti cablate e wireless, permettendo la comunicazione tra i dispositivi. Gli Access Point possono supportare diversi standard di rete e offrono funzioni come la gestione della sicurezza e la configurazione della rete.",
+              "esempio": "Un esempio comune di Access Point è il router Wi-Fi di casa che collega i dispositivi mobili alla connessione Internet."
+            },
+            {
+              "sub_att": "Funzionalità degli Access Point",
+              "descr_breve": "Descrizione delle principali funzionalità degli Access Point nelle reti locali.",
+              "contenuto": "Saranno illustrate le funzionalità degli Access Point come la gestione del traffico, la sicurezza, il controllo degli accessi e la configurazione. Verranno discussi anche i vantaggi dell'utilizzo di Access Point multipli per estendere la copertura di rete.",
+              "esposizione": "Le funzionalità degli Access Point includono la gestione efficiente del traffico di rete, il controllo degli accessi per garantire la sicurezza e la possibilità di configurare vari parametri di rete. Utilizzando più Access Point, è possibile estendere la copertura della rete Wi-Fi in aree più ampie, migliorando la qualità del segnale e la capacità di gestione del traffico.",
+              "esempio": "In un ufficio, più Access Point possono essere utilizzati per garantire che ogni angolo dell'edificio abbia una copertura Wi-Fi ottimale."
+            },
+            {
+              "sub_att": "Vantaggi degli Access Point",
+              "descr_breve": "Esposizione dei vantaggi derivanti dall'uso degli Access Point nelle reti.",
+              "contenuto": "I principali vantaggi degli Access Point verranno discussi, tra cui l'aumento della copertura di rete, la gestione centralizzata, la scalabilità e l'affidabilità della rete.",
+              "esposizione": "Gli Access Point offrono numerosi vantaggi, come l'aumento della copertura Wi-Fi, la possibilità di gestire centralmente le configurazioni di rete e la scalabilità per adattarsi alle esigenze crescenti di connettività. Inoltre, migliorano l'affidabilità della rete, riducendo i punti di congestione e garantendo una connessione stabile.",
+              "esempio": "In una scuola, l'implementazione di Access Point può garantire che ogni aula e corridoio abbia un segnale Wi-Fi forte e affidabile."
+            }
+          ]
+        },
+        {
+          "attivita": "Laboratorio pratico",
+          "descr_att": "Attività pratica di configurazione di un Access Point.",
+          "metodologia": "Laboratorio pratico",
+          "strumenti": [
+            "Computer",
+            "Access Point",
+            "Software di configurazione"
+          ],
+          "materiali_didattici": [
+            {
+              "materiale_didattico": "Guida passo-passo per la configurazione di Access Point."
+            }
+          ],
+          "durata": "30 minuti",
+          "di_gruppo": "True",
+          "setting": "Laboratorio di informatica",
+          "adattamento_BES": "Supporto aggiuntivo da parte del docente per BES, software di supporto.",
+          "formato/strumento": "Stampato e digitale",
+          "sub_attivita": [
+            {
+              "sub_att": "Introduzione alla configurazione dell'Access Point",
+              "descr_breve": "Spiegazione dei componenti e dell'interfaccia di configurazione dell'Access Point.",
+              "contenuto": "Viene fornita una panoramica dei componenti chiave di un Access Point, come antenne, porte LAN/WAN e indicatori LED. Successivamente, viene illustrata l'interfaccia di configurazione dell'Access Point tramite un browser web, con particolare attenzione alla navigazione nei menu e alla comprensione delle diverse opzioni disponibili.",
+              "esposizione": "L'Access Point è un dispositivo fondamentale nelle reti wireless, che permette ai dispositivi di connettersi alla rete. Si devono conoscere i suoi componenti principali e l'interfaccia di configurazione per gestire le impostazioni di rete. Durante la lezione, verranno illustrati i passaggi per accedere all'interfaccia di gestione tramite browser web.",
+              "esempio": "Accedere all'interfaccia di configurazione di un Access Point tramite l'indirizzo IP di default, ad esempio 192.168.1.1, utilizzando un browser web."
+            },
+            {
+              "sub_att": "Impostazione delle credenziali di accesso",
+              "descr_breve": "Configurazione delle credenziali di accesso per l'Access Point.",
+              "contenuto": "Viene indicato come impostare e modificare le credenziali di accesso predefinite per garantire la sicurezza del dispositivo. Si devono seguire le istruzioni per modificare il nome utente e la password, utilizzando criteri di sicurezza adeguati.",
+              "esposizione": "È essenziale modificare le credenziali di accesso predefinite dell'Access Point per evitare accessi non autorizzati. Durante l'esercitazione, verranno mostrate le impostazioni per cambiare nome utente e password, assicurando che siano sicure e facili da ricordare per l'utente.",
+              "esempio": "Passare dalla schermata di login alla sezione delle impostazioni di sicurezza e modificare il nome utente e la password predefiniti in 'admin' e 'password1234'."
+            },
+            {
+              "sub_att": "Configurazione delle impostazioni di rete",
+              "descr_breve": "Impostazione delle opzioni di rete, come SSID e canale di trasmissione.",
+              "contenuto": "Si devono configurare le impostazioni di rete wireless, come il nome della rete (SSID), la modalità di trasmissione, il canale e la sicurezza della rete. Viene spiegato come scegliere il canale meno congestionato e impostare la crittografia WPA2 per una maggiore sicurezza.",
+              "esposizione": "Per ottimizzare le prestazioni della rete wireless, è fondamentale configurare correttamente l'SSID e il canale di trasmissione. Durante il laboratorio, si vedrà come impostare un SSID univoco e selezionare il canale migliore per ridurre le interferenze. Verrà inoltre configurata la crittografia WPA2 per proteggere la rete da accessi non autorizzati.",
+              "esempio": "Impostare l'SSID su 'ReteScuola', selezionare il canale 6 e abilitare la crittografia WPA2 con una password sicura."
+            },
+            {
+              "sub_att": "Verifica della connessione e risoluzione dei problemi",
+              "descr_breve": "Testare la connessione e risolvere eventuali problemi riscontrati.",
+              "contenuto": "Viene mostrato come verificare la connessione wireless utilizzando diversi dispositivi e come identificare e risolvere i problemi comuni, come l'assenza di connessione o segnali deboli. Si devono seguire i passaggi per eseguire il ping dell'Access Point e verificare le impostazioni di rete.",
+              "esposizione": "Dopo la configurazione, è importante testare la connessione wireless per assicurarsi che funzioni correttamente. In caso di problemi, si devono diagnosticare e risolvere le cause, come errori di configurazione o interferenze. Si useranno strumenti di diagnostica, come il comando ping, per verificare la connettività.",
+              "esempio": "Utilizzare un computer per connettersi alla rete 'ReteScuola' e eseguire il ping dell'Access Point per verificare la connessione."
+            }
+          ]
+        },
+        {
+          "attivita": "Problem Solving",
+          "descr_att": "Risoluzione di problemi comuni nella configurazione degli Access Point.",
+          "metodologia": "Problem Solving",
+          "strumenti": [
+            "Computer",
+            "Access Point"
+          ],
+          "materiali_didattici": [
+            {
+              "materiale_didattico": "Esercizi di problem solving sugli Access Point."
+            }
+          ],
+          "durata": "20 minuti",
+          "di_gruppo": "True",
+          "setting": "Laboratorio di informatica",
+          "adattamento_BES": "Mappe concettuali e appunti strutturati per BES.",
+          "formato/strumento": "Cartaceo e digitale",
+          "sub_attivita": [
+            {
+              "sub_att": "Identificazione del problema",
+              "descr_breve": "Individuazione e comprensione del problema nella configurazione degli Access Point.",
+              "contenuto": "Agli studenti verrà chiesto di analizzare una situazione data in cui la configurazione di un Access Point presenta malfunzionamenti. Dovranno identificare i sintomi del problema e formulare ipotesi sulle possibili cause. Verrà fornito uno scenario dettagliato con informazioni tecniche specifiche.",
+              "esposizione": "Un buon problem solving inizia sempre con l'identificazione accurata del problema. In questo esercizio, sarete chiamati a esaminare uno scenario di rete in cui un Access Point non funziona correttamente. Prestate attenzione ai dettagli forniti nel caso di studio e cercate di individuare i sintomi principali, come errori di connessione, lentezza nella rete o mancata rilevazione del dispositivo.",
+              "esempio": "Scenario: Un nuovo Access Point è stato installato, ma i dispositivi nelle vicinanze non riescono a connettersi alla rete Wi-Fi. Gli studenti devono verificare se l'Access Point è correttamente alimentato, se il SSID è correttamente configurato e visibile, e se le impostazioni di sicurezza sono appropriate."
+            },
+            {
+              "sub_att": "Analisi delle cause",
+              "descr_breve": "Analisi delle possibili cause del problema identificato.",
+              "contenuto": "Gli studenti dovranno discutere e analizzare le possibili cause del problema identificato nella fase precedente. Verranno guidati a considerare diversi aspetti come configurazioni errate, problemi hardware, interferenze o errori software. Saranno forniti strumenti di diagnostica e documentazione tecnica di supporto.",
+              "esposizione": "Una volta identificati i sintomi del problema, è fondamentale analizzare le possibili cause. Discuteremo insieme quali potrebbero essere i motivi alla base del malfunzionamento dell'Access Point. Considerate se le impostazioni sono state configurate correttamente, se l'hardware è integro e se potrebbero esserci interferenze o errori nel software.",
+              "esempio": "Gli studenti potrebbero ipotizzare che il problema sia causato da interferenze con altre reti Wi-Fi, un firmware obsoleto sull'Access Point o un errore nella configurazione delle impostazioni di sicurezza."
+            },
+            {
+              "sub_att": "Pianificazione delle soluzioni",
+              "descr_breve": "Sviluppo di un piano per risolvere il problema identificato.",
+              "contenuto": "In questa fase, gli studenti dovranno elaborare un piano dettagliato per risolvere il problema. Dovranno scegliere le soluzioni più appropriate tra quelle discusse e pianificare i passaggi necessari per implementarle. Verrà fornito un modulo di pianificazione per aiutare gli studenti a organizzare le loro idee.",
+              "esposizione": "Dopo aver analizzato le cause, è il momento di pianificare le soluzioni. Dovrete scegliere l'approccio migliore per risolvere il problema e delineare i passaggi chiave per implementare la vostra soluzione. Utilizzate il modulo di pianificazione per organizzare le vostre idee in modo chiaro e logico.",
+              "esempio": "Gli studenti potrebbero decidere di aggiornare il firmware dell'Access Point, modificare il canale Wi-Fi per ridurre le interferenze, e rivedere le impostazioni di sicurezza per garantire una connessione stabile."
+            },
+            {
+              "sub_att": "Implementazione e verifica",
+              "descr_breve": "Esecuzione del piano e verifica dell'efficacia delle soluzioni applicate.",
+              "contenuto": "Gli studenti dovranno mettere in pratica il piano elaborato e monitorare i risultati ottenuti. Dovranno verificare se il problema è stato risolto e documentare i passaggi intrapresi e i risultati ottenuti. Saranno forniti strumenti di monitoraggio e un template per la relazione finale.",
+              "esposizione": "È arrivato il momento di mettere in atto il vostro piano. Seguite i passaggi che avete pianificato e verificate attentamente se il problema è stato risolto. Documentate tutto il processo, inclusi i risultati ottenuti e eventuali difficoltà incontrate, utilizzando il template fornito.",
+              "esempio": "Dopo l'aggiornamento del firmware e la modifica delle impostazioni di rete, gli studenti verificano che il problema di connessione è stato risolto. Annotano i passaggi seguiti e i risultati nel loro report finale."
+            }
+          ]
+        },
+        {
+          "attivita": "Cooperative learning",
+          "descr_att": "Gli studenti lavorano in gruppi per configurare e testare un Access Point in un ambiente simulato.",
+          "metodologia": "Cooperative learning",
+          "strumenti": [
+            "Computer",
+            "Access Point",
+            "Software di simulazione"
+          ],
+          "materiali_didattici": [
+            {
+              "materiale_didattico": "Istruzioni per il lavoro di gruppo sulla configurazione degli Access Point."
+            }
+          ],
+          "durata": "25 minuti",
+          "di_gruppo": "True",
+          "setting": "Laboratorio di informatica",
+          "adattamento_BES": "Supporto da parte del docente e divisione dei compiti per BES.",
+          "formato/strumento": "Digitale",
+          "sub_attivita": [
+            {
+              "sub_att": "Formazione dei gruppi",
+              "descr_breve": "Creazione di gruppi di lavoro bilanciati.",
+              "contenuto": "Gli studenti sono divisi in gruppi eterogenei, ciascuno composto da 3-4 membri. Si devono considerare le competenze individuali e le dinamiche interpersonali per ottenere gruppi equilibrati.",
+              "esposizione": "Per iniziare, si formano i gruppi di lavoro. Ogni gruppo dovrebbe essere composto da 3-4 studenti, selezionati per bilanciare diverse competenze e promuovere la collaborazione. Considerare le abilità tecniche e la capacità di lavoro in team per creare gruppi efficaci.",
+              "esempio": "Gruppo 1: Mario, Luca, Anna; Gruppo 2: Sara, Giovanni, Elisa."
+            },
+            {
+              "sub_att": "Assegnazione dei ruoli",
+              "descr_breve": "Ogni membro del gruppo riceve un ruolo specifico.",
+              "contenuto": "Verranno assegnati ruoli specifici a ciascun membro del gruppo, come leader, responsabile delle note, tecnico e presentatore. Ogni studente avrà la responsabilità di svolgere il proprio compito per il successo del gruppo.",
+              "esposizione": "Assegnate ruoli specifici a ogni membro del gruppo, come leader, responsabile delle note, tecnico e presentatore. Questo aiuta a organizzare il lavoro e assicura che tutti contribuiscano al progetto.",
+              "esempio": "Nel Gruppo 1, Mario è il leader, Luca è il tecnico, e Anna è la presentatrice."
+            },
+            {
+              "sub_att": "Svolgimento dell'attività",
+              "descr_breve": "Configurazione e test dell'Access Point in un ambiente simulato.",
+              "contenuto": "Gli studenti seguiranno istruzioni dettagliate per configurare e testare un Access Point utilizzando software di simulazione. Dovranno collaborare per risolvere eventuali problemi e verificare il corretto funzionamento del sistema.",
+              "esposizione": "I gruppi iniziano la configurazione dell'Access Point utilizzando un software di simulazione. Collaborano per risolvere problemi e verificare il funzionamento. Ogni membro contribuisce secondo il proprio ruolo, promuovendo il lavoro di squadra.",
+              "esempio": "Il gruppo simula la configurazione di un Access Point, risolvendo problemi di connettività e testando la rete."
+            },
+            {
+              "sub_att": "Riflessione e feedback",
+              "descr_breve": "Discussione finale e condivisione di feedback tra i gruppi.",
+              "contenuto": "Al termine dell'attività, i gruppi riflettono sulla loro esperienza e condividono feedback con gli altri. Questo aiuta a migliorare le competenze di collaborazione e a identificare aree di miglioramento.",
+              "esposizione": "Alla fine dell'attività, riflettete sul lavoro di gruppo e condividete i feedback con gli altri. Questo offre l'opportunità di migliorare la collaborazione e identificare aree di miglioramento.",
+              "esempio": "Ogni gruppo presenta le proprie conclusioni e riceve feedback dagli altri gruppi e dal docente."
+            }
+          ]
+        },
+        {
+          "attivita": "Discussione guidata",
+          "descr_att": "Discussione sui vantaggi e le sfide nell'uso degli Access Point.",
+          "metodologia": "Discussione guidata",
+          "strumenti": [
+            "LIM"
+          ],
+          "materiali_didattici": [
+            {
+              "materiale_didattico": "Domande guida per la discussione sugli Access Point."
+            }
+          ],
+          "durata": "20 minuti",
+          "di_gruppo": "True",
+          "setting": "Aula con LIM",
+          "adattamento_BES": "Discussione semplificata per BES, utilizzo di mappe concettuali.",
+          "formato/strumento": "Digitale",
+          "sub_attivita": [
+            {
+              "sub_att": "Introduzione alla discussione",
+              "descr_breve": "Introduzione e presentazione degli argomenti per la discussione.",
+              "contenuto": "Si inizia con una breve introduzione sull'importanza degli Access Point nelle reti locali e si spiegano le regole per una discussione produttiva. Gli studenti vengono invitati a riflettere sui vantaggi e le sfide degli Access Point e a preparare alcune domande o osservazioni da condividere.",
+              "esposizione": "Gli Access Point giocano un ruolo cruciale nelle reti locali, estendendo la connettività wireless e migliorando la copertura. Discutiamo insieme dei loro vantaggi come la scalabilità e le sfide come la sicurezza e la gestione della rete. Preparate alcune domande o pensieri da condividere con il gruppo.",
+              "esempio": "Ad esempio, potete pensare a come gli Access Point potrebbero migliorare la connettività nella vostra scuola o quali problemi potrebbero sorgere in un ambiente molto affollato."
+            },
+            {
+              "sub_att": "Discussione in piccoli gruppi",
+              "descr_breve": "Gli studenti discutono in piccoli gruppi i vantaggi e le problematiche degli Access Point.",
+              "contenuto": "Gli studenti vengono divisi in piccoli gruppi e ciascun gruppo discute i punti di forza e le eventuali problematiche legate all'uso degli Access Point. Viene chiesto a ciascun gruppo di nominare un portavoce che riporterà le conclusioni al termine della discussione.",
+              "esposizione": "Ora, divisi in piccoli gruppi, discutete dei vantaggi e delle sfide presentate dagli Access Point. Nominate un portavoce che riporterà le vostre conclusioni alla classe.",
+              "esempio": "In gruppi, riflettete su come gli Access Point potrebbero permettere la connessione in aree scolastiche meno coperte e discutete possibili soluzioni per minimizzare i rischi di sicurezza."
+            },
+            {
+              "sub_att": "Condivisione e sintesi",
+              "descr_breve": "Condivisione delle conclusioni e sintesi della discussione.",
+              "contenuto": "I portavoce di ciascun gruppo condividono con la classe i risultati delle loro discussioni. Viene fatto un riepilogo delle idee principali, ponendo particolare attenzione ai diversi punti di vista emersi. Il docente guida la classe nella sintesi delle conclusioni e chiarisce eventuali dubbi.",
+              "esposizione": "Invitiamo ora i portavoce dei gruppi a condividere le conclusioni delle loro discussioni. Presteremo attenzione ai diversi punti di vista emersi e lavoreremo insieme per sintetizzare le idee principali.",
+              "esempio": "Un gruppo potrebbe evidenziare il problema della sicurezza, mentre un altro potrebbe suggerire soluzioni innovative per migliorare la copertura. Questi spunti verranno poi discussi e sintetizzati in classe."
+            },
+            {
+              "sub_att": "Conclusione",
+              "descr_breve": "Chiusura della discussione e riflessioni finali.",
+              "contenuto": "Si conclude la discussione con alcune riflessioni finali e si ringraziano gli studenti per la partecipazione attiva. Viene chiesto agli studenti di pensare a possibili applicazioni pratiche delle idee discusse e di come potrebbero implementarle nel loro contesto.",
+              "esposizione": "Concludiamo la nostra discussione ringraziandovi per le idee condivise. Vi invitiamo a pensare a come potreste applicare queste idee nella vostra esperienza quotidiana e quali nuove soluzioni potreste proporre in futuro.",
+              "esempio": "Gli studenti possono riflettere su come gli Access Point potrebbero essere utilizzati in progetti futuri o in quali contesti potrebbero migliorare la loro esperienza di rete."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "FASE": "Verifica degli obiettivi",
+      "lista_attivita": [
+        {
+          "attivita": "Verifica scritta",
+          "descr_att": "Test scritto strutturato sugli Access Point e la loro configurazione.",
+          "metodologia": "Verifica scritta",
+          "strumenti": [
+            "Foglio di verifica",
+            "Penna"
+          ],
+          "materiali_didattici": [
+            {
+              "materiale_didattico": "Test scritto sugli Access Point."
+            }
+          ],
+          "durata": "15 minuti",
+          "di_gruppo": "False",
+          "setting": "Aula",
+          "adattamento_BES": "Tempi aggiuntivi e verifica orale anziché scritta per BES.",
+          "formato/strumento": "Cartaceo",
+          "sub_attivita": [
+            {
+              "sub_att": "Preparazione del test",
+              "descr_breve": "Creazione e stampa dei test scritti sugli Access Point.",
+              "contenuto": "Verrà preparato un test scritto che copre tutti gli argomenti trattati riguardo gli Access Point, inclusa la loro configurazione e utilizzo. Il test sarà strutturato con domande a risposta multipla, domande aperte e problemi da risolvere. I test saranno stampati e distribuiti a tutti gli studenti.",
+              "esposizione": "Il test scritto è un'opportunità per valutare le conoscenze acquisite dagli studenti sugli Access Point. Comprenderà una varietà di domande per coprire aspetti teorici e pratici. Sarà fondamentale assicurarsi che gli studenti abbiano compreso appieno l'argomento e siano in grado di applicare le loro conoscenze in contesti pratici.",
+              "esempio": "Esempio di domanda: 'Descrivere il processo di configurazione di un Access Point e spiegare le sue principali funzionalità.'"
+            },
+            {
+              "sub_att": "Svolgimento del test",
+              "descr_breve": "Somministrazione del test scritto in aula.",
+              "contenuto": "Gli studenti dovranno completare il test scritto entro il tempo prestabilito di 15 minuti. Sarà fornita una breve spiegazione iniziale delle istruzioni e si assicurerà che ogni studente abbia compreso le domande. Durante il test, gli studenti dovranno lavorare in silenzio e individualmente.",
+              "esposizione": "Il test scritto sarà somministrato in aula e gli studenti avranno 15 minuti per completarlo. È importante che gli studenti leggano attentamente le istruzioni e rispondano a tutte le domande al meglio delle loro capacità. Questo test servirà a valutare la loro comprensione complessiva degli Access Point.",
+              "esempio": "Durante il test, gli studenti devono rispondere a domande come: 'Quali sono i vantaggi principali dell'utilizzo di un Access Point in una rete domestica?'"
+            },
+            {
+              "sub_att": "Correzione e feedback",
+              "descr_breve": "Correzione dei test e fornitura di feedback agli studenti.",
+              "contenuto": "I test verranno corretti dal docente e i risultati saranno comunicati agli studenti. Verrà fornito un feedback dettagliato su ogni risposta, evidenziando punti di forza e aree di miglioramento. Gli studenti saranno incoraggiati a porre domande per chiarire eventuali dubbi.",
+              "esposizione": "Dopo la correzione dei test, verranno forniti feedback dettagliati a ciascuno studente per aiutarli a comprendere meglio l'argomento. Questo è un momento importante per chiarire eventuali errori e migliorare ulteriormente la comprensione degli Access Point.",
+              "esempio": "Un feedback potrebbe includere: 'Hai mostrato una buona comprensione delle funzionalità degli Access Point, ma sarebbe utile rivedere il processo di configurazione.'"
+            }
+          ]
+        },
+        {
+          "attivita": "Verifica orale",
+          "descr_att": "Interrogazione orale sugli argomenti trattati durante la lezione.",
+          "metodologia": "Verifica orale",
+          "strumenti": [
+            "LIM"
+          ],
+          "materiali_didattici": [
+            {
+              "materiale_didattico": "Elenco di domande orali per la verifica."
+            }
+          ],
+          "durata": "15 minuti",
+          "di_gruppo": "False",
+          "setting": "Aula con LIM",
+          "adattamento_BES": "Domande semplificate e supporto visivo per BES.",
+          "formato/strumento": "Digitale",
+          "sub_attivita": [
+            {
+              "sub_att": "Preparazione delle domande",
+              "descr_breve": "Creazione di un elenco di domande per la verifica orale.",
+              "contenuto": "Le domande devono essere preparate in anticipo, coprendo i concetti fondamentali di hardware e rete. È importante che le domande siano formulate in modo semplice e diretto per facilitare la comprensione da parte degli studenti.",
+              "esposizione": "Le domande sono state suddivise in categorie, come componenti hardware e concetti di rete, per coprire tutti gli aspetti chiave. Si è cercato di includere una varietà di domande che stimolino la riflessione e la comprensione profonda degli argomenti.",
+              "esempio": "Quali sono le principali funzioni di una scheda madre? Spiega la differenza tra un router e uno switch."
+            },
+            {
+              "sub_att": "Esecuzione della verifica orale",
+              "descr_breve": "Conduzione della verifica orale in classe.",
+              "contenuto": "Gli studenti devono essere chiamati uno alla volta per rispondere alle domande preparate. È importante fornire feedback immediato e, se necessario, spiegazioni aggiuntive per chiarire eventuali dubbi.",
+              "esposizione": "Durante la verifica, si è proceduto a chiamare gli studenti uno alla volta, ponendo loro le domande preparate. L'attenzione è stata rivolta non solo alla correttezza delle risposte, ma anche alla capacità di ragionamento e collegamento tra i concetti appresi.",
+              "esempio": "Lo studente A viene chiamato a rispondere alla domanda: 'Qual è la funzione principale di un router?' e spiega correttamente il concetto."
+            },
+            {
+              "sub_att": "Adattamento per BES",
+              "descr_breve": "Adattamento delle domande per studenti con Bisogni Educativi Speciali.",
+              "contenuto": "Le domande devono essere modificate per essere più semplici e dirette. Si possono utilizzare supporti visivi o mappe concettuali per facilitare la comprensione e l'esposizione degli studenti.",
+              "esposizione": "Per gli studenti con BES, le domande sono state semplificate e formulate in modo più chiaro. Sono stati utilizzati supporti visivi, come mappe concettuali, per aiutare nella comprensione e nella formulazione delle risposte.",
+              "esempio": "Allo studente B, con BES, viene chiesto: 'Mostra su questa mappa concettuale dove si trova il router e spiega la sua funzione.'"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

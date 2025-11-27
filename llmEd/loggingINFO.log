@@ -1,0 +1,528 @@
+2025-03-14 20:30:34,652 - ERROR - [User ID: documenti\sasha.sash] - [Function: dettaglioUDA] - Errore nel decodificare il JSON: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2025-03-14 20:30:34,652 - ERROR - [User ID: documenti\sasha.sash] - [Function: dettaglioUDA] - Contenuto JSON estratto:
+{[
+"UNITA DI APPRENDIMENTO":"Sistemi informativi aziendali e loro implementazione",
+"fase_applicazione":"Settembre-Novembre",
+"utenti_destinatari":"Alunni della classe III, Istituto Tecnico Settore Economico, indirizzo Amministrazione, Finanza e Marketing, articolazione Sistemi informativi aziendali",
+"Motivazioni": "Introduzione ai sistemi informativi aziendali, fondamentali per il contesto economico-tecnico. La trattazione iniziale permetterà agli studenti di comprendere le basi necessarie per il loro proseguimento degli studi e per le discipline correlate come l'economia aziendale.",
+"competenze_europee": {
+        "costruzione_del_se": {
+            "imparare_ad_imparare": [
+                "Riconoscere le proprie modalità di apprendimento",
+                "Adattare strategie di studio ai contenuti disciplinari"
+            ],
+            "progettare": [
+                "Pianificare attività di apprendimento autonomo",
+                "Elaborare obiettivi personali di apprendimento"
+            ]
+        },
+        "competenze_sociali_relazione_con_altri": {
+            "comunicare": [
+                "Esprimere idee e concetti con chiarezza",
+                "Utilizzare un linguaggio appropriato al contesto"
+            ],
+            "collaborare_partecipare": [
+                "Condividere informazioni e risorse con il gruppo",
+                "Partecipare attivamente alle attività di gruppo"
+            ],
+            "agire_in_modo_autonomo": [
+                "Prendere iniziative nel processo di apprendimento",
+                "Gestire compiti in modo responsabile"
+            ]
+        },
+        "rapporto_con_realta_naturale_sociale": {
+            "risolvere_problemi": [
+                "Analizzare situazioni problematiche e identificare soluzioni",
+                "Applicare conoscenze per risolvere problemi complessi"
+            ],
+            "individuare_collegamenti_relazioni": [
+                "Riconoscere relazioni tra concetti e fenomeni diversi",
+                "Collegare esperienze di apprendimento a contesti reali"
+            ],
+            "acquisire_interpretare_informazione": [
+                "Selezionare e valutare informazioni pertinenti",
+                "Interpretare dati e informazioni in modo critico"
+            ]
+        }
+    },
+"competenze_professionali":
+    ["Progettare sistemi informativi aziendali",
+     "Implementare soluzioni tecnologiche per la gestione dei dati",
+     "Utilizzare DBMS per la gestione aziendale",
+     "Analizzare flussi informativi aziendali",
+     "Adattare software applicativi alle esigenze aziendali",
+     "Utilizzare strumenti di comunicazione integrata d’impresa"],
+"competenze_di_area":
+    ["Riconoscere le componenti di un sistema informativo",
+     "Valutare l'efficacia di un sistema informativo aziendale",
+     "Progettare database aziendali",
+     "Gestire flussi informativi in contesti aziendali"],
+"abilita":
+    ["Rappresentare l'architettura di un sistema informativo aziendale",
+     "Documentare le fasi di raccolta, archiviazione e utilizzo dei dati",
+     "Realizzare tabelle e relazioni di un Data Base",
+     "Utilizzare le funzioni di un DBMS per estrapolare informazioni",
+     "Progettare e implementare soluzioni informatiche aziendali",
+     "Individuare procedure innovative per migliorare l'organizzazione aziendale"],
+"conoscenze":
+    ["Sistema Informativo e sistema informatico",
+     "Funzioni di un Data Base Management System (DBMS)",
+     "Struttura di un Data Base",
+     "Progettazione di Data Base",
+     "Linguaggio SQL",
+     "Servizi di rete a supporto dell’azienda"],
+"prerequisiti":
+    ["Conoscenza base dei sistemi operativi",
+     "Comprensione delle strutture dati",
+     "Capacità di utilizzare software di base per la gestione dei dati"],
+"Tempi":"4 ore a settimana",
+"esperienze_attivate":
+    ["Progetti di gruppo su casi di studio aziendali",
+     "Laboratori pratici con utilizzo di DBMS"],
+"Metodologie":
+    ["Lezioni frontali",
+     "Lavori di gruppo",
+     "Attività laboratoriali",
+     "Discussioni guidate",
+     "Utilizzo della LIM per lezioni multimediali"],
+"risorse_umane":"Docenti di Informatica, Studenti",
+"Strumenti":
+    ["LIM",
+     "PC e software DBMS",
+     "Materiali didattici multimediali"],
+"Valutazioni":
+    ["Valutazioni formative tramite test e verifiche",
+     "Prove pratiche",
+     "Osservazioni durante le attività laboratoriali"],
+"CP":{
+    "compito_prodotto":"Progettazione e implementazione di un sistema informativo aziendale simulato",
+    "Modalita":"In gruppo",
+    "artefatti_consegnati":"Report del progetto, schema del database, documentazione delle fasi di sviluppo",
+    "Obiettivi":"Applicare conoscenze teoriche alla progettazione pratica, sviluppare competenze di lavoro in gruppo e gestione di progetti",
+    "Tempi":"4 settimane",
+    "Strumenti":
+        ["Software DBMS",
+         "Materiali di riferimento",
+         "Supporto del docente"],
+    "criteri_valutazione":{
+        "Competenze":[
+            {
+                "indicatore":"Progettare e implementare un sistema informativo aziendale",
+                "Base":"Realizza parzialmente il sistema informativo con guida",
+                "Intermedio":"Progetta e implementa il sistema informativo con alcune indicazioni",
+                "Avanzato":"Progetta e implementa autonomamente un sistema informativo completo"
+                }
+            ]},
+    "relazione_individuale":{
+        "domande":[
+            "1. Descrivi il percorso generale dell'attività",
+            "2. Indica come avete svolto il compito e cosa hai fatto tu",
+            "3. Indica quali crisi hai dovuto affrontare e come le hai risolte",
+            "4. Che cosa hai imparato da questa unità di apprendimento",
+            "5. Cosa devi ancora imparare",
+            "6. Come valuti il lavoro da te svolto"
+        ]
+    }
+  }]
+}
+2025-03-14 20:30:34,778 - ERROR - [User ID: documenti\sasha.sash] - [Function: dettaglioUDA] - role_user: Io ti fornirò l'analisi del profilo della classe e l'anno di riferimento, numero ore settimanali, monte ore annuo, nome docente, l'elenco delle UDA, la UDA di riferimento, includi tutti metodologie didattiche nella progettazione, esempio di relazione individuale da proporre allo studente e tu restituirai il dettaglio dell’unità didattica di apprendimento per la Progettazione Disciplinare nel formato richiesto.  ### CONTESTO CLASSE ### ANALISI PROFILO CLASSE  La classe è composta da 15 alunni, 11 maschi e 4 femmine, provenienti dalle sezioni E ed F. Vi è la presenza di un’alunna diversamente abile che segue una programmazione differenziata, 4 alunni ripetenti di cui uno che il precedente anno scolastico era stato seguito dai docenti con un PDP ed un altro che ha interrotto ufficialmente la frequenza scolastica il 6 ottobre 2021. La classe è vivace ma appare unita e abbastanza collaborativa. La maggior parte degli alluni partecipa con interesse al dialogo educativo e alle attività proposte. Dall’analisi iniziale è emerso un rendimento medio sufficiente, e l’atteggiamento verso la materia è di discreto interesse e curiosità. Per ciò che attiene il rendimento, si distinguono 3 gruppi: un primo gruppo si distingue per un'applicazione costante e per un buon livello di sviluppo delle capacità logiche, espressive e operative e per il fatto che esegue compiti in modo autonomo e responsabile con buona consapevolezza e padronanza delle conoscenze. Un secondo gruppo rientra nell'ambito di un livello soddisfacente dal momento che presenta un discreto sviluppo delle abilità di base ed un’applicazione nel complesso adeguata. Infine, un terzo gruppo presenta delle competenze acquisite in maniera essenziale che rivelano incertezze metodologiche e un approccio allo studio che necessita di maturare. Per tali motivi, l'insegnamento della disciplina si baserà, fondamentalmente, su un continuo stimolo alla partecipazione attiva degli alunni alle attività didattiche. Si terranno, lezioni partecipative e lezioni multimediali attraverso l’utilizzo della LIM, con richieste di intervento da posto e con correzioni collettiva degli esercizi, nonché attività laboratoriali tecnico-pratiche.
+. ### GRADO CLASSE  III ad indirizzo Amministrazione, finanza e marketing, articolazione Sistemi informativi aziendali.   ### NUMERO ORE SETTIMANALI 4 ### TOTALE ORE ANNO 132. ### DOCENTE: Sasha Sash.  ### ELENCO UDA: {'BES/DSA': [{'Nome': 'Alunna diversamente abile con programmazione differenziata'}, {'Nome': 'Studente con PDP (anno precedente)'}], 'Unita Didattiche': [{'UDA': 'Sistemi informativi aziendali e loro implementazione', 'Periodo': 'Settembre-Novembre', 'Motivazioni': "Introduzione ai sistemi informativi aziendali, fondamentali per il contesto economico-tecnico. La trattazione iniziale permetterà agli studenti di comprendere le basi necessarie per il loro proseguimento degli studi e per le discipline correlate come l'economia aziendale."}, {'UDA': 'Gestione di Database e utilizzo dei DBMS', 'Periodo': 'Dicembre-Febbraio', 'Motivazioni': 'In un indirizzo legato ai sistemi informativi, la gestione dei dati è centrale. Gli studenti apprenderanno a progettare e gestire database utilizzando DBMS, integrando conoscenze di gestione dati fondamentali nella realtà aziendale moderna.'}, {'UDA': 'Linguaggi del Web e progettazione di siti', 'Periodo': 'Marzo-Aprile', 'Motivazioni': "Le competenze legate al web sono essenziali. Attraverso quest'UDA, si intende formare gli studenti sulle tecnologie web, promuovendo capacità operative e progettuali utili per le comunicazioni aziendali e il marketing moderno."}, {'UDA': 'Progettazione di ipermedia e strumenti di comunicazione integrata', 'Periodo': 'Maggio', 'Motivazioni': "Concludere l'anno scolastico con progetti pratici che integrano le competenze acquisite nei mesi precedenti, stimolando l'applicazione pratica e il lavoro collaborativo. Saranno realizzati ipermedia per simulare progetti aziendali reali, avvicinando così teoria e pratica."}]}  ### UDA: {'UDA': 'Sistemi informativi aziendali e loro implementazione', 'Periodo': 'Settembre-Novembre', 'Motivazioni': "Introduzione ai sistemi informativi aziendali, fondamentali per il contesto economico-tecnico. La trattazione iniziale permetterà agli studenti di comprendere le basi necessarie per il loro proseguimento degli studi e per le discipline correlate come l'economia aziendale."}.### RELAZIONE INDIVIDUALE: {
+  "diario": {
+    "tipo_materiale": "Autovalutazione Compito-Prodotto",
+    "domande": [
+      {"domanda": "1. Descrivi il percorso generale dell'attività"},
+      {"domanda": "2. Indica come avete svolto il compito e cosa hai fatto tu"},
+      {"domanda": "3. Indica quali crisi hai dovuto affrontare e come le hai risolte"},
+      {"domanda": "4. Che cosa hai imparato da questa unità di apprendimento"},
+      {"domanda": "5. Cosa devi ancora imparare"},
+      {"domanda": "6. Come valuti il lavoro da te svolte"}
+    ]
+  }
+}. **Importante:** Considera il seguente commento per fornire meglio la tua risposta se presente: .DETTAGLIO UDA: 
+2025-03-24 12:47:39,960 - DEBUG - [User ID: documenti\maria stella.pastore] - [Function: dettaglioUDA] - Errore nel decodificare il JSON: Expecting ',' delimiter: line 126 column 2 (char 6504)
+2025-03-24 12:47:40,160 - DEBUG - [User ID: documenti\maria stella.pastore] - [Function: dettaglioUDA] - Contenuto JSON estratto:
+{
+"UNITA DI APPRENDIMENTO": "Protocolli e Servizi Web",
+"fase_applicazione": "Dicembre-Febbraio",
+"utenti_destinatari": "Alunni della classe V indirizzo Informatica e Telecomunicazioni, articolazione Informatica",
+"Motivazioni": "Introdurre gli studenti ai protocolli e linguaggi di comunicazione a livello applicativo e alle tecnologie per la realizzazione di web-service, contribuendo a sviluppare abilità nella progettazione e realizzazione di applicazioni orientate ai servizi.",
+"competenze_europee": {
+        "costruzione_del_se": {
+            "imparare_ad_imparare": [
+                "Riconoscere e utilizzare fonti di informazione pertinenti",
+                "Adattare le strategie di apprendimento in base ai feedback ricevuti"
+            ],
+            "progettare": [
+                "Sviluppare piani di lavoro dettagliati per la realizzazione di applicazioni web",
+                "Analizzare i requisiti di progetto e pianificare le attività"
+            ]
+        },
+        "competenze_sociali_relazione_con_altri": {
+            "comunicare": [
+                "Presentare in modo chiaro e conciso i progetti realizzati",
+                "Utilizzare linguaggio tecnico appropriato nelle discussioni di gruppo"
+            ],
+            "collaborare_partecipare": [
+                "Lavorare efficacemente in team per il raggiungimento di obiettivi comuni",
+                "Contribuire attivamente alle attività di gruppo"
+            ],
+            "agire_in_modo_autonomo": [
+                "Gestire il proprio tempo e le proprie risorse in autonomia",
+                "Prendere decisioni consapevoli durante lo sviluppo del progetto"
+            ]
+        },
+        "rapporto_con_realta_naturale_sociale": {
+            "risolvere_problemi": [
+                "Identificare e risolvere problemi tecnici durante lo sviluppo delle applicazioni",
+                "Applicare soluzioni creative per superare ostacoli progettuali"
+            ],
+            "individuare_collegamenti_relazioni": [
+                "Collegare concetti teorici a situazioni pratiche durante la progettazione",
+                "Utilizzare le relazioni tra protocolli per ottimizzare l'efficienza delle applicazioni"
+            ],
+            "acquisire_interpretare_informazione": [
+                "Acquisire e interpretare informazioni tecniche da documentazione e risorse online",
+                "Utilizzare le informazioni per migliorare il processo di sviluppo"
+            ]
+        }
+    },
+"competenze_professionali":
+    ["Sviluppare web-service utilizzando tecnologie appropriate",
+     "Implementare protocolli di comunicazione a livello applicativo",
+     "Progettare applicazioni orientate ai servizi",
+     "Testare e validare applicazioni web",
+     "Documentare il processo di sviluppo in modo dettagliato",
+     "Applicare normative di sicurezza nelle applicazioni web"],
+"competenze_di_area":
+    ["Comprendere i protocolli di comunicazione a livello applicativo",
+     "Utilizzare tecnologie per la realizzazione di web-service",
+     "Integrare servizi web in applicazioni esistenti",
+     "Progettare interfacce di comunicazione tra applicazioni"],
+"abilita":
+    ["Realizzare applicazioni per la comunicazione di rete",
+     "Progettare l'architettura di un prodotto/servizio individuandone le componenti tecnologiche",
+     "Sviluppare programmi client-server utilizzando protocolli esistenti",
+     "Progettare semplici protocolli di comunicazione",
+     "Realizzare semplici applicazioni orientate ai servizi",
+     "Applicare normative di sicurezza nelle applicazioni web"],
+"conoscenze":
+    ["Metodi e tecnologie per la programmazione di rete",
+     "Protocolli e linguaggi di comunicazione a livello applicativo",
+     "Tecnologie per la realizzazione di web-service",
+     "Strumenti per il test e la validazione di applicazioni web",
+     "Normative di sicurezza nel contesto delle applicazioni web",
+     "Architetture client-server"],
+"prerequisiti":
+    ["Conoscenze di base sui sistemi operativi e reti",
+     "Esperienza nella programmazione di applicazioni semplici",
+     "Comprensione delle tecnologie web di base"],
+"Tempi": "2 ore a settimana",
+"esperienze_attivate":
+    ["Laboratori di programmazione di rete",
+     "Progetti di gruppo per la realizzazione di web-service",
+     "Simulazioni e test pratici di applicazioni"],
+"Metodologie":
+    ["Apprendimento basato su progetti",
+     "Collaborative learning",
+     "Problem-based learning",
+     "Lezioni frontali integrate con attività pratiche"],
+"risorse_umane": "Docente interno: Maria Stella Pastore; Studenti, eventuali esperti esterni per seminari",
+"Strumenti":
+    ["Computer e software di programmazione",
+     "Accesso a risorse online e documentazione tecnica",
+     "Piattaforme di simulazione di reti"],
+"Valutazioni":
+    ["Valutazioni formative continuative",
+     "Prove pratiche di laboratorio",
+     "Relazioni tecniche sui progetti sviluppati"],
+"CP": {
+    "compito_prodotto": "Realizzazione di un web-service che utilizza protocolli di comunicazione a livello applicativo",
+    "Modalita": "In gruppo",
+    "artefatti_consegnati": "Codice sorgente del web-service, documentazione tecnica, report di test",
+    "Obiettivi": "Sviluppare capacità di progettazione e implementazione di web-service, applicando protocolli di comunicazione",
+    "Tempi": "3 settimane",
+    "Strumenti": [
+        "IDE di sviluppo",
+        "Documentazione API",
+        "Strumenti di test e debug"
+    ],
+    "criteri_valutazione": {
+        "Competenze": [
+            {
+                "indicatore": "Implementare web-service utilizzando protocolli di comunicazione",
+                "Base": "Realizza un web-service con funzionalità limitate e documentazione di base",
+                "Intermedio": "Realizza un web-service con funzionalità complete e documentazione dettagliata",
+                "Avanzato": "Realizza un web-service ottimizzato, con funzionalità avanzate e documentazione completa e approfondita"
+            }
+        ]
+    },
+    "relazione_individuale": {
+        "domande": [
+            "1. Descrivi il percorso generale dell'attività",
+            "2. Indica come avete svolto il compito e cosa hai fatto tu",
+            "3. Indica quali crisi hai dovuto affrontare e come le hai risolte",
+            "4. Che cosa hai imparato da questa unità di apprendimento",
+            "5. Cosa devi ancora imparare",
+            "6. Come valuti il lavoro da te svolto"
+        ]
+    }
+}
+2025-03-24 12:47:40,299 - DEBUG - [User ID: documenti\maria stella.pastore] - [Function: dettaglioUDA] - role_user: Io ti fornirò l'analisi del profilo della classe e l'anno di riferimento, numero ore settimanali, monte ore annuo, nome docente, l'elenco delle UDA, la UDA di riferimento, includi tutti metodologie didattiche nella progettazione, esempio di relazione individuale da proporre allo studente e tu restituirai il dettaglio dell’unità didattica di apprendimento per la Progettazione Disciplinare nel formato richiesto.  ### CONTESTO CLASSE ### ANALISI PROFILO CLASSE  Classe composta da 16 studenti con un livello di preparazione eterogeneo. 
+Si dimostra provocatoria, con studenti che cercano di suscitare reazioni nell'insegnante, ma al tempo stesso, intellettualmente vivace e curiosa.
+All’interno della classe è presente uno studente con iperacusia, per il quale è stato redatto un PDP.
+. ### GRADO CLASSE  V ad indirizzo Informatica e Telecomunicazioni, articolazione Informatica.   ### NUMERO ORE SETTIMANALI 2 ### TOTALE ORE ANNO 132. ### DOCENTE: Maria Stella Pastore.  ### ELENCO UDA: {'BES/DSA': [{'Nome': 'Studente con Iperacusia'}], 'Unita Didattiche': [{'UDA': 'Programmazione di Rete', 'Periodo': 'Settembre-Novembre', 'Motivazioni': 'Fornire agli studenti metodi e tecnologie per la programmazione di rete, accrescendo la loro capacità di realizzare applicazioni che comunicano attraverso protocolli di rete.'}, {'UDA': 'Protocolli e Servizi Web', 'Periodo': 'Dicembre-Febbraio', 'Motivazioni': 'Introdurre gli studenti ai protocolli e linguaggi di comunicazione a livello applicativo e alle tecnologie per la realizzazione di web-service, contribuendo a sviluppare abilità nella progettazione e realizzazione di applicazioni orientate ai servizi.'}, {'UDA': 'Progettazione Client-Server', 'Periodo': 'Marzo-Aprile', 'Motivazioni': 'Abilitare gli studenti a sviluppare programmi client-server utilizzando protocolli esistenti e a progettare semplici protocolli di comunicazione, esplorando le architetture dei prodotti/servizi.'}, {'UDA': 'Integrazione e Sicurezza', 'Periodo': 'Aprile-Maggio', 'Motivazioni': "Concentrarsi sull'integrazione e gestione della sicurezza nelle applicazioni di rete, tenendo conto delle normative di settore e delle best practices per garantire un ambiente sicuro."}]}  ### UDA: {'UDA': 'Protocolli e Servizi Web', 'Periodo': 'Dicembre-Febbraio', 'Motivazioni': 'Introdurre gli studenti ai protocolli e linguaggi di comunicazione a livello applicativo e alle tecnologie per la realizzazione di web-service, contribuendo a sviluppare abilità nella progettazione e realizzazione di applicazioni orientate ai servizi.'}.### RELAZIONE INDIVIDUALE: {
+  "diario": {
+    "tipo_materiale": "Autovalutazione Compito-Prodotto",
+    "domande": [
+      {"domanda": "1. Descrivi il percorso generale dell'attività"},
+      {"domanda": "2. Indica come avete svolto il compito e cosa hai fatto tu"},
+      {"domanda": "3. Indica quali crisi hai dovuto affrontare e come le hai risolte"},
+      {"domanda": "4. Che cosa hai imparato da questa unità di apprendimento"},
+      {"domanda": "5. Cosa devi ancora imparare"},
+      {"domanda": "6. Come valuti il lavoro da te svolte"}
+    ]
+  }
+}. **Importante:** Considera il seguente commento per fornire meglio la tua risposta se presente: .DETTAGLIO UDA: 
+2025-05-14 11:09:10,135 - DEBUG - [User ID: documenti\alexandra.sheykina] - [Function: getMateriale] - Errore nel decodificare il JSON: Extra data: line 41 column 5 (char 2087)
+2025-05-14 11:09:10,135 - DEBUG - [User ID: documenti\alexandra.sheykina] - [Function: getMateriale] - Contenuto JSON estratto:
+[
+      {
+         "numero_domande":"5",
+         "tipo_materiale":"Domande strutturate su argomenti di base",
+         "tipo_domande": "Verifica orale",
+         "criteri_valutazione": "Valutare la comprensione dei concetti fondamentali e la capacità di applicarli",
+         "domande":[
+            {
+               "id": "1",
+               "domanda": "Quali sono le componenti principali di un sistema informativo aziendale?",
+               "criteri":"Risposte che menzionano hardware, software, persone, dati e procedure sono considerate adeguate."
+            },
+            {
+               "id": "2",
+               "domanda": "Descrivi brevemente cosa si intende per programmazione e quali sono i suoi elementi fondamentali.",
+               "criteri":"Risposte che includono concetti di algoritmi, linguaggi di programmazione e strutture dati sono considerate corrette."
+            },
+            {
+               "id": "3",
+               "domanda": "Quali sono le operazioni di base che puoi fare con un computer?",
+               "criteri":"Risposte che includono operazioni come scrittura di documenti, navigazione web, utilizzo di software di base (es. fogli di calcolo) sono adeguate."
+            },
+            {
+               "id": "4",
+               "domanda": "Che ruolo gioca il software DBMS nei sistemi informativi aziendali?",
+               "criteri":"Risposte che menzionano la gestione, archiviazione e recupero dei dati sono valide."
+            },
+            {
+               "id": "5",
+               "domanda": "Spiega l'importanza delle nozioni di programmazione nel contesto aziendale.",
+               "criteri":"Risposte che fanno riferimento all'automazione dei processi, all'analisi dei dati e alla personalizzazione dei software aziendali sono considerate corrette."
+            }
+         ],
+         "istruzioni": [
+            {
+               "id":"1",
+               "descrizione":"Chiedere agli studenti di rispondere alle domande in modo chiaro e conciso, utilizzando esempi pratici ove possibile."
+            }
+         ]
+      }
+   ],
+   "Brainstorming":{
+      "type": 0,
+      "tipo_domanda": "Word Cloud",
+      "domanda": "Quali sono le parole chiave che associ al sistema informativo aziendale?",
+      "risposte": "(hardware, software, dati, sicurezza, comunicazione)",
+      "istruzione": {
+         "tipo": "Word Cloud",
+         "descrizione": "Invitare gli studenti a condividere le parole chiave che ritengono più rappresentative del sistema informativo aziendale."
+      },
+      "quiz": {
+         "type": 1,
+         "domande": [
+            {
+               "domanda": "Quali sono le funzioni principali di un DBMS? \n (Gestione dati, Sicurezza, Backup, Interfaccia utente)"
+            }
+         ]
+2025-05-14 11:09:10,135 - DEBUG - [User ID: documenti\alexandra.sheykina] - [Function: getMateriale] - role_system: Agisci da esperto docente di informatica nelle scuole secondarie di secondo grado. Stai progettando una lezione per la tua classe. Dovrai fornire il contenuto del materiale didattico tramite un JSON strutturato come segue: ### Formato output VERIFICA PREREQUISITI
+Dovrai fornire il contenuto tramite un JSON strutturato come segue:
+{
+   "prerequisiti_orale":[{
+        "numero_domande":"numero domande",
+        "tipo_materiale":"tipo materiale didattico",
+        "tipo_domande": "tipo domanda",
+        "criteri_valutazione": "indicare criteri di valutazione",
+        "domande":[
+            {
+                "id": "id domanda espresso in numero",
+                "domanda": "formulazione della domanda",
+                "criteri":"criteri di valutazione e possibili risposte"
+                }
+            ],
+        "istruzioni": [
+            {"id":"id istruzione",
+             "descrizione":"descrizione dell'istruzione per la verifica prerequisiti"}
+          ]
+   }]
+}
+
+
+{
+
+    "Brainstorming":{
+        "type": 0,
+        "tipo_domanda": "Word Cloud",
+        "domanda": "domanda da porre agli studenti",
+        "risposte": "lista di 5 possibili risposte racchiusa tra parentesi ()"
+        "istruzione": {
+            "tipo": "Word Cloud",
+            "descrizione": "descrizione dell'istruzione per verifica prerequisiti"
+        },
+        "quiz": {
+            "type": 1,
+            "domande": [
+            {
+                "domanda": "formulazione della domanda aggiungi simbolo "\n" lista possibili opzioni tra parentesi ()"
+            }]
+    }}
+}
+
+.
+2025-10-16 10:15:01,909 - DEBUG - [User ID: documenti\sasha.sasha_f47ba996] - [Function: getEsecuzione] - Errore nel decodificare il JSON: Illegal trailing comma before end of array: line 73 column 69 (char 3785)
+2025-10-16 10:15:01,921 - DEBUG - [User ID: documenti\sasha.sasha_f47ba996] - [Function: getEsecuzione] - Contenuto JSON estratto:
+{
+    "fasi": [
+        {
+            "FASE": "Verifica dei prerequisiti",
+            "lista_attivita": [
+                {
+                    "attivita": "Verifica scritta dei prerequisiti",
+                    "descr_att": "Somministrazione di un breve test scritto per verificare le conoscenze di base di informatica, capacità di utilizzare strumenti digitali e competenze di base in matematica e logica.",
+                    "metodologia": "Verifica scritta",
+                    "strumenti": ["PC", "Materiali didattici multimediali"],
+                    "materiali_didattici": [
+                        {"materiale_didattico": "Test scritto sui prerequisiti"}
+                    ],
+                    "durata": "10 minuti",
+                    "di_gruppo": "False",
+                    "setting": "Aula",
+                    "adattamento_BES": "Non necessario",
+                    "formato/strumento": "Documento Word/PDF"
+                }
+            ]
+        },
+        {
+            "FASE": "Nucleo centrale",
+            "lista_attivita": [
+                {
+                    "attivita": "Lezione frontale",
+                    "descr_att": "Introduzione teorica alle differenze tra sistema informatico e sistema informativo.",
+                    "metodologia": "Lezione Frontale",
+                    "strumenti": ["Lavagna interattiva", "Materiali didattici multimediali"],
+                    "materiali_didattici": [
+                        {"materiale_didattico": "Presentazione PowerPoint sui sistemi informatici e informativi"}
+                    ],
+                    "durata": "1 minuto",
+                    "di_gruppo": "False",
+                    "setting": "Aula",
+                    "adattamento_BES": "Non necessario",
+                    "formato/strumento": "Presentazione PowerPoint"
+                },
+                {
+                    "attivita": "Discussione guidata",
+                    "descr_att": "Discussione strutturata per esplorare le applicazioni pratiche delle differenze tra i due sistemi.",
+                    "metodologia": "Discussione guidata",
+                    "strumenti": ["Lavagna interattiva"],
+                    "materiali_didattici": [
+                        {"materiale_didattico": "Domande guida per la discussione"}
+                    ],
+                    "durata": "1 minuto",
+                    "di_gruppo": "True",
+                    "setting": "Aula",
+                    "adattamento_BES": "Non necessario",
+                    "formato/strumento": "Documento Word/PDF"
+                },
+                {
+                    "attivita": "Simulazioni e role-playing",
+                    "descr_att": "Simulazione di scenari aziendali per comprendere l'importanza dell'integrazione tra tecnologie e processi aziendali.",
+                    "metodologia": "Simulazioni e role-playing",
+                    "strumenti": ["PC", "Software di modellazione"],
+                    "materiali_didattici": [
+                        {"materiale_didattico": "Scenari di simulazione"}
+                    ],
+                    "durata": "1 minuto",
+                    "di_gruppo": "True",
+                    "setting": "Laboratorio informatico",
+                    "adattamento_BES": "Non necessario",
+                    "formato/strumento": "Documento Word/PDF"
+                },
+                {
+                    "attivita": "Brainstorming",
+                    "descr_att": "Sessione di brainstorming per raccogliere idee e riflessioni sugli argomenti trattati.",
+                    "metodologia": "Brainstorming",
+                    "strumenti": ["Lavagna interattiva"],
+                    "materiali_didattici": [
+                        {"materiale_didattico": "Mappa concettuale"},
+                    ],
+                    "durata": "1 minuto",
+                    "di_gruppo": "True",
+                    "setting": "Aula",
+                    "adattamento_BES": "Non necessario",
+                    "formato/strumento": "Documento Word/PDF"
+                }
+            ]
+        },
+        {
+            "FASE": "Verifica degli obiettivi",
+            "lista_attivita": [
+                {
+                    "attivita": "Verifica scritta",
+                    "descr_att": "Somministrazione di un test scritto strutturato per valutare la comprensione delle differenze tra sistema informatico e sistema informativo.",
+                    "metodologia": "Verifica scritta",
+                    "strumenti": ["PC"],
+                    "materiali_didattici": [
+                        {"materiale_didattico": "Test scritto di verifica"}
+                    ],
+                    "durata": "15 minuti",
+                    "di_gruppo": "False",
+                    "setting": "Aula",
+                    "adattamento_BES": "Non necessario",
+                    "formato/strumento": "Documento Word/PDF"
+                },
+                {
+                    "attivita": "Verifica orale",
+                    "descr_att": "Interrogazioni e discussione orale per valutare l'abilità di descrivere le differenze tra i due sistemi.",
+                    "metodologia": "Verifica orale",
+                    "strumenti": ["Lavagna interattiva"],
+                    "materiali_didattici": [
+                        {"materiale_didattico": "Lista di domande per la verifica orale"}
+                    ],
+                    "durata": "15 minuti",
+                    "di_gruppo": "False",
+                    "setting": "Aula",
+                    "adattamento_BES": "Non necessario",
+                    "formato/strumento": "Documento Word/PDF"
+                }
+            ]
+        }
+    ]
+}
+2025-10-16 10:15:01,922 - DEBUG - [User ID: documenti\sasha.sasha_f47ba996] - [Function: getEsecuzione] - role_system: Agisci da esperto docente di informatica nelle scuole secondarie di secondo grado. Stai progettando una lezione per la tua classe. Dovrai fornire la progettazione tramite un JSON strutturato come segue: {
+    "fasi" : [
+        { "FASE": "nome fase",
+            "lista_attivita": [
+                {"attivita": "Nome attivitÃ ",
+                "descr_att":"Descrizione dell'attivitÃ ",
+                "metodologia": "Metodologia da usare",
+                "strumenti":["elenco separato da virgole degli strumenti da usare per l'attivitÃ "],
+                "materiali_didattici":[{
+                    "materiale_didattico": "Un materiale didattico da usare a lezione."}],
+                "durata":"durata dell'attivitÃ ",
+                "di_gruppo":"True se attivitÃ  di gruppo, False altrimenti"
+                "setting":"setting o dove viene svolta attivitÃ ",
+                "adattamento_BES":"indicare misure dispensative e strumenti compensativi per BES per questa attivitÃ ",
+                "formato/strumento":"indicare formato o strumento materiale didattico"
+                }
+            ]
+          }
+       ]
+}
+.

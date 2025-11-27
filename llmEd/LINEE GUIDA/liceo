@@ -1,0 +1,41 @@
+### Linee guida Nazionali \
+LICEI \
+Disciplina: INFORMATICA \
+PROFILO GENERALE E COMPETENZE
+L’insegnamento di informatica deve contemperare diversi obbiettivi: comprendere i principali fondamenti teorici delle scienze dell’informazione; acquisire la padronanza di strumenti dell’informatica; utilizzare tali strumenti per la soluzione di problemi significativi in generale, ma in particolare connessi allo studio delle altre discipline; acquisire la consapevolezza dei vantaggi e dei limiti dell’uso degli strumenti e dei metodi informatici e delle conseguenze sociali e culturali di tale uso. Questi obbiettivi si riferiscono ad aspetti fortemente connessi fra di loro, che vanno quindi trattati in modo integrato mantenendo su di un piano paritario teoria a pratica.
+Al termine del percorso liceale lo studente dovrà acquisire la conoscenza e la padronanza di uno strumento o di una classe di strumenti, la loro applicazione a problemi significativi, la conoscenza dei concetti teorici ad essi sottostanti, la riflessione sui vantaggi e sui limiti e sulle conseguenze del loro uso.
+La libertà, la competenza e la sensibilità dell’insegnante svolgeranno un ruolo fondamentale nel proporre problemi significativi e, nello stesso tempo, tali da permettere un collegamento permanente con le altre discipline. In questo modo l’informatica, oltre a proporre i propri concetti e i propri metodi, diventa anche uno strumento del lavoro dello studente. E’ opportuno coinvolgere gli studenti degli ultimi due anni in percorsi di approfondimento anche mirati al proseguimento degli studi universitari e di formazione superiore. In questo contesto è auspicabile trovare un raccordo con altri insegnamenti, in particolare con matematica, fisica e scienze, e sinergie con il territorio, aprendo collaborazioni con università, enti di ricerca, musei della scienza e mondo del lavoro.
+Dal punto di vista dei contenuti il percorso ruoterà intorno alle seguenti aree tematiche: architettura dei computer (AC), sistemi operativi (SO), algoritmi e linguaggi di programmazione (AL), elaborazione digitale dei documenti (DE), reti di computer (RC), struttura di Internet e servizi (IS), computazione, calcolo numerico e simulazione (CS), basi di dati (BD).
+
+OBIETTIVI SPECIFICI DI APPRENDIMENTO
+PRIMO BIENNIO
+Nel primo biennio verranno usati gli strumenti di lavoro più comuni del computer insieme ai concetti di base ad essi connessi. Verranno introdotte le caratteristiche architetturali di un computer: i concetti di hardware e software, una introduzione alla codifica binaria presenta i codici ASCII e Unicode, gli elementi funzionali della macchina di Von Neumann: CPU, memoria, dischi, bus e le principali periferiche. (AC)
+Verrà spiegato il concetto di sistema operativo, le sue funzionalità di base e le caratteristiche dei sistemi operativi più comuni. Verrà introdotto il concetto di processo come programma in esecuzione, illustrato il meccanismo base della gestione della memoria e le principali funzionalità dei file system. (SO)
+Verranno introdotti gli elementi costitutivi di un documento elettronico e i principali strumenti di produzione. Occorre partire da quanto gli studenti hanno già acquisito nella scuola di base per far loro raggiungere la padronanza di tali strumenti, con particolare attenzione al foglio elettronico. (DE)
+Verranno introdotti la struttura e i servizi di Internet. Insieme alle altre discipline si condurranno gli studenti a un uso efficace della comunicazione e della ricerca di informazioni, e alla consapevolezza delle problematiche e delle regole di tale uso.
+Verranno introdotti i principi alla base dei linguaggi di programmazione, illustrate le principali tipologie di linguaggi e il concetto di algoritmo. Verrà sviluppata la capacità di implementare un algoritmo in pseudo-codice o in un particolare linguaggio di programmazione, di cui si introdurrà la sintassi.(AL)
+
+Progettazione didattica delle UDA per la classe Prima del primo biennio:
+Informatica e tecnologie digitali - Il sistema operativo - Documenti e slide - La gestione dei dati - Scratch e App Inventor: la programmazione visuale - Dal problema al programma: le basi della programmazione \
+
+Progettazione didattica delle UDA per la classe Seconda del primo biennio:
+La programmazione imperativa in C e C++ - La scomposizione in sottoprogrammi - Dati strutturati e algoritmi classici - Il web, il cloud e gli strumenti di Google \
+
+SECONDO BIENNIO
+Nel secondo biennio si procede ad un allargamento della padronanza di alcuni strumenti e un approfondimento dei loro fondamenti concettuali. La scelta dei temi dipende dal contesto e dai rapporti che si stabiliscono fra l’informatica e le altre discipline. Sarà possibile disegnare un percorso all'interno delle seguenti tematiche:
+Strumenti avanzati di produzione dei documenti elettronici, linguaggi di markup (XML etc), formati non testuali (bitmap, vettoriale, formati di compressione), font tipografici, progettazione web. (DE)
+Introduzione al modello relazionale dei dati, ai linguaggi di interrogazione e manipolazione dei dati (BS)
+Implementazione di un linguaggio di programmazione, metodologie di programmazione, sintassi di un linguaggio orientato agli oggetti. (AL)
+
+Progettazione didattica delle UDA per la classe Terza del secondo biennio:
+Introduzione al linguaggio Java: Il linguaggio Java: ambiente di sviluppo e primi programmi - I metodi statici - Lo scambio dei dati e le regole di visibilità - Dati strutturati semplici: gli array. La programmazione orientata agli oggetti: OOP: evoluzione o rivoluzione? - La definizione di una classe in Java - Metodi e creazioni di oggetti - La classe String - Ereditarietà e relazioni tra le classi - Il polimorfismo e le classi astratte - L’archiviazione dei dati con i file. HTML e siti web: Applicazioni di Internet - Il web e il linguaggio HTML - Realizzare siti web con i CMS - I fogli di stile (CSS) - I form e HTML5 - Il linguaggio XML - Il linguaggio JavaScript - La convalida dei dati con JavaScript \
+
+Progettazione didattica delle UDA per la classe Quarta del secondo biennio:
+I database relazionali - Progettazione concettuale e logica - Il linguaggio SQL - Programmazione lato server con PHP \
+
+QUINTO ANNO
+E’ opportuno che l'insegnante - che valuterà di volta in volta il percorso didattico più adeguato alla singola classe - realizzi percorsi di approfondimento, auspicabilmente in raccordo con le altre discipline.
+Verranno studiati i principali algoritmi del calcolo numerico (CS), introdotti i principi teorici della computazione (CS) e affrontate le tematiche relative alle reti di computer, ai protocolli di rete, alla struttura di internet e dei servizi di rete (RC) (IS). Con l'ausilio degli strumenti acquisiti nel corso dei bienni precedenti, saranno inoltre sviluppate semplici simulazioni come supporto alla ricerca scientifica (studio quantitativo di una teoria, confronto di un modello con i dati…) in alcuni esempi, possibilmente connessi agli argomenti studiati in fisica o in scienze (CS).
+
+Progettazione didattica delle UDA per la classe Quinta:
+Le reti e i servizi di rete: Fondamenti di networking - Modelli e topologie di rete - La struttura di una rete - Hosting, housing e cloud computing. Le reti e la sicurezza delle informazioni: La sicurezza nei sistemi informatici - Normativa sulla sicurezza e sulla privacy - Principi di crittografia - L’autenticazione dell’utente - Firma elettronica, digitale, certificati e PEC. Teoria della computabilità: Elementi di informatica teorica - Introduzione alla complessità computazionale - La complessità dei problemi. L’Intelligenza Artificiale e i Big Data: Capire l’Intelligenza Artificiale - Reti neurali e Deep Learning - Algoritmi di IA - I Big Data e l’analisi dei dati. Algoritmi di calcolo numerico: Calcolo di pigreco e il metodo Monte Carlo - Calcolo approssimato del numero e - Calcolo della radice di una equazione - Calcolo approssimato delle aree - Funzioni e sistemi lineari in Octave \

@@ -1,0 +1,100 @@
+{
+  "Titolo": "Introduzione ai Sistemi Informativi Aziendali",
+  "Durata": "4 ore",
+  "Obiettivi": [
+    {
+      "O": "Fornire una panoramica generale sui Sistemi Informativi Aziendali (SIA)"
+    },
+    {
+      "O": "Illustrare l'importanza dei SIA nel contesto aziendale"
+    },
+    {
+      "O": "Identificare i principali componenti di un SIA"
+    },
+    {
+      "O": "Stabilire una base di conoscenza per le lezioni successive sull'argomento"
+    }
+  ],
+  "Contenuti": [
+    {
+      "C": "Concetti chiave dei Sistemi Informativi Aziendali"
+    },
+    {
+      "C": "Importanza dei SIA per le aziende"
+    },
+    {
+      "C": "Principali componenti di un SIA: hardware, software, persone, procedure, dati"
+    }
+  ],
+  "Metodologie": [
+    {
+      "M": "Lezione frontale"
+    },
+    {
+      "M": "Discussione guidata"
+    },
+    {
+      "M": "Apprendimento cooperativo attraverso attività di gruppo"
+    }
+  ],
+  "Valutazione": [
+    {
+      "V": "Valutazione formativa attraverso l'osservazione durante la lezione"
+    },
+    {
+      "V": "Domande e risposte per verificare la comprensione immediata"
+    },
+    {
+      "V": "Breve quiz a fine lezione per valutare l'apprendimento"
+    }
+  ],
+  "Materiali richiesti": [
+    {
+      "M": "Libro di testo"
+    },
+    {
+      "M": "Presentazione PowerPoint"
+    },
+    {
+      "M": "Computer e proiettore"
+    },
+    {
+      "M": "Accesso a internet per eventuali ricerche rapide"
+    }
+  ],
+  "Struttura della lezione": [
+    {
+      "Introduzione": [
+        {
+          "I": "Presentazione generale dell'argomento e spiegazione degli obiettivi della lezione"
+        }
+      ],
+      "Durata": "30 minuti"
+    },
+    {
+      "Spiegazione teorica": [
+        {
+          "S": "Descrizione dettagliata dei Sistemi Informativi Aziendali, loro importanza e principali componenti"
+        }
+      ],
+      "Durata": "90 minuti"
+    },
+    {
+      "Attività pratica": [
+        {
+          "A": "Dividere la classe in piccoli gruppi per discutere casi pratici di implementazione di SIA in aziende reali. Esempi tratti dal libro di testo o da altre risorse."
+        }
+      ],
+      "Durata": "60 minuti"
+    },
+    {
+      "Discussione e Conclusione": [
+        {
+          "D": "Discussione in plenaria sui risultati dei gruppi. Sintesi dei concetti appresi e breve quiz a risposta multipla per valutare l'apprendimento."
+        }
+      ],
+      "Durata": "30 minuti"
+    }
+  ],
+  "Note Aggiuntive": "Si raccomanda di fornire esempi concreti e attuali di SIA in aziende note per stimolare l'interesse degli studenti."
+}

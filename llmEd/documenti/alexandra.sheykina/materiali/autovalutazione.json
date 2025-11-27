@@ -1,0 +1,32 @@
+{
+  "ordinamento scuola": "Scuola secondaria di II grado",
+  "tipo_scuola": "Istituto Tecnico Settore Tecnologico",
+  "grado": "Classe III",
+  "indirizzo": "Informatica e Telecomunicazioni",
+  "articolazione": "Informatica",
+  "disciplina": "Sistemi e reti",
+  "docente": "Prof.ssa Alexandra Sheykina",
+  "durata": "160",
+  "uda": "Dispositivi per la realizzazione di reti locali",
+  "titolo_lezione": "Access Point: Utilizzo e Configurazione",
+  "anno_scolastico": "2025/2026",
+  "data_oggi": "2025-11-26",
+  "numero_bes": "2",
+  "diario": {
+    "tipo_materiale": "Autovalutazione individuale",
+    "domande": [
+      {
+        "domanda": "1. Qualcosa che ho imparato durante questa lezione"
+      },
+      {
+        "domanda": "2. Cosa devo ancora imparare"
+      },
+      {
+        "domanda": "3. Difficoltà che ho incontrato e se sono rimaste irrisolte, come posso affrontarle in futuro?"
+      },
+      {
+        "domanda": "4. Domanda da porre a docente"
+      }
+    ]
+  }
+}

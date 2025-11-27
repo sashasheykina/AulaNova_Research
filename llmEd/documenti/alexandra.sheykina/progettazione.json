@@ -1,0 +1,196 @@
+{
+  "ordinamento scuola": "Scuola secondaria di II grado",
+  "tipo_scuola": "Istituto Tecnico Settore Tecnologico",
+  "grado": "Classe III",
+  "indirizzo": "Informatica e Telecomunicazioni",
+  "articolazione": "Informatica",
+  "disciplina": "Sistemi e reti",
+  "docente": "Prof.ssa Alexandra Sheykina",
+  "durata": "120",
+  "Unita_didattica_apprendimento": "Dispositivi per la realizzazione di reti locali",
+  "contesto": "La classe è composta da 15 alunni, 11 maschi e 4 femmine. Vi è la presenza di un’alunna diversamente abile che segue una programmazione differenziata, 4 alunni ripetenti di cui uno che il precedente anno scolastico era stato seguito dai docenti con un PDP ed un altro che ha interrotto ufficialmente la frequenza scolastica il 6 ottobre 2024. La classe è vivace ma appare unita e abbastanza collaborativa. La maggior parte degli alluni partecipa con interesse al dialogo educativo e alle attività proposte. Dall’analisi iniziale è emerso un rendimento medio sufficiente, e l’atteggiamento verso la materia è di discreto interesse e curiosità. Per ciò che attiene il rendimento, si distinguono 3 gruppi: un primo gruppo si distingue per un'applicazione costante e per un buon livello di sviluppo delle capacità logiche, espressive e operative e per il fatto che esegue compiti in modo autonomo e responsabile con buona consapevolezza e padronanza delle conoscenze. Un secondo gruppo rientra nell'ambito di un livello soddisfacente dal momento che presenta un discreto sviluppo delle abilità di base ed un’applicazione nel complesso adeguata. Infine, un terzo gruppo presenta delle competenze acquisite in maniera essenziale che rivelano incertezze metodologiche e un approccio allo studio che necessita di maturare. Per tali motivi, l'insegnamento della disciplina si baserà, fondamentalmente, su un continuo stimolo alla partecipazione attiva degli alunni alle attività didattiche. Si terranno, lezioni partecipative e lezioni multimediali attraverso l’utilizzo della LIM, con richieste di intervento da posto e con correzioni collettiva degli esercizi, nonché attività laboratoriali tecnico-pratiche.\n",
+  "titolo_lezione": "Access Point: Utilizzo e Configurazione",
+  "anno_scolastico": "2025/2026",
+  "data_oggi": "2025-11-26",
+  "numero_bes": "2",
+  "BES": {
+    "lista_bes": [
+      {
+        "bes": "alunna diversamente abile con programmazione differenziata",
+        "misure_dispensative": "Utilizzo di materiali semplificati, verifica orale anziché scritta, riduzione dei contenuti da studiare",
+        "strumenti_compensativi": "Computer con software di supporto, mappe concettuali, appunti strutturati"
+      },
+      {
+        "bes": "alunno ripetente con PDP nell'anno scolastico precedente",
+        "misure_dispensative": "Tempi aggiuntivi per le verifiche, verifica orale anziché scritta, divisione del compito in parti più piccole",
+        "strumenti_compensativi": "Schemi riassuntivi, sintesi audio, mappe concettuali"
+      }
+    ]
+  },
+  "obiettivi_formativi": {
+    "type": 1,
+    "obiettivo": [
+      {
+        "o": "Comprendere il ruolo degli Access Point nelle reti locali"
+      },
+      {
+        "o": "Saper configurare un Access Point per una rete locale"
+      },
+      {
+        "o": "Analizzare le funzionalità e i vantaggi dell'utilizzo di Access Point"
+      }
+    ]
+  },
+  "abilita_capacita": {
+    "type": 1,
+    "abilita": [
+      {
+        "a": "Configurare un Access Point secondo specifiche esigenze"
+      },
+      {
+        "a": "Integrare Access Point all'interno di una rete esistente"
+      },
+      {
+        "a": "Utilizzare strumenti software per la configurazione e gestione di Access Point"
+      }
+    ]
+  },
+  "conoscenze": {
+    "type": 1,
+    "conoscenza": [
+      {
+        "c": "Funzionamento degli Access Point nelle reti locali"
+      },
+      {
+        "c": "Protocolli di comunicazione wireless utilizzati dagli Access Point"
+      },
+      {
+        "c": "Strumenti e software per la gestione degli Access Point"
+      }
+    ]
+  },
+  "cittadinanze": {
+    "type": 1,
+    "competenze": [
+      {
+        "c": "Collaborare attivamente in gruppo nelle attività di configurazione"
+      },
+      {
+        "c": "Comunicare chiaramente le idee tecniche agli altri membri del gruppo"
+      },
+      {
+        "c": "Risolvere problemi tecnici in modo autonomo e responsabile"
+      }
+    ]
+  },
+  "prerequisiti": {
+    "type": 1,
+    "prerequisito": [
+      {
+        "pr": "Conoscenza di base dei componenti hardware del computer"
+      },
+      {
+        "pr": "Comprensione dei concetti fondamentali di rete"
+      },
+      {
+        "pr": "Capacità di lavorare in gruppo"
+      }
+    ]
+  },
+  "strumenti": {
+    "type": 1,
+    "strumento": [
+      {
+        "s": "Computer e dispositivi di rete"
+      },
+      {
+        "s": "Software di configurazione per Access Point"
+      },
+      {
+        "s": "LIM per la presentazione multimediale"
+      }
+    ]
+  },
+  "bmd": {
+    "type": 1,
+    "dispensativi": [
+      {
+        "d": "Verifica orale anziché scritta, utilizzo di materiali semplificati, riduzione dei contenuti da studiare"
+      }
+    ]
+  },
+  "bsc": {
+    "type": 1,
+    "compensativi": [
+      {
+        "c": "Mappe concettuali, computer con software di supporto, appunti strutturati"
+      }
+    ]
+  },
+  "metodologie": {
+    "type": 1,
+    "metodologie": [
+      {
+        "m": "Lezione Frontale"
+      },
+      {
+        "m": "Laboratorio pratico"
+      },
+      {
+        "m": "Problem Solving"
+      },
+      {
+        "m": "Cooperative learning"
+      },
+      {
+        "m": "Discussione guidata"
+      }
+    ]
+  },
+  "criteri_valutazione": {
+    "competenze_indicatori": {
+      "type": 1,
+      "competenza_indicatore": [
+        {
+          "c/i": "Configurare dispositivi di rete/Capacità di configurare un Access Point (Avanzato: Configura autonomamente un Access Point complesso, Intermedio: Configura un Access Point con supporto parziale, Base: Configura un Access Point con supporto completo)"
+        },
+        {
+          "c/i": "Collaborare in gruppo/Capacità di lavorare efficacemente in team (Avanzato: Contribuisce attivamente e guida il gruppo, Intermedio: Contribuisce positivamente al lavoro del gruppo, Base: Partecipa alle attività di gruppo con supporto)"
+        },
+        {
+          "c/i": "Risolvere problemi tecnici/Capacità di identificare e risolvere problemi di configurazione degli Access Point (Avanzato: Risolve problemi complessi in autonomia, Intermedio: Risolve problemi con supporto, Base: Identifica problemi con supporto)"
+        }
+      ]
+    }
+  },
+  "verifica": {
+    "type": 1,
+    "orali": [
+      {
+        "o": "Interrogazioni, interventi o discussione in classe"
+      }
+    ],
+    "scritte": [
+      {
+        "s": "Strutturata, semi-strutturata o aperta"
+      }
+    ]
+  },
+  "recupero_potenziamneto": {
+    "type": 1,
+    "rp": [
+      {
+        "o": "Sessioni di recupero individuali per colmare lacune"
+      },
+      {
+        "o": "Esercitazioni pratiche aggiuntive in laboratorio"
+      },
+      {
+        "o": "Utilizzo di tutorial e risorse online per il ripasso"
+      },
+      {
+        "o": "Gruppi di studio autogestiti con la supervisione del docente"
+      }
+    ]
+  }
+}

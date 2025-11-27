@@ -1,0 +1,51 @@
+{
+  "BES/DSA": [
+    {
+      "Nome": "alunna diversamente abile con programmazione differenziata"
+    },
+    {
+      "Nome": "alunno ripetente con PDP nell'anno scolastico precedente"
+    }
+  ],
+  "Lista di studenti con BES o DSA (con relativo disturbo) se presenti": [
+    "alunna diversamente abile (programmazione differenziata)",
+    "alunno ripetente (PDP nell'anno scolastico precedente)"
+  ],
+  "Unita Didattiche": [
+    {
+      "UDA": "I sistemi: i sistemi; i modelli; gli automi",
+      "Periodo": "Settembre-Ottobre",
+      "Motivazioni": "Introduzione ai concetti fondamentali dei sistemi e automi per sviluppare la capacità di analisi e progettazione."
+    },
+    {
+      "UDA": "Le architetture dei sistemi: Architettura del computer, modello di von Neumann",
+      "Periodo": "Ottobre-Novembre",
+      "Motivazioni": "Comprendere le basi dell'architettura del computer, necessario per sviluppare conoscenze tecniche solide."
+    },
+    {
+      "UDA": "Il linguaggio Assembly",
+      "Periodo": "Novembre-Gennaio",
+      "Motivazioni": "Introduzione alla programmazione di basso livello per sviluppare capacità analitiche e di problem-solving."
+    },
+    {
+      "UDA": "I sistemi embedded e Arduino",
+      "Periodo": "Gennaio-Febbraio",
+      "Motivazioni": "Avvicinare gli studenti ai sistemi embedded per ampliare le loro conoscenze in ambito di sviluppo tecnologico pratico."
+    },
+    {
+      "UDA": "Comunicazione e networking: networking e tipologia delle reti",
+      "Periodo": "Febbraio-Marzo",
+      "Motivazioni": "Introdurre i fondamenti delle reti di comunicazione per focalizzare l'attenzione su un campo chiave dell'informatica moderna."
+    },
+    {
+      "UDA": "Dispositivi per la realizzazione di reti locali",
+      "Periodo": "Marzo-Aprile",
+      "Motivazioni": "Comprendere l'hardware di networking necessario per la progettazione e realizzazione di reti locali."
+    },
+    {
+      "UDA": "Le reti Ethernet e lo strato di collegamento",
+      "Periodo": "Aprile-Maggio",
+      "Motivazioni": "Esplorare la tecnologia Ethernet per consolidare le conoscenze delle reti locali e dei protocolli di comunicazione."
+    }
+  ]
+}

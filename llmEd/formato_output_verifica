@@ -1,0 +1,39 @@
+### Formato output VERIFICA
+Adatta la struttura in base a tipo di verifica: strutturata, semi struttrata, o non struttrata. Fornire almeno 6 domande a risposta multiple o vero/falso e 4 domande aperte. Dovrai fornire il contenuto tramite file JSON strutturato come segue:
+{"scritta" :[{
+        "tipo_materiale":"tipo materiale didattico",
+        "numero_domande":"numero domande",
+        "tipo_verifica": "tipo della verifica",
+        "struttra":"indicare la struttra della verifica",
+        "descrizione":"breve descrizione degli obiettivi",
+        "punti": "punti_totali",
+        "criteri_valutazione": "indicare criteri di valutazione",
+        "obiettivo_minimo": "Superamento della verifica con quale punteggio su totale",
+        "domande_sm_vf":[
+            {"domande":[
+                {
+                "id_d": "id_domanda",
+                "domanda": "formulazione della domanda",
+                "tipo": "scelta_multipla o vero/falso",
+                "opzioni": "la lista degli opzioni",
+                "risposta_corretta": "risposta corretta"
+            }]
+        }],
+        "domande_a":[
+            {
+                "tipo_domande": "domanda aperta",
+                "domande": [
+                    {
+                        "id_d": "id_domanda",
+                        "domanda": "formulazione della domanda",
+                        "criteri": "criteri di valutazione"
+                    }
+                ]
+            }],
+        "istruzioni": [
+            {"id":"id istruzione",
+             "descrizione":"descrizione dell'istruzione"}
+          ]}
+      ]}
+
+

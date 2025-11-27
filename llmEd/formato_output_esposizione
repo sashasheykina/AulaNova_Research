@@ -1,0 +1,20 @@
+{
+    "fasi" : [
+        { "FASE": "nome fase",
+            "lista_attivita": [
+                {"attivita": "Nome attività",
+                "descr_att":"Descrizione dell'attività",
+                "metodologia": "Metodologia da usare",
+                "strumenti":["elenco separato da virgole degli strumenti da usare per l'attività"],
+                "materiali_didattici":[{
+                    "materiale_didattico": "Un materiale didattico da usare a lezione."}],
+                "durata":"durata dell'attività",
+                "di_gruppo":"True se attività di gruppo, False altrimenti"
+                "setting":"setting o dove viene svolta attività",
+                "adattamento_BES":"indicare misure dispensative e strumenti compensativi per BES per questa attività",
+                "formato/strumento":"indicare formato o strumento materiale didattico"
+                }
+            ]
+          }
+       ]
+}

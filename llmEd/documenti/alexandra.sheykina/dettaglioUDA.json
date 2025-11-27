@@ -1,0 +1,138 @@
+{
+  "UNITA DI APPRENDIMENTO": "Le reti Ethernet e lo strato di collegamento",
+  "fase_applicazione": "Aprile-Maggio",
+  "utenti_destinatari": "Alunni di classe III, Istituto Tecnico Settore Tecnologico, indirizzo Informatica e Telecomunicazioni, articolazione Informatica",
+  "Motivazioni": "Esplorare la tecnologia Ethernet per consolidare le conoscenze delle reti locali e dei protocolli di comunicazione.",
+  "competenze_europee": {
+    "costruzione_del_se": {
+      "imparare_ad_imparare": [
+        "Riconoscere le proprie modalità di apprendimento",
+        "Individuare strategie efficaci per l'apprendimento autonomo"
+      ],
+      "progettare": [
+        "Pianificare attività in modo autonomo",
+        "Definire obiettivi e strategie per il raggiungimento degli stessi"
+      ]
+    },
+    "competenze_sociali_relazione_con_altri": {
+      "comunicare": [
+        "Esprimere chiaramente le idee in modo coerente",
+        "Usare linguaggio tecnico adeguato al contesto"
+      ],
+      "collaborare_partecipare": [
+        "Lavorare in gruppo in modo costruttivo",
+        "Contribuire attivamente al raggiungimento degli obiettivi comuni"
+      ],
+      "agire_in_modo_autonomo": [
+        "Assumere responsabilità delle proprie azioni",
+        "Prendere decisioni autonomamente"
+      ]
+    },
+    "rapporto_con_realta_naturale_sociale": {
+      "risolvere_problemi": [
+        "Identificare problemi complessi e proporre soluzioni creative",
+        "Valutare diverse opzioni per risolvere un problema"
+      ],
+      "individuare_collegamenti_relazioni": [
+        "Collegare concetti teorici a situazioni pratiche",
+        "Riconoscere le interrelazioni tra diversi ambiti di conoscenza"
+      ],
+      "acquisire_interpretare_informazione": [
+        "Raccogliere informazioni da fonti varie",
+        "Valutare criticamente le informazioni raccolte"
+      ]
+    }
+  },
+  "competenze_professionali": [
+    "Configurare dispositivi di rete Ethernet",
+    "Installare e gestire reti locali",
+    "Analizzare protocolli di comunicazione di rete",
+    "Gestire problematiche di connettività",
+    "Progettare soluzioni di rete affidabili",
+    "Garantire la sicurezza delle reti informatiche"
+  ],
+  "competenze_di_area": [
+    "Comprendere l'architettura e il funzionamento delle reti Ethernet",
+    "Applicare protocolli di comunicazione nello strato di collegamento",
+    "Utilizzare strumenti di diagnostica di rete",
+    "Progettare reti locali efficienti"
+  ],
+  "abilita": [
+    "Configurare e gestire dispositivi Ethernet",
+    "Progettare una rete locale Ethernet",
+    "Diagnosticare e risolvere problemi di rete",
+    "Implementare protocolli di rete nello strato di collegamento",
+    "Assicurare la sicurezza delle informazioni in rete",
+    "Utilizzare strumenti di monitoraggio del traffico di rete"
+  ],
+  "conoscenze": [
+    "Struttura e architettura delle reti Ethernet",
+    "Protocolli di comunicazione nello strato di collegamento",
+    "Dispositivi e strumenti per reti locali",
+    "Concetti di sicurezza nelle reti",
+    "Tecniche di gestione del traffico di rete",
+    "Terminologia tecnica di settore"
+  ],
+  "obiettivi_minimi": [
+    "Riconoscere i componenti di una rete Ethernet",
+    "Descrivere il funzionamento dei protocolli di collegamento",
+    "Utilizzare strumenti di base per la gestione delle reti"
+  ],
+  "prerequisiti": [
+    "Conoscenze di base sulle reti di comunicazione",
+    "Capacità di utilizzare strumenti informatici",
+    "Comprensione di protocolli di rete fondamentali"
+  ],
+  "Tempi": "4 ore a settimana",
+  "esperienze_attivate": [
+    "Laboratori pratici di configurazione di reti Ethernet",
+    "Simulazioni di rete tramite software dedicati",
+    "Discussioni e analisi di casi studio reali"
+  ],
+  "Metodologie": [
+    "Lezioni partecipative",
+    "Lezioni multimediali con utilizzo della LIM",
+    "Attività laboratoriali tecnico-pratiche"
+  ],
+  "risorse_umane": "Docente di Informatica e Telecomunicazioni, studenti",
+  "Strumenti": [
+    "Computer e dispositivi di rete",
+    "Software di simulazione e monitoraggio",
+    "LIM per lezioni interattive"
+  ],
+  "Valutazioni": [
+    "Valutazione formativa tramite osservazione continua",
+    "Test scritti e prove pratiche",
+    "Autovalutazioni degli studenti"
+  ],
+  "CP": {
+    "compito_prodotto": "Progettazione e implementazione di una rete Ethernet locale",
+    "Modalita": "In gruppo",
+    "artefatti_consegnati": "Documentazione del progetto, configurazioni di rete, report finale",
+    "Obiettivi": "Dimostrare la capacità di progettare, configurare e gestire una rete Ethernet",
+    "Tempi": "4 settimane",
+    "Strumenti": [
+      "Computer, dispositivi di rete, software di monitoraggio"
+    ],
+    "criteri_valutazione": {
+      "Competenze": [
+        {
+          "indicatore": "Capacità di configurare una rete Ethernet",
+          "Base": "Configura i dispositivi di base di una rete",
+          "Intermedio": "Configura la rete con protocolli di sicurezza",
+          "Avanzato": "Ottimizza la configurazione per prestazioni elevate"
+        }
+      ]
+    },
+    "relazione_individuale": {
+      "domande": [
+        "1. Descrivi il percorso generale dell'attività",
+        "2. Indica come avete svolto il compito e cosa hai fatto tu",
+        "3. Indica quali crisi hai dovuto affrontare e come le hai risolte",
+        "4. Che cosa hai imparato da questa unità di apprendimento",
+        "5. Cosa devi ancora imparare",
+        "6. Come valuti il lavoro da te svolto"
+      ]
+    }
+  }
+}

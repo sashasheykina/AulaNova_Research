@@ -1,0 +1,42 @@
+{
+  "Materiale Didattico": {
+    "per brainstorming": {"App":"Mentimeter"},
+    "Verifica prerequisiti": {"App":"Mentimeter"},
+    "Mappe Concettuali": [
+      {"App": "Coggle"},
+      {"App": "Algor"}
+    ],
+    "Quiz": [
+      {"App": "Kahoot!"},
+      {"App": "Quizizz"}
+    ],
+    "Sondaggi": [
+      {"App": "Mentimeter"},
+      {"App": "Padlet"}
+    ],
+    "Bacheche digitali": [
+      {"App": "Padlet"}
+    ],
+    "Schede di lavoro": [
+      {"App": "Microsoft Word"}
+    ],
+    "Esercizi scritti": [
+      {"App": "Microsoft Word"}
+    ],
+    "Verifica scritta": [
+      {"App": "Microsoft Word"}
+    ],
+    "Test Valutazione": [
+      {"App": "Quizizz"},
+      {"App": "Google Moduli"}
+    ],
+    "Esercizi a risposta multipla": [
+      {"App": "Google Moduli"},
+      {"App": "Kahoot!"}
+    ],
+    "Mappe mentali condivise": [
+      {"App": "Coggle"}
+    ],
+    "Presentazioni":"PowerPoint"
+  }
+}

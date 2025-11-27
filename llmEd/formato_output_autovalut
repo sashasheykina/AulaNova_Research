@@ -1,0 +1,13 @@
+### Formato output AUTOVALUTAZIONE
+Devi definire 10 domande. Dovrai fornire il contenuto tramite file JSON strutturato come segue:
+{"autovalutazione" : [{
+        "di_gruppo":"true o false",
+        "domande":[
+            {"domanda":"definire la domande per attività di autovalutazione"}
+        ],
+        "istruzioni": [
+            {"id":"id istruzione",
+             "descrizione":"descrizione dell'istruzione"}
+          ]
+}
+

@@ -1,0 +1,14 @@
+{
+    "tipo_materiale": "Autovalutazione lavoro di gruppo",
+    "domande": [
+      {"domanda": "1. Che cosa abbiamo fatto"},
+      {"domanda": "2. Che cosa ho fatto io nel lavoro di Gruppo"},
+      {"domanda": "3. Che cosa ha funzionato nel lavoro di gruppo (nelle modalità di lavoro, relazione, di comunicazione…)"},
+      {"domanda": "4. Che cosa non ha funzionato nel lavoro di gruppo (nelle modalità di lavoro, relazione, di comunicazione…)"},
+      {"domanda": "5. Che cosa possiamo migliorare (nelle modalità di lavoro, relazione, di comunicazione…)"},
+      {"domanda": "6. Come valuto il lavoro da me svolto"},
+      {"domanda": "7. Tre (o più) capacità (modalità di lavoro, di relazione, di comunicazione…) che ho osservato nei miei compagni di gruppo"},
+      {"domanda": "8. Tre (o più) capacità (modalità di lavoro, di relazione, di comunicazione …) che ho messo a disposizione del gruppo"},
+      {"domanda": "9. Domande da porre al docente e/o ai compagni"}
+ ]
+}

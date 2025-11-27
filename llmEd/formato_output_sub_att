@@ -1,0 +1,9 @@
+"lista_sub_att": [{
+            "sub_att": "Titolo della sottoattività",
+            "descr_breve": "Descrizione breve della sottoattività",
+            "contenuto": "Contenuto e istruzioni di dettaglio della sotto attività. Usa la forma passiva",
+            "esposizione": "Testo formulato per essere utilizzato direttamente in una presentazione o lezione, con definizione e spiegazione dell'argomento in 4/5 frasi, orientato all'erogazione della lezione. Adegua la lunghezza testo in base all'attività, alla durata e alla metodologia. Ad esempio, cerca di usare frasi concise se bisogna inserirle in una slide",
+            "esempio":"esempio pratico o traccia di esercizio"
+            }]
+
+

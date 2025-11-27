@@ -1,0 +1,84 @@
+### Linee guida Nazionali \
+ISTRUZIONE TECNICA SETTORE TECNOLOGICO \
+Indirizzo "Informatica e Telecomunicazioni" \
+L’indirizzo "Informatica e Telecomunicazioni" ha lo scopo di far acquisire allo studente, al termine del percorso quinquennale, specifiche competenze nell’ambito del ciclo di vita del prodotto software e dell’infrastruttura di telecomunicazione, declinate in termini di capacità di ideare, progettare, produrre e inserire nel mercato componenti e servizi di settore. La preparazione dello studente è integrata da competenze trasversali che gli consentono di leggere le problematiche dell’intera filiera. all’analisi delle richieste delle aziende di settore sono emerse specifiche esigenze di formazione di tipo umanistico, matematico e statistico; scientifico-tecnologico; progettuale e gestionale per rispondere in modo innovativo alle richieste del mercato e per contribuire allo sviluppo di un livello culturale alto a sostegno di capacità ideativo–creative. \
+ \
+L’indirizzo prevede le articolazioni "Informatica" e "Telecomunicazioni" . \
+ \
+Nell’articolazione "Informatica" si acquisiscono competenze che caratterizzano il profilo professionale in relazione ai processi, ai prodotti, ai servizi con particolare riferimento agli aspetti innovativi e alla ricerca applicata, per la realizzazione di soluzioni informatiche a sostegno delle aziende che operano in un mercato interno e internazionale sempre più competitivo. Il profilo professionale dell’indirizzo consente l’inserimento nei processi aziendali, in precisi ruoli funzionali coerenti con gli obiettivi dell’impresa. \
+ \
+Nell’articolazione "Telecomunicazioni" si acquisiscono competenze che caratterizzano il profilo professionale in relazione alle infrastrutture di comunicazione e ai processi per realizzarle, con particolare riferimento agli aspetti innovativi e alla ricerca applicata. Il profilo professionale dell’indirizzo permette un efficace inserimento in una pluralità di contesti aziendali, con possibilità di approfondire maggiormente le competenze correlate alle caratteristiche delle diverse realtà territoriali. \
+ \
+Ampio spazio è riservato allo sviluppo di competenze organizzative, gestionali e di mercato che consentono, grazie anche all’utilizzo dell’alternanza scuola-lavoro, di realizzare progetti correlati ai reali processi di sviluppo dei prodotti e dei servizi che caratterizzano le aziende del settore. \
+ \
+Il quinto anno, dedicato all’approfondimento di specifiche tematiche settoriali, è finalizzato a favorire le scelte dei giovani rispetto a un rapido inserimento nel mondo del lavoro o alle successive opportunità di formazione: conseguimento di una specializzazione tecnica superiore, prosecuzione degli studi a livello universitario. \
+ \
+Attività e insegnamenti dell’indirizzo Informatica e telecomunicazioni articolazione: Telecomunicazioni \
+ \
+Disciplina: TECNOLOGIE E PROGETTAZIONE DI SISTEMI INFORMATICI E DI TELECOMUNICAZIONI \
+ \
+La disciplina "Tecnologie e progettazione di sistemi informatici e di telecomunicazioni" concorre a far conseguire allo studente al termine del percorso quinquennale i seguenti risultati di apprendimento relativi al profilo educativo, culturale e professionale dello studente: orientarsi nella normativa che disciplina i processi produttivi del settore di riferimento, con particolare attenzione sia alla sicurezza sui luoghi di vita e di lavoro sia alla tutela dell’ambiente e del territorio; intervenire nelle diverse fasi e livelli del processo produttivo,dall’ideazione alla realizzazione del prodotto, per la parte di propria competenza, utilizzando gli strumenti di progettazione, documentazione e controllo; riconoscere gli aspetti di efficacia, efficienza e qualità nella propria attività lavorativa; padroneggiare l’uso di strumenti tecnologici con particolare attenzione alla sicurezza nei luoghi di vita e di lavoro, alla tutela della persona, dell’ambiente e del territorio. \
+ \
+Secondo biennio e quinto anno \
+ \
+I risultati di apprendimento sopra riportati in esito al percorso quinquennale costituiscono il riferimento delle attività didattiche della disciplina nel secondo biennio e quinto anno. La disciplina, nell’ambito della programmazione del Consiglio di classe, concorre in particolare al raggiungimento dei seguenti risultati di apprendimento, relativi all’indirizzo, espressi in termini di competenza: \
+• sviluppare applicazioni informatiche per reti locali o servizi a distanza; \
+• scegliere dispositivi e strumenti in base alle loro caratteristiche funzionali; \
+• gestire progetti secondo le procedure e gli standard previsti dai sistemi aziendali di gestione della qualità e della sicurezza. gestire processi produttivi correlati a funzioni aziendali;
+• configurare, installare e gestire sistemi di elaborazione dati e reti. \
+• redigere relazioni tecniche e documentare le attività individuali e di gruppo relative a situazioni professionali. \
+ \
+L’articolazione dell’insegnamento di "Tecnologie e progettazione di sistemi informatici e di telecomunicazioni" in conoscenze e abilità è di seguito indicata quale orientamento per la progettazione didattica del docente in relazione alle scelte compiute nell’ambito della programmazione collegiale del Consiglio di classe. \
+
+Secondo biennio \
+ \
+
+Progettazione didattica delle UDA per la classe Terza del secondo biennio:
+Componenti passivi e reti elettriche: resistori, condensatori e induttori; interruttori e relè; reti elettriche; diodi LED e display \
+Strumenti di laboratorio: Metrologia; strumenti di misura per grandezze elettriche; strumenti di misura per grandezze elettroniche; strumenti virtuali e di misura automatica \
+Software di simulazione: simulazione di schemi elettronici mediante Multisim; LabVIEw \
+Prototipazione mediante breadboard e circuito stampato: Breadboard e circuito stampato; Circuiti stampati con Ultiboard \
+Reti logiche combinatorie e sequenziali:Progetto di circuiti digitali combinatori; Circuiti combinatori macrofunzionali e circuiti sequenziali \
+Automi: Teoria degli automi; Implementazione di automi \
+Scheda di programmazione Arduino: Introduzione alla scheda arduino; L’ambiente di programmazione IdE; I/O digitali e analogici; sistemi di visualizzazione \
+
+
+Progettazione didattica delle UDA per la classe Quarta del secondo biennio:
+Dispositivi analogici: Diodi raddrizzatori e transistori - Amplificatori operazionali - Generatori d’onda. Microcontrollori: Linguaggio C per microcontrollori - Raspberry e ARM. Conversione analogica e digitale: Conversione digitale-analogica e analogico-digitale - Circuiti convertitori DAC e ADC. Sensori: Sensori di temperatura - Sensori di prossimità - Sensori vari e applicazioni. Attuatori: Servomotori - Motori in corrente continua - Motori passo-passo. C# e scheda Arduino: Visual Studio e C# - C#: esempi di applicazioni - C# e Arduino. Protocolli di comunicazione I²C e SPI: La comunicazione I²C - Protocollo di comunicazione SPI. App Inventor e comunicazione Bluetooth: App Inventor - Il modulo HC05 - Applicazioni del modulo HC05. Tutela ambientale, sicurezza e salute sul lavoro: Tutela ambientale e sviluppo sostenibile - Sicurezza e salute sul lavoro. \
+
+Conoscenze \
+Caratteristiche dei componenti dei circuiti elettronici. \
+Principi di funzionamento degli strumenti di misura di grandezze elettriche \
+Software di simulazione circuitale analogico/digitale. \
+Ambienti software per il controllo degli strumenti e l’acquisizione di dati da strumentazione. \
+Automi a stati finiti. \
+Architettura e tecniche di programmazione dei microcontrollori e dei sistemi embedded. \
+Dispositivi integrati in un microcontrollore. \
+Interfacciamento analogico e digitale di un microcontrollore; sensori ed attuatori, bus e dispositivi di input/output. \
+Normative di settore nazionale e comunitaria sulla sicurezza e la tutela ambientale. \
+ \
+Abilità \
+Selezionare e comparare componenti per circuiti elettronici sulla base delle loro specifiche. \
+Effettuare misure su dispositivi elettrici utilizzando la strumentazione di laboratorio. \
+Verificare il funzionamento di semplici circuiti analogici e digitali. Controllare in modo automatico la strumentazione di laboratorio. \
+Selezionare e dimensionare un sistema di elaborazione embedded per una applicazione data. \
+Programmare il microcontrollore di un sistema embedded in presenza o meno del sistema operativo. \
+Applicare le normative di settore sulla sicurezza e la tutela ambientale. \
+ \
+Quinto anno \
+ \
+
+Progettazione didattica delle UDA per la classe Quinta:
+Reti e collegamento Ethernet - Internet delle cose - Comunicazione remota per IoT e M2M - Stampanti 3D e progettazione con CAD 3D Dedicati - Analisi armonica e banda dei segnali - Elaborazione e sintesi analogica del segnale - Elaborazione e sintesi digitale del segnale. \
+
+Conoscenze \
+Dispositivi di comunicazione e protocolli standard wired/wireless per sistemi embedded. \
+Principi e tecniche di elaborazione/sintesi numerica dei segnali, anche in tempo reale. \
+Principi di comunicazione machine-to-machine e reti di sensori. \
+Funzionalità e standard dei dispositivi di identificazione a radiofrequenza attivi e passivi. \
+ \
+Abilità \
+Programmare un sistema embedded per l’acquisizione dati e la comunicazione. \
+Programmare un sistema embedded per l’elaborazione in tempo reale di flussi di dati multimediali attraverso idonei algoritmi. \
+Integrare un sistema embedded in rete. \
+Progettare soluzioni che impiegano reti di sensori e/o sistemi di identificazione a radiofrequenza. \

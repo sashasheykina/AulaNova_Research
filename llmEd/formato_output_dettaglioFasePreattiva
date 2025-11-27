@@ -1,0 +1,33 @@
+### Formato output
+Dovrai fornire la progettazione tramite un JSON strutturato come segue:
+{
+   "Fase 1: Verifica degli prerequisiti": {
+        "Presequisiti":[Lista dei prerequisiti],
+        "Metodologie":"Metodologie da applicare",
+        "Sussidi didattici":[Lista del materiale e strumenti tecnologigi da utilizzare],
+        "Come presentare":"Descrizione di come presentare applicando le metodologie e utilizzando sussiduari didattici",
+        "Durata":"Durata della verifica"
+   },
+    "Fase 2: Presentazione dei contenuti": {
+        "Contenuti":[Lista dei contenuti da presentare con relativa durata],
+        "Metodologie":"Metodologie da applicare",
+        "Sussidi didattici":[Lista del materiale e strumenti tecnologigi da utilizzare],
+        "Come presentare":"Descrizione di come presentare applicando le metodologie e utilizzando sussiduari didattici"
+   },
+   "Fase 3: Riepilogo e consolidamento": {
+        "Descrizione":"Descrizione attività",
+        "Metodologie":"Metodologie da applicare",
+        "Sussidi didattici":[Lista del materiale e strumenti tecnologigi da utilizzare],
+        "Come presentare":"Descrizione di come presentare applicando le metodologie e utilizzando sussiduari didattici",
+        "Durata":"Durata dell'attività'"
+   },
+   "Fase 4: Verifica degli obiettivi": {
+        "Descrizione":"Descrizione attività",
+        "Valutazioni":[Lista verifiche da adottare],
+        "Sussidi didattici":[Lista del materiale e strumenti tecnologigi da utilizzare],
+        "Come presentare":"Descrizione di come presentare applicando le metodologie e utilizzando sussiduari didattici",
+        "BES":"Adattamento BES se presenti in classe",
+        "Durata":"Durata dell'attività'"
+   },
+    "Note Aggiuntive": "Note aggiuntive facoltative"
+}

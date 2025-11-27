@@ -1,0 +1,144 @@
+{
+  "ordinamento scuola": "Scuola secondaria di II grado",
+  "tipo_scuola": "Istituto Tecnico Settore Tecnologico",
+  "grado": "Classe III",
+  "indirizzo": "Informatica e Telecomunicazioni",
+  "articolazione": "Informatica",
+  "disciplina": "Sistemi e reti",
+  "docente": "Prof.ssa Alexandra Sheykina",
+  "durata": "160",
+  "uda": "Dispositivi per la realizzazione di reti locali",
+  "titolo_lezione": "Access Point: Utilizzo e Configurazione",
+  "anno_scolastico": "2025/2026",
+  "data_oggi": "2025-11-26",
+  "numero_bes": "2",
+  "scritta": [
+    {
+      "tipo_materiale": "Test scritto sugli Access Point",
+      "numero_domande": "10",
+      "tipo_verifica": "strutturata",
+      "struttra": "domande a risposta multipla e domande aperte",
+      "descrizione": "Test per valutare la comprensione degli studenti sugli Access Point, la loro configurazione e utilizzo.",
+      "punti": "30",
+      "criteri_valutazione": "Risposte corrette e complete, capacità di analisi e applicazione pratica",
+      "obiettivo_minimo": "Superamento della verifica con almeno 18 punti su 30",
+      "domande_sm_vf": [
+        {
+          "domande": [
+            {
+              "id_d": "1",
+              "domanda": "Qual è la funzione principale di un Access Point?",
+              "tipo": "scelta_multipla",
+              "opzioni": [
+                "A. Fornire accesso a Internet",
+                "B. Collegare dispositivi in una rete wireless",
+                "C. Proteggere la rete da accessi non autorizzati",
+                "D. Aumentare la velocità di Internet"
+              ],
+              "risposta_corretta": "B. Collegare dispositivi in una rete wireless"
+            },
+            {
+              "id_d": "2",
+              "domanda": "Un Access Point può essere utilizzato per estendere la copertura di una rete wireless esistente.",
+              "tipo": "vero/falso",
+              "opzioni": [
+                "Vero",
+                "Falso"
+              ],
+              "risposta_corretta": "Vero"
+            },
+            {
+              "id_d": "3",
+              "domanda": "Quale dei seguenti protocolli è comunemente utilizzato dagli Access Point per la comunicazione wireless?",
+              "tipo": "scelta_multipla",
+              "opzioni": [
+                "A. HTTP",
+                "B. FTP",
+                "C. WPA2",
+                "D. SMTP"
+              ],
+              "risposta_corretta": "C. WPA2"
+            },
+            {
+              "id_d": "4",
+              "domanda": "Gli Access Point possono funzionare solo in modalità wireless.",
+              "tipo": "vero/falso",
+              "opzioni": [
+                "Vero",
+                "Falso"
+              ],
+              "risposta_corretta": "Falso"
+            },
+            {
+              "id_d": "5",
+              "domanda": "Quale tra questi è un vantaggio dell'utilizzo di un Access Point?",
+              "tipo": "scelta_multipla",
+              "opzioni": [
+                "A. Riduce l'interferenza di segnale",
+                "B. Aumenta la sicurezza della rete",
+                "C. Consente la connessione di più dispositivi",
+                "D. Fornisce accesso diretto ai server"
+              ],
+              "risposta_corretta": "C. Consente la connessione di più dispositivi"
+            },
+            {
+              "id_d": "6",
+              "domanda": "Gli Access Point devono essere collegati fisicamente al router per funzionare.",
+              "tipo": "vero/falso",
+              "opzioni": [
+                "Vero",
+                "Falso"
+              ],
+              "risposta_corretta": "Falso"
+            }
+          ]
+        }
+      ],
+      "domande_a": [
+        {
+          "tipo_domande": "domanda aperta",
+          "domande": [
+            {
+              "id_d": "7",
+              "domanda": "Descrivi il processo di configurazione di un Access Point.",
+              "criteri": "Chiarezza, completezza delle fasi descritte, comprensione del processo"
+            },
+            {
+              "id_d": "8",
+              "domanda": "Quali sono le principali funzionalità di un Access Point in una rete domestica?",
+              "criteri": "Elenco delle funzionalità, capacità di analisi e applicazione"
+            },
+            {
+              "id_d": "9",
+              "domanda": "Spiega come un Access Point può migliorare la copertura di una rete wireless.",
+              "criteri": "Chiarezza, comprensione dei concetti di copertura e segnale"
+            },
+            {
+              "id_d": "10",
+              "domanda": "Quali sono i vantaggi e gli svantaggi dell'utilizzo di Access Point rispetto ad altri dispositivi di rete?",
+              "criteri": "Analisi critica, confronto dettagliato, comprensione dei pro e contro"
+            }
+          ]
+        }
+      ],
+      "istruzioni": [
+        {
+          "id": "1",
+          "descrizione": "Leggi attentamente tutte le domande prima di iniziare a rispondere."
+        },
+        {
+          "id": "2",
+          "descrizione": "Per le domande a risposta multipla, cerchia la lettera corrispondente alla risposta corretta."
+        },
+        {
+          "id": "3",
+          "descrizione": "Rispondi in modo chiaro e conciso alle domande aperte."
+        },
+        {
+          "id": "4",
+          "descrizione": "Assicurati di completare tutte le domande entro i 15 minuti assegnati."
+        }
+      ]
+    }
+  ]
+}

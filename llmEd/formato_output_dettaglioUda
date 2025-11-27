@@ -1,0 +1,82 @@
+### Formato output PROGRAMMAZIONE DISCIPLINARE PER COMPETENZE
+Dovrai definire 3 o 4 Competenze con relativi indicatori, per ogni competenza considera 3 livelli (Base, Intermedio, Avanzato) con relativi descrittori per criteri_valutazione del compito_prodotto. Dovrai fornire la progettazione tramite un JSON strutturato come segue. **Importante:** Devi seguire rigorosamente questa struttura, non troncare le stringhe e non aggiungere nient'altro
+{
+"UNITA DI APPRENDIMENTO":"Nome unita didattica",
+"fase_applicazione":"periodo senza anno",
+"utenti_destinatari":"Indicare alunni di quale classe, tipo scuola, indirizzo, articolazione",
+"Motivazioni": "Descrivere Motivazioni",
+"competenze_europee": {
+        "costruzione_del_se": {
+            "imparare_ad_imparare": [
+                "Lista indicatori per Imparare ad imparare"
+            ],
+            "progettare": [
+                "Lista indicatori per Progettare"
+            ]
+        },
+        "competenze_sociali_relazione_con_altri": {
+            "comunicare": [
+                "Lista indicatori per Comunicare"
+            ],
+            "collaborare_partecipare": [
+                "Lista indicatori per Collaborare e partecipare"
+            ],
+            "agire_in_modo_autonomo": [
+                "Lista indicatori per Agire in modo autonomo"
+            ]
+        },
+        "rapporto_con_realta_naturale_sociale": {
+            "risolvere_problemi": ["Lista indicatori per Risolvere problemi"
+            ],
+            "individuare_collegamenti_relazioni": ["Lista indicatori per Individuare collegamenti e relazioni"
+            ],
+            "acquisire_interpretare_informazione": ["Lista indicatori per Acquisire e interpretare l'infirmazione"
+            ]
+        }
+    },
+"competenze_professionali":
+    ["Lista competenze professionali (almeno 6)"],
+"competenze_di_area":
+    ["Lsta competenza di area disciplinare (almeno 4)"],
+"abilita":
+    ["Abilità da acquisire con la UDA (almeno 6)"],
+"conoscenze":
+    ["Conoscenza da acquisire con la UDA (da 6 a 12)"],
+"obiettivi_minimi":
+    ["Obiettivi minimi da acquisire con la UDA in termini di conoscenza, competenza, capacità (da 3 a 6)"],
+"prerequisiti":
+    ["Lista prerequisiti per la UDA"],
+"Tempi":"quante ore a settimana",
+"esperienze_attivate":
+    ["Esperienza attivata con la UDA"],
+"Metodologie":
+    ["Metodologia"],
+"risorse_umane":"Indicare risorse umane interne e esterne come docenti e gli studenti",
+"Strumenti":
+    ["Strumento didattico utilizzato per la UDA"],
+"Valutazioni":
+    ["Tipi di valutazioni d applicare"],
+"CP":{
+    "compito_prodotto":"Compito o prodotto atteso",
+    "Modalita":"Scegliere tra individuale o in gruppo",
+    "artefatti_consegnati":"Artefatti consegnati",
+    "Obiettivi":"Obiettivi",
+    "Tempi":"Tempo di realizzazione del prodotto in settimane (da 1 a 4)",
+    "Strumenti":
+        ["Risorse (strumenti, consulenze, opportunità) utilizzati nel compito-prodotto"],
+    "criteri_valutazione":{
+        "Competenze":[
+            {
+                "indicatore":"definire indicatore competenza",
+                "Base":"descrittore per livello Base",
+                "Intermedio":"descrittore per livello Intemedio",
+                "Avanzato":"descrittore per livello Avanzato"
+                }
+            ]},
+    "relazione_individuale":{
+        "domande":[
+            "formulare la domanda"
+        ]
+    }
+  }
+}
