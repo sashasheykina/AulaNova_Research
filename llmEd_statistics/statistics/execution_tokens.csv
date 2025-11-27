@@ -1,0 +1,161 @@
+Participant_ID,Activity,Input_Tokens,Output_Tokens
+1,Annual Lesson Plan,23297,6617
+1,Uda Planning,5392,1503
+1,List of lessons,4404,437
+1,Lesson Planning Generation,11824,1672
+1,Lesson Execution Generation,13082,7763
+1,Lesson Total Generation,24906,9435
+1,Didactic Material,6886,2693
+1,Total Activity Generation,59493,19182
+2,Annual Lesson Plan,17229,8549
+2,Uda Planning,3887,1550
+2,List of lessons,2900,328
+2,Lesson Planning Generation,8756,1741
+2,Lesson Execution Generation,15301,9011
+2,Lesson Total Generation,24057,10752
+2,Didactic Material,6504,2626
+2,Total Activity Generation,50690,22255
+3,Annual Lesson Plan,20279,8039
+3,Uda Planning,4167,1743
+3,List of lessons,3179,109
+3,Lesson Planning Generation,9286,1544
+3,Lesson Execution Generation,14572,9401
+3,Lesson Total Generation,23858,10945
+3,Didactic Material,7137,3258
+3,Total Activity Generation,54453,22351
+4,Annual Lesson Plan,18384,8234
+4,Uda Planning,3852,1523
+4,List of lessons,2803,403
+4,Lesson Planning Generation,8602,1307
+4,Lesson Execution Generation,14232,8355
+4,Lesson Total Generation,22834,9662
+4,Didactic Material,6373,3410
+4,Total Activity Generation,50394,21709
+5,Annual Lesson Plan,19908,8838
+5,Uda Planning,4123,1659
+5,List of lessons,3090,337
+5,Lesson Planning Generation,9244,1339
+5,Lesson Execution Generation,13927,8515
+5,Lesson Total Generation,23171,9854
+5,Didactic Material,6958,2563
+5,Total Activity Generation,53127,21592
+6,Annual Lesson Plan,19768,8463
+6,Uda Planning,4095,1673
+6,List of lessons,3060,302
+6,Lesson Planning Generation,9164,1397
+6,Lesson Execution Generation,14733,8761
+6,Lesson Total Generation,50820,10158
+6,Didactic Material,6979,2561
+6,Total Activity Generation,53704,21484
+7,Annual Lesson Plan,21130,8459
+7,Uda Planning,4323,1469
+7,List of lessons,3276,294
+7,Lesson Planning Generation,9393,1756
+7,Lesson Execution Generation,15022,9227
+7,Lesson Total Generation,24415,10983
+7,Didactic Material,8094,3404
+7,Total Activity Generation,56915,23140
+8,Annual Lesson Plan,36635,14736
+8,Uda Planning,4589,1474
+8,List of lessons,3496,400
+8,Lesson Planning Generation,9934,1583
+8,Lesson Execution Generation,14612,9169
+8,Lesson Total Generation,24546,10752
+8,Didactic Material,7062,3361
+8,Total Activity Generation,71739,29249
+9,Annual Lesson Plan,24529,13841
+9,Uda Planning,3606,1877
+9,List of lessons,2622,338
+9,Lesson Planning Generation,8525,1680
+9,Lesson Execution Generation,14988,9202
+9,Lesson Total Generation,23513,10882
+9,Didactic Material,7452,3024
+9,Total Activity Generation,58116,28085
+10,Annual Lesson Plan,21788,11205
+10,Uda Planning,3599,1582
+10,List of lessons,2525,306
+10,Lesson Planning Generation,8012,1566
+10,Lesson Execution Generation,14740,8793
+10,Lesson Total Generation,22752,10359
+10,Didactic Material,7286,2710
+10,Total Activity Generation,54351,24580
+11,Annual Lesson Plan,13763,6553
+11,Uda Planning,3668,1390
+11,List of lessons,2682,293
+11,Lesson Planning Generation,8113,1352
+11,Lesson Execution Generation,12993,8104
+11,Lesson Total Generation,21106,9456
+11,Didactic Material,6896,3289
+11,Total Activity Generation,44447,19591
+12,Annual Lesson Plan,20289,8423
+12,Uda Planning,4184,1472
+12,List of lessons,3199,329
+12,Lesson Planning Generation,9.281,1708
+12,Lesson Execution Generation,14.798,8997
+12,Lesson Total Generation,24.079,10705
+12,Didactic Material,7386,2522
+12,Total Activity Generation,54.953,21979
+13,Annual Lesson Plan,24242,11412
+13,Uda Planning,3873,1469
+13,List of lessons,2886,332
+13,Lesson Planning Generation,8644,1239
+13,Lesson Execution Generation,14497,8588
+13,Lesson Total Generation,23141,9827
+13,Didactic Material,6760,3293
+13,Total Activity Generation,57029,24864
+14,Annual Lesson Plan,23268,8355
+14,Uda Planning,4691,1578
+14,List of lessons,3578,389
+14,Lesson Planning Generation,10203,1972
+14,Lesson Execution Generation,15617,8732
+14,Lesson Total Generation,25820,10704
+14,Didactic Material,7642,3462
+14,Total Activity Generation,60308,22910
+15,Annual Lesson Plan,28548,13964
+15,Uda Planning,4060,1641
+15,List of lessons,2716,185
+15,Lesson Planning Generation,9046,1646
+15,Lesson Execution Generation,14715,9286
+15,Lesson Total Generation,23761,10932
+15,Didactic Material,7308,2624
+15,Total Activity Generation,62333,27705
+16,Annual Lesson Plan,27560,11154
+16,Uda Planning,4252,1405
+16,List of lessons,2909,352
+16,Lesson Planning Generation,9366,1501
+16,Lesson Execution Generation,14678,9037
+16,Lesson Total Generation,24044,10538
+16,Didactic Material,7254,2608
+16,Total Activity Generation,61767,24652
+17,Annual Lesson Plan,27008,8163
+17,Uda Planning,5285,1429
+17,List of lessons,4299,394
+17,Lesson Planning Generation,9123,1623
+17,Lesson Execution Generation,14820,9296
+17,Lesson Total Generation,23943,10919
+17,Didactic Material,7050,3169
+17,Total Activity Generation,62300,22645
+18,Annual Lesson Plan,20663,8870
+18,Uda Planning,4234,1614
+18,List of lessons,3249,294
+18,Lesson Planning Generation,9533,1635
+18,Lesson Execution Generation,14053,7855
+18,Lesson Total Generation,23586,9490
+18,Didactic Material,7167,3426
+18,Total Activity Generation,54665,22080
+19,Annual Lesson Plan,25440,13779
+19,Uda Planning,3725,1657
+19,List of lessons,2700,262
+19,Lesson Planning Generation,8462,1568
+19,Lesson Execution Generation,14106,8121
+19,Lesson Total Generation,22568,9689
+19,Didactic Material,6966,2361
+19,Total Activity Generation,57674,26091
+20,Annual Lesson Plan,23652,10763
+20,Uda Planning,4198,1752
+20,List of lessons,3192,252
+20,Lesson Planning Generation,9532,1492
+20,Lesson Execution Generation,15457,9300
+20,Lesson Total Generation,24989,10792
+20,Didactic Material,7176,3518
+20,Total Activity Generation,59009,25325
