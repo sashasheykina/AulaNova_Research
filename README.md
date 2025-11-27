@@ -1,6 +1,6 @@
- AulaNova_Research
+#AulaNova_Research
 
-This repository contains all materials related to the **AulaNova** project, including scripts, statistical analyses, example datasets, questionnaires, and research paper.
+This repository contains all materials related to the **AulaNova** project, including scripts, statistical analyses, example datasets, questionnaires, and a research paper.
 
 ## Repository Structure
 
