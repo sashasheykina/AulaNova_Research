@@ -1,0 +1,224 @@
+{
+    "materiali_didattici": [
+        {
+            "numero_domande": "5",
+            "tipo_materiale": "Elenco di domande per la verifica orale",
+            "tipo_domande": "Domande aperte",
+            "criteri_valutazione": "Chiarezza delle risposte, correttezza delle informazioni, capacità di collegare i concetti",
+            "domande": [
+                {
+                    "id": "1",
+                    "domanda": "Qual è la funzione principale di una scheda madre in un computer?",
+                    "criteri": "Descrivere il ruolo della scheda madre come piattaforma centrale per la comunicazione tra i componenti hardware."
+                },
+                {
+                    "id": "2",
+                    "domanda": "Qual è il ruolo del processore in un computer?",
+                    "criteri": "Spiegare la funzione del processore come unità centrale di elaborazione che esegue istruzioni e comandi."
+                },
+                {
+                    "id": "3",
+                    "domanda": "Descrivi brevemente come funziona una rete locale.",
+                    "criteri": "Definire la rete locale come gruppo di computer e dispositivi collegati per condividere risorse all'interno di un'area limitata."
+                },
+                {
+                    "id": "4",
+                    "domanda": "Quali sono i componenti essenziali necessari per assemblare un computer?",
+                    "criteri": "Elencare componenti come scheda madre, processore, memoria RAM, disco rigido, alimentatore e case."
+                },
+                {
+                    "id": "5",
+                    "domanda": "Spiega il concetto di indirizzamento IP in una rete.",
+                    "criteri": "Descrivere l'indirizzamento IP come sistema numerico che identifica univocamente ogni dispositivo collegato a una rete."
+                }
+            ],
+            "istruzioni": [
+                {
+                    "id": "1",
+                    "descrizione": "Verifica la comprensione degli studenti sui concetti di base attraverso domande aperte, fornendo feedback immediato."
+                }
+            ]
+        },
+        {
+            "numero_domande": "6",
+            "tipo_materiale": "Elenco di domande orali per la verifica.",
+            "tipo_domande": "domanda aperta",
+            "punti": "30",
+            "criteri_valutazione": "Correttezza delle risposte, capacità di ragionamento e collegamento tra i concetti appresi, chiarezza espositiva.",
+            "obiettivo_minimo": "Superamento della verifica con 18 punti su 30",
+            "domande": [
+                {
+                    "id": "1",
+                    "domanda": "Quali sono le principali funzioni di una scheda madre?",
+                    "criteri": "Descrivere le funzioni chiave della scheda madre come l'interconnessione dei componenti, gestione dell'alimentazione e supporto del BIOS/UEFI."
+                },
+                {
+                    "id": "2",
+                    "domanda": "Spiega la differenza tra un router e uno switch.",
+                    "criteri": "Differenziare in base alla funzione di instradamento del router e alla funzione di commutazione dello switch."
+                },
+                {
+                    "id": "3",
+                    "domanda": "Qual è la funzione principale di un Access Point nelle reti locali?",
+                    "criteri": "Descrivere come un Access Point permette la connessione wireless dei dispositivi a una rete locale."
+                },
+                {
+                    "id": "4",
+                    "domanda": "Come si configura un Access Point per una rete locale?",
+                    "criteri": "Spiegare i passaggi fondamentali per la configurazione di un Access Point, inclusa la connessione fisica e l'accesso alle impostazioni software."
+                },
+                {
+                    "id": "5",
+                    "domanda": "Analizza le funzionalità e i vantaggi dell'utilizzo di Access Point.",
+                    "criteri": "Discutere le funzionalità aggiuntive rispetto ad altri dispositivi di rete e i vantaggi come la flessibilità e l'espansione della copertura wireless."
+                },
+                {
+                    "id": "6",
+                    "domanda": "Quali protocolli di comunicazione wireless sono utilizzati dagli Access Point?",
+                    "criteri": "Elencare e descrivere brevemente i protocolli comuni come IEEE 802.11a/b/g/n/ac/ax."
+                }
+            ],
+            "istruzioni": [
+                {
+                    "id": "1",
+                    "descrizione": "Rispondere alle domande in modo chiaro e conciso, cercando di coprire tutti i punti chiave richiesti."
+                },
+                {
+                    "id": "2",
+                    "descrizione": "Utilizzare esempi pratici o esperienze personali, se pertinenti, per supportare le risposte."
+                },
+                {
+                    "id": "3",
+                    "descrizione": "Se necessario, chiedere chiarimenti sul significato delle domande per fornire una risposta più accurata."
+                }
+            ]
+        },
+        {
+            "tipo_materiale": "Test scritto sugli Access Point",
+            "numero_domande": "10",
+            "tipo_verifica": "strutturata",
+            "struttra": "domande a risposta multipla e domande aperte",
+            "descrizione": "Test per valutare la comprensione degli studenti sugli Access Point, la loro configurazione e utilizzo.",
+            "punti": "30",
+            "criteri_valutazione": "Risposte corrette e complete, capacità di analisi e applicazione pratica",
+            "obiettivo_minimo": "Superamento della verifica con almeno 18 punti su 30",
+            "domande_sm_vf": [
+                {
+                    "domande": [
+                        {
+                            "id_d": "1",
+                            "domanda": "Qual è la funzione principale di un Access Point?",
+                            "tipo": "scelta_multipla",
+                            "opzioni": [
+                                "A. Fornire accesso a Internet",
+                                "B. Collegare dispositivi in una rete wireless",
+                                "C. Proteggere la rete da accessi non autorizzati",
+                                "D. Aumentare la velocità di Internet"
+                            ],
+                            "risposta_corretta": "B. Collegare dispositivi in una rete wireless"
+                        },
+                        {
+                            "id_d": "2",
+                            "domanda": "Un Access Point può essere utilizzato per estendere la copertura di una rete wireless esistente.",
+                            "tipo": "vero/falso",
+                            "opzioni": [
+                                "Vero",
+                                "Falso"
+                            ],
+                            "risposta_corretta": "Vero"
+                        },
+                        {
+                            "id_d": "3",
+                            "domanda": "Quale dei seguenti protocolli è comunemente utilizzato dagli Access Point per la comunicazione wireless?",
+                            "tipo": "scelta_multipla",
+                            "opzioni": [
+                                "A. HTTP",
+                                "B. FTP",
+                                "C. WPA2",
+                                "D. SMTP"
+                            ],
+                            "risposta_corretta": "C. WPA2"
+                        },
+                        {
+                            "id_d": "4",
+                            "domanda": "Gli Access Point possono funzionare solo in modalità wireless.",
+                            "tipo": "vero/falso",
+                            "opzioni": [
+                                "Vero",
+                                "Falso"
+                            ],
+                            "risposta_corretta": "Falso"
+                        },
+                        {
+                            "id_d": "5",
+                            "domanda": "Quale tra questi è un vantaggio dell'utilizzo di un Access Point?",
+                            "tipo": "scelta_multipla",
+                            "opzioni": [
+                                "A. Riduce l'interferenza di segnale",
+                                "B. Aumenta la sicurezza della rete",
+                                "C. Consente la connessione di più dispositivi",
+                                "D. Fornisce accesso diretto ai server"
+                            ],
+                            "risposta_corretta": "C. Consente la connessione di più dispositivi"
+                        },
+                        {
+                            "id_d": "6",
+                            "domanda": "Gli Access Point devono essere collegati fisicamente al router per funzionare.",
+                            "tipo": "vero/falso",
+                            "opzioni": [
+                                "Vero",
+                                "Falso"
+                            ],
+                            "risposta_corretta": "Falso"
+                        }
+                    ]
+                }
+            ],
+            "domande_a": [
+                {
+                    "tipo_domande": "domanda aperta",
+                    "domande": [
+                        {
+                            "id_d": "7",
+                            "domanda": "Descrivi il processo di configurazione di un Access Point.",
+                            "criteri": "Chiarezza, completezza delle fasi descritte, comprensione del processo"
+                        },
+                        {
+                            "id_d": "8",
+                            "domanda": "Quali sono le principali funzionalità di un Access Point in una rete domestica?",
+                            "criteri": "Elenco delle funzionalità, capacità di analisi e applicazione"
+                        },
+                        {
+                            "id_d": "9",
+                            "domanda": "Spiega come un Access Point può migliorare la copertura di una rete wireless.",
+                            "criteri": "Chiarezza, comprensione dei concetti di copertura e segnale"
+                        },
+                        {
+                            "id_d": "10",
+                            "domanda": "Quali sono i vantaggi e gli svantaggi dell'utilizzo di Access Point rispetto ad altri dispositivi di rete?",
+                            "criteri": "Analisi critica, confronto dettagliato, comprensione dei pro e contro"
+                        }
+                    ]
+                }
+            ],
+            "istruzioni": [
+                {
+                    "id": "1",
+                    "descrizione": "Leggi attentamente tutte le domande prima di iniziare a rispondere."
+                },
+                {
+                    "id": "2",
+                    "descrizione": "Per le domande a risposta multipla, cerchia la lettera corrispondente alla risposta corretta."
+                },
+                {
+                    "id": "3",
+                    "descrizione": "Rispondi in modo chiaro e conciso alle domande aperte."
+                },
+                {
+                    "id": "4",
+                    "descrizione": "Assicurati di completare tutte le domande entro i 15 minuti assegnati."
+                }
+            ]
+        }
+    ]
+}

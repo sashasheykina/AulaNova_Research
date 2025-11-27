@@ -1,0 +1,170 @@
+{
+  "fasi": [
+    {
+      "FASE": "Verifica dei prerequisiti",
+      "lista_attivita": [
+        {
+          "attivita": "Verifica orale",
+          "descr_att": "Domande orali per verificare la conoscenza di base dei componenti hardware e dei concetti fondamentali di rete.",
+          "metodologia": "Verifica orale",
+          "strumenti": [
+            "LIM"
+          ],
+          "materiali_didattici": [
+            {
+              "materiale_didattico": "Elenco di domande per la verifica orale."
+            }
+          ],
+          "durata": "15 minuti",
+          "di_gruppo": "False",
+          "setting": "Aula con LIM",
+          "adattamento_BES": "Verifica orale anziché scritta per BES, utilizzo di domande semplificate.",
+          "formato/strumento": "Cartaceo e digitale"
+        }
+      ]
+    },
+    {
+      "FASE": "Nucleo centrale",
+      "lista_attivita": [
+        {
+          "attivita": "Lezione Frontale",
+          "descr_att": "Presentazione delle funzionalità e dei vantaggi degli Access Point nelle reti locali.",
+          "metodologia": "Lezione Frontale",
+          "strumenti": [
+            "LIM",
+            "Computer"
+          ],
+          "materiali_didattici": [
+            {
+              "materiale_didattico": "Presentazione PowerPoint sugli Access Point."
+            }
+          ],
+          "durata": "20 minuti",
+          "di_gruppo": "False",
+          "setting": "Aula con LIM",
+          "adattamento_BES": "Utilizzo di materiali semplificati per BES, mappe concettuali.",
+          "formato/strumento": "Digitale"
+        },
+        {
+          "attivita": "Laboratorio pratico",
+          "descr_att": "Attività pratica di configurazione di un Access Point.",
+          "metodologia": "Laboratorio pratico",
+          "strumenti": [
+            "Computer",
+            "Access Point",
+            "Software di configurazione"
+          ],
+          "materiali_didattici": [
+            {
+              "materiale_didattico": "Guida passo-passo per la configurazione di Access Point."
+            }
+          ],
+          "durata": "30 minuti",
+          "di_gruppo": "True",
+          "setting": "Laboratorio di informatica",
+          "adattamento_BES": "Supporto aggiuntivo da parte del docente per BES, software di supporto.",
+          "formato/strumento": "Stampato e digitale"
+        },
+        {
+          "attivita": "Problem Solving",
+          "descr_att": "Risoluzione di problemi comuni nella configurazione degli Access Point.",
+          "metodologia": "Problem Solving",
+          "strumenti": [
+            "Computer",
+            "Access Point"
+          ],
+          "materiali_didattici": [
+            {
+              "materiale_didattico": "Esercizi di problem solving sugli Access Point."
+            }
+          ],
+          "durata": "20 minuti",
+          "di_gruppo": "True",
+          "setting": "Laboratorio di informatica",
+          "adattamento_BES": "Mappe concettuali e appunti strutturati per BES.",
+          "formato/strumento": "Cartaceo e digitale"
+        },
+        {
+          "attivita": "Cooperative learning",
+          "descr_att": "Gli studenti lavorano in gruppi per configurare e testare un Access Point in un ambiente simulato.",
+          "metodologia": "Cooperative learning",
+          "strumenti": [
+            "Computer",
+            "Access Point",
+            "Software di simulazione"
+          ],
+          "materiali_didattici": [
+            {
+              "materiale_didattico": "Istruzioni per il lavoro di gruppo sulla configurazione degli Access Point."
+            }
+          ],
+          "durata": "25 minuti",
+          "di_gruppo": "True",
+          "setting": "Laboratorio di informatica",
+          "adattamento_BES": "Supporto da parte del docente e divisione dei compiti per BES.",
+          "formato/strumento": "Digitale"
+        },
+        {
+          "attivita": "Discussione guidata",
+          "descr_att": "Discussione sui vantaggi e le sfide nell'uso degli Access Point.",
+          "metodologia": "Discussione guidata",
+          "strumenti": [
+            "LIM"
+          ],
+          "materiali_didattici": [
+            {
+              "materiale_didattico": "Domande guida per la discussione sugli Access Point."
+            }
+          ],
+          "durata": "20 minuti",
+          "di_gruppo": "True",
+          "setting": "Aula con LIM",
+          "adattamento_BES": "Discussione semplificata per BES, utilizzo di mappe concettuali.",
+          "formato/strumento": "Digitale"
+        }
+      ]
+    },
+    {
+      "FASE": "Verifica degli obiettivi",
+      "lista_attivita": [
+        {
+          "attivita": "Verifica scritta",
+          "descr_att": "Test scritto strutturato sugli Access Point e la loro configurazione.",
+          "metodologia": "Verifica scritta",
+          "strumenti": [
+            "Foglio di verifica",
+            "Penna"
+          ],
+          "materiali_didattici": [
+            {
+              "materiale_didattico": "Test scritto sugli Access Point."
+            }
+          ],
+          "durata": "15 minuti",
+          "di_gruppo": "False",
+          "setting": "Aula",
+          "adattamento_BES": "Tempi aggiuntivi e verifica orale anziché scritta per BES.",
+          "formato/strumento": "Cartaceo"
+        },
+        {
+          "attivita": "Verifica orale",
+          "descr_att": "Interrogazione orale sugli argomenti trattati durante la lezione.",
+          "metodologia": "Verifica orale",
+          "strumenti": [
+            "LIM"
+          ],
+          "materiali_didattici": [
+            {
+              "materiale_didattico": "Elenco di domande orali per la verifica."
+            }
+          ],
+          "durata": "15 minuti",
+          "di_gruppo": "False",
+          "setting": "Aula con LIM",
+          "adattamento_BES": "Domande semplificate e supporto visivo per BES.",
+          "formato/strumento": "Digitale"
+        }
+      ]
+    }
+  ]
+}

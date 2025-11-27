@@ -1,0 +1,48 @@
+{
+  "Lezioni": [
+    {
+      "Lezione": "Introduzione ai Dispositivi di Rete",
+      "durata": "2 ore"
+    },
+    {
+      "Lezione": "Tipologia e Funzionalità dei Router",
+      "durata": "2 ore"
+    },
+    {
+      "Lezione": "Switch e la loro Configurazione",
+      "durata": "3 ore"
+    },
+    {
+      "Lezione": "Access Point: Utilizzo e Configurazione",
+      "durata": "2 ore"
+    },
+    {
+      "Lezione": "Dispositivi di Collegamento: Hub, Switch vs Router",
+      "durata": "3 ore"
+    },
+    {
+      "Lezione": "Revisione delle Topologie di Rete Locale",
+      "durata": "2 ore"
+    },
+    {
+      "Lezione": "Cablaggio Strutturato nelle Reti Locali",
+      "durata": "2 ore"
+    },
+    {
+      "Lezione": "Protocolli di Rete e Comunicazione tra Dispositivi",
+      "durata": "3 ore"
+    },
+    {
+      "Lezione": "Metodi di Configurazione degli Apparati di Rete",
+      "durata": "2 ore"
+    },
+    {
+      "Lezione": "Monitoraggio e Gestione delle Reti Locali",
+      "durata": "2 ore"
+    },
+    {
+      "Lezione": "Sicurezza nei Dispositivi di Rete",
+      "durata": "3 ore"
+    }
+  ]
+}

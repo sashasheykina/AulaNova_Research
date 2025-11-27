@@ -1,0 +1,247 @@
+Agisci da esperto docente di Informatica negli Istituto Tecnico Settore Tecnologico.
+### Linee guida Nazionali \
+ISTRUZIONE TECNICA SETTORE TECNOLOGICO \
+Indirizzo "Informatica e Telecomunicazioni" \
+L’indirizzo "Informatica e Telecomunicazioni" ha lo scopo di far acquisire allo studente, al termine del percorso quinquennale, specifiche competenze nell’ambito del ciclo di vita del prodotto software e dell’infrastruttura di telecomunicazione, declinate in termini di capacità di ideare, progettare, produrre e inserire nel mercato componenti e servizi di settore. La preparazione dello studente è integrata da competenze trasversali che gli consentono di leggere le problematiche dell’intera filiera. all’analisi delle richieste delle aziende di settore sono emerse specifiche esigenze di formazione di tipo umanistico, matematico e statistico; scientifico-tecnologico; progettuale e gestionale per rispondere in modo innovativo alle richieste del mercato e per contribuire allo sviluppo di un livello culturale alto a sostegno di capacità ideativo–creative. \
+ \
+L’indirizzo prevede le articolazioni "Informatica" e "Telecomunicazioni" . \
+ \
+Nell’articolazione "Informatica" si acquisiscono competenze che caratterizzano il profilo professionale in relazione ai processi, ai prodotti, ai servizi con particolare riferimento agli aspetti innovativi e alla ricerca applicata, per la realizzazione di soluzioni informatiche a sostegno delle aziende che operano in un mercato interno e internazionale sempre più competitivo. Il profilo professionale dell’indirizzo consente l’inserimento nei processi aziendali, in precisi ruoli funzionali coerenti con gli obiettivi dell’impresa. \
+ \
+Nell’articolazione "Telecomunicazioni" si acquisiscono competenze che caratterizzano il profilo professionale in relazione alle infrastrutture di comunicazione e ai processi per realizzarle, con particolare riferimento agli aspetti innovativi e alla ricerca applicata. Il profilo professionale dell’indirizzo permette un efficace inserimento in una pluralità di contesti aziendali, con possibilità di approfondire maggiormente le competenze correlate alle caratteristiche delle diverse realtà territoriali. \
+ \
+Ampio spazio è riservato allo sviluppo di competenze organizzative, gestionali e di mercato che consentono, grazie anche all’utilizzo dell’alternanza scuola-lavoro, di realizzare progetti correlati ai reali processi di sviluppo dei prodotti e dei servizi che caratterizzano le aziende del settore. \
+ \
+Il quinto anno, dedicato all’approfondimento di specifiche tematiche settoriali, è finalizzato a favorire le scelte dei giovani rispetto a un rapido inserimento nel mondo del lavoro o alle successive opportunità di formazione: conseguimento di una specializzazione tecnica superiore, prosecuzione degli studi a livello universitario. \
+ \
+Attività e insegnamenti dell’indirizzo Informatica e telecomunicazioni articolazione: Informatica \
+ \
+Disciplina: SISTEMI E RETI \
+ \
+La disciplina "Sistemi e reti" concorre a far conseguire allo studente al termine del percorso quinquennale i seguenti risultati di apprendimento relativi al profilo educativo, culturale e professionale dello studente coerenti con la disciplina: cogliere l’importanza dell’orientamento al risultato, del lavoro per obiettivi e della necessità di assumere responsabilità nel rispetto dell’etica e della deontologia professionale; orientarsi nella normativa che disciplina i processi produttivi del settore di riferimento, con particolare attenzione sia alla sicurezza sui luoghi di vita e di lavoro sia alla tutela dell’ambiente e del territorio; intervenire nelle diverse fasi e livelli del processo produttivo,dall’ideazione alla realizzazione del prodotto, per la parte di propria competenza, utilizzando gli strumenti di progettazione, documentazione e controllo; riconoscere gli aspetti di efficacia, efficienza e qualità nella propria attività lavorativa. \
+ \
+Secondo biennio e quinto anno \
+ \
+I risultati di apprendimento sopra riportati in esito al percorso quinquennale costituiscono il riferimento delle attività didattiche della disciplina nel secondo biennio e quinto anno. La disciplina, nell’ambito della programmazione del Consiglio di classe, concorre in particolare al raggiungimento dei seguenti risultati di apprendimento, relativi all’indirizzo, espressi in termini di competenza: \
+• configurare, installare e gestire sistemi di elaborazione dati e reti \
+• scegliere dispositivi e strumenti in base alle loro caratteristiche funzionali \
+• descrivere e comparare il funzionamento di dispositivi e strumenti elettronici e di telecomunicazione; \
+• gestire progetti secondo le procedure e gli standard previsti dai sistemi aziendali di gestione della qualità e della sicurezza \
+• utilizzare le reti e gli strumenti informatici nelle attività di studio, ricerca e approfondimento disciplinare \
+• analizzare il valore, i limiti e i rischi delle varie soluzioni tecniche per la vita sociale e culturale con particolare attenzione alla sicurezza nei luoghi di vita e di lavoro, alla tutela della persona, dell’ambiente e del territorio \
+ \
+L’articolazione dell’insegnamento di "Sistemi e reti" in conoscenze e abilità è di seguito indicata quale orientamento per la progettazione didattica del docente in relazione alle scelte compiute nell’ambito della programmazione collegiale del Consiglio di classe \
+ \
+Secondo biennio \
+ \
+Conoscenze \
+Struttura, architettura e componenti dei sistemi di elaborazione. \
+Organizzazione del software di rete in livelli; modelli standard di riferimento. \
+Tipologie e tecnologie delle reti locali e geografiche. \
+Protocolli per la comunicazione in rete e analisi degli strati \
+Dispositivi per la realizzazione di reti locali; apparati e sistemi per la connettività ad Internet. \
+Dispositivi di instradamento e relativi protocolli; tecniche di gestione dell’indirizzamento di rete. \
+Problematiche di instradamento e sistemi di interconnessione nelle reti geografiche. \
+Normativa relativa alla sicurezza dei dati \
+Tecnologie informatiche per garantire la sicurezza e l’integrità dei dati e dei sistemi. \
+Lessico e terminologia tecnica di settore anche in lingua inglese. \
+ \
+Abilità \
+Individuare la corretta configurazione di un sistema per una data applicazione. \
+Identificare i principali dispositivi periferici; selezionare un dispositivo adatto all’ applicazione data. \
+Installare, configurare e gestire sistemi operativi garantendone la sicurezza. \
+Classificare una rete e i servizi offerti con riferimento agli standard tecnologici. \
+Progettare, realizzare, configurare e gestire una rete locale con accesso a Internet. \
+Installare e configurare software e dispositivi di rete. \
+Utilizzare il lessico e la terminologia tecnica di settore anche in lingua inglese. \
+
+Progettazione didattica delle UDA per la classe Terza del secondo biennio:
+I sistemi: i sistemi; i modelli; gli automi \
+Le architetture dei sistemi: Architettura del computer, modello di von Newmann; Ruolo della CPU e suoi componenti (registri, ALU, CU); Memorie, BUS, I/O \
+Il linguaggio Assembly: processore 8086, registri, segmenti, bus dati, indirizzi e controllo, indirizzamento; linguaggio Assembly, struttura delle istruzioni tramite Debug del DOS e poi TASM; istruzioni MOV e metodi di indirizzamento, CMP,JMP, JZ, INC, DEC, SUB, ADD, SHIFT, ROTATE, PUSH, POP, Procedure in Assembly; Utilizzo ambienti alternativi quali emu8086 e Johnny simulator \
+I sistemi embedded e Arduino \
+Comunicazione e networking: networking e tipologia delle reti: punto punto, multipunto, LAN (anello, bus, maglia, gerarchica), MAN, WAN; reti wireless; Trasferimento dell’informazione: modalità, utilizzo del canale, commutazione; Architettura a strati, concetto di protocollo, pila ISO/OSI e TCP/IP; Metodi di rilevazione dell’errore in trasmissione (bit di parità, checksum, CRC) \
+Dispositivi per la realizzazione di reti locali \
+Le reti Ethernet e lo strato di collegamento \
+
+Progettazione didattica delle UDA per la classe Quarta del secondo biennio:
+Il livello di rete e il protocollo TCP/IP: Il TCP/IP e gli indirizzi IP - Le basi del subnetting - Subnetting: VLSM e CIDR - Configurare un host con indirizzi statici e dinamici - Inoltro di pacchetti sulla rete: NAT, PAT e ICMP. I router come dispositivi hardware: Configurazione del router da linea di comando. Progettazione di sistemi embedded e IoT: Internet of Things - La tecnologia RFID. Il routing: protocolli e algoritmi: Fondamenti di routing - Routing statico e dinamico - Reti, grafi e alberi - Algoritmi di routing statici - Algoritmi di routing dinamici - Routing gerarchico - Il protocollo Neighbor Discovery in IPv6. Lo strato di trasporto: Lo strato di trasporto e il protocollo UDP - Il trasferimento affidabile e il protocollo TCP - TCP: problematiche di connessione e congestione. Il sistema operativo GNU/Linux: L’avvio di Linux - Il file system di Linux \
+
+Quinto anno \
+Progettazione didattica delle UDA per la classe Quinta
+Il livello delle applicazioni \
+Il protocollo HTTP \
+VLAN: Virtual Local Area Network \
+Reti e cloud \
+Tecniche crittografiche per la protezione dei dati \
+La sicurezza nelle reti - Reti mobili e sicurezza \
+Sistemi distribuiti: modelli, architetture e sicurezza \
+
+Conoscenze \
+Tecniche di filtraggio del traffico di rete. \
+Tecniche crittografiche applicate alla protezione dei sistemi e delle reti. Reti private virtuali. \
+Modello client/server e distribuito per i servizi di rete. \
+Funzionalità e caratteristiche dei principali servizi di rete. \
+Strumenti e protocolli per la gestione ed il monitoraggio delle reti. Macchine e servizi virtuali, reti per la loro implementazione. \
+ \
+Abilità \
+Installare, configurare e gestire reti in riferimento alla privatezza, alla sicurezza e all’accesso ai servizi. \
+Identificare le caratteristiche di un servizio di rete. \
+Selezionare, installare, configurare e gestire un servizio di rete locale o ad accesso pubblico. \
+Integrare differenti sistemi operativi in rete. \
+Il tuo compito è fornire il dettaglio dell’Unità didattica di Apprendimento che ti fornirò nell’ambito della progettazione didattica per la disciplina Sistemi e reti,
+in linea con le indicazioni nazionali. Dovrai fornire la Progettazione Disciplinare tramite un JSON strutturato come segue:
+### Formato output PROGRAMMAZIONE DISCIPLINARE PER COMPETENZE
+Dovrai definire 3 o 4 Competenze con relativi indicatori, per ogni competenza considera 3 livelli (Base, Intermedio, Avanzato) con relativi descrittori per criteri_valutazione del compito_prodotto. Dovrai fornire la progettazione tramite un JSON strutturato come segue. **Importante:** Devi seguire rigorosamente questa struttura, non troncare le stringhe e non aggiungere nient'altro
+{
+"UNITA DI APPRENDIMENTO":"Nome unita didattica",
+"fase_applicazione":"periodo senza anno",
+"utenti_destinatari":"Indicare alunni di quale classe, tipo scuola, indirizzo, articolazione",
+"Motivazioni": "Descrivere Motivazioni",
+"competenze_europee": {
+        "costruzione_del_se": {
+            "imparare_ad_imparare": [
+                "Lista indicatori per Imparare ad imparare"
+            ],
+            "progettare": [
+                "Lista indicatori per Progettare"
+            ]
+        },
+        "competenze_sociali_relazione_con_altri": {
+            "comunicare": [
+                "Lista indicatori per Comunicare"
+            ],
+            "collaborare_partecipare": [
+                "Lista indicatori per Collaborare e partecipare"
+            ],
+            "agire_in_modo_autonomo": [
+                "Lista indicatori per Agire in modo autonomo"
+            ]
+        },
+        "rapporto_con_realta_naturale_sociale": {
+            "risolvere_problemi": ["Lista indicatori per Risolvere problemi"
+            ],
+            "individuare_collegamenti_relazioni": ["Lista indicatori per Individuare collegamenti e relazioni"
+            ],
+            "acquisire_interpretare_informazione": ["Lista indicatori per Acquisire e interpretare l'infirmazione"
+            ]
+        }
+    },
+"competenze_professionali":
+    ["Lista competenze professionali (almeno 6)"],
+"competenze_di_area":
+    ["Lsta competenza di area disciplinare (almeno 4)"],
+"abilita":
+    ["Abilità da acquisire con la UDA (almeno 6)"],
+"conoscenze":
+    ["Conoscenza da acquisire con la UDA (da 6 a 12)"],
+"obiettivi_minimi":
+    ["Obiettivi minimi da acquisire con la UDA in termini di conoscenza, competenza, capacità (da 3 a 6)"],
+"prerequisiti":
+    ["Lista prerequisiti per la UDA"],
+"Tempi":"quante ore a settimana",
+"esperienze_attivate":
+    ["Esperienza attivata con la UDA"],
+"Metodologie":
+    ["Metodologia"],
+"risorse_umane":"Indicare risorse umane interne e esterne come docenti e gli studenti",
+"Strumenti":
+    ["Strumento didattico utilizzato per la UDA"],
+"Valutazioni":
+    ["Tipi di valutazioni d applicare"],
+"CP":{
+    "compito_prodotto":"Compito o prodotto atteso",
+    "Modalita":"Scegliere tra individuale o in gruppo",
+    "artefatti_consegnati":"Artefatti consegnati",
+    "Obiettivi":"Obiettivi",
+    "Tempi":"Tempo di realizzazione del prodotto in settimane (da 1 a 4)",
+    "Strumenti":
+        ["Risorse (strumenti, consulenze, opportunità) utilizzati nel compito-prodotto"],
+    "criteri_valutazione":{
+        "Competenze":[
+            {
+                "indicatore":"definire indicatore competenza",
+                "Base":"descrittore per livello Base",
+                "Intermedio":"descrittore per livello Intemedio",
+                "Avanzato":"descrittore per livello Avanzato"
+                }
+            ]},
+    "relazione_individuale":{
+        "domande":[
+            "formulare la domanda"
+        ]
+    }
+  }
+}
+Io ti fornirò l'analisi del profilo della classe e l'anno di riferimento, numero ore settimanali, monte ore annuo, nome docente, l'elenco delle UDA, la UDA di riferimento, includi tutti metodologie didattiche nella progettazione, "
+esempio di relazione individuale da proporre allo studente e tu restituirai il dettaglio dell’unità didattica di apprendimento "
+per la Progettazione Disciplinare nel formato richiesto.
+### ANALISI PROFILO CLASSE  La classe è composta da 15 alunni, 11 maschi e 4 femmine. Vi è la presenza di un’alunna diversamente abile che segue una programmazione differenziata, 4 alunni ripetenti di cui uno che il precedente anno scolastico era stato seguito dai docenti con un PDP ed un altro che ha interrotto ufficialmente la frequenza scolastica il 6 ottobre 2024. La classe è vivace ma appare unita e abbastanza collaborativa. La maggior parte degli alluni partecipa con interesse al dialogo educativo e alle attività proposte. Dall’analisi iniziale è emerso un rendimento medio sufficiente, e l’atteggiamento verso la materia è di discreto interesse e curiosità. Per ciò che attiene il rendimento, si distinguono 3 gruppi: un primo gruppo si distingue per un'applicazione costante e per un buon livello di sviluppo delle capacità logiche, espressive e operative e per il fatto che esegue compiti in modo autonomo e responsabile con buona consapevolezza e padronanza delle conoscenze. Un secondo gruppo rientra nell'ambito di un livello soddisfacente dal momento che presenta un discreto sviluppo delle abilità di base ed un’applicazione nel complesso adeguata. Infine, un terzo gruppo presenta delle competenze acquisite in maniera essenziale che rivelano incertezze metodologiche e un approccio allo studio che necessita di maturare. Per tali motivi, l'insegnamento della disciplina si baserà, fondamentalmente, su un continuo stimolo alla partecipazione attiva degli alunni alle attività didattiche. Si terranno, lezioni partecipative e lezioni multimediali attraverso l’utilizzo della LIM, con richieste di intervento da posto e con correzioni collettiva degli esercizi, nonché attività laboratoriali tecnico-pratiche. ### GRADO CLASSE III ad indirizzo Informatica e Telecomunicazioni, articolazione Informatica.
+### NUMERO ORE SETTIMANALI 4,
+### TOTALE ORE ANNO 132. ### DOCENTE: Alexandra Sheykina.  ### ELENCO UDA: 
+{
+  "BES/DSA": [
+    {
+      "Nome": "alunna diversamente abile con programmazione differenziata"
+    },
+    {
+      "Nome": "alunno ripetente con PDP nell'anno scolastico precedente"
+    }
+  ],
+  "Lista di studenti con BES o DSA (con relativo disturbo) se presenti": [
+    "alunna diversamente abile (programmazione differenziata)",
+    "alunno ripetente (PDP nell'anno scolastico precedente)"
+  ],
+  "Unita Didattiche": [
+    {
+      "UDA": "I sistemi: i sistemi; i modelli; gli automi",
+      "Periodo": "Settembre-Ottobre",
+      "Motivazioni": "Introduzione ai concetti fondamentali dei sistemi e automi per sviluppare la capacità di analisi e progettazione."
+    },
+    {
+      "UDA": "Le architetture dei sistemi: Architettura del computer, modello di von Neumann",
+      "Periodo": "Ottobre-Novembre",
+      "Motivazioni": "Comprendere le basi dell'architettura del computer, necessario per sviluppare conoscenze tecniche solide."
+    },
+    {
+      "UDA": "Il linguaggio Assembly",
+      "Periodo": "Novembre-Gennaio",
+      "Motivazioni": "Introduzione alla programmazione di basso livello per sviluppare capacità analitiche e di problem-solving."
+    },
+    {
+      "UDA": "I sistemi embedded e Arduino",
+      "Periodo": "Gennaio-Febbraio",
+      "Motivazioni": "Avvicinare gli studenti ai sistemi embedded per ampliare le loro conoscenze in ambito di sviluppo tecnologico pratico."
+    },
+    {
+      "UDA": "Comunicazione e networking: networking e tipologia delle reti",
+      "Periodo": "Febbraio-Marzo",
+      "Motivazioni": "Introdurre i fondamenti delle reti di comunicazione per focalizzare l'attenzione su un campo chiave dell'informatica moderna."
+    },
+    {
+      "UDA": "Dispositivi per la realizzazione di reti locali",
+      "Periodo": "Marzo-Aprile",
+      "Motivazioni": "Comprendere l'hardware di networking necessario per la progettazione e realizzazione di reti locali."
+    },
+    {
+      "UDA": "Le reti Ethernet e lo strato di collegamento",
+      "Periodo": "Aprile-Maggio",
+      "Motivazioni": "Esplorare la tecnologia Ethernet per consolidare le conoscenze delle reti locali e dei protocolli di comunicazione."
+    }
+  ]
+}
+### UDA: Dispositivi per la realizzazione di reti locali.
+### RELAZIONE INDIVIDUALE: 
+{
+    "tipo_materiale": "Autovalutazione Compito-Prodotto",
+    "domande": [
+      {"domanda": "1. Descrivi il percorso generale dell'attività"},
+      {"domanda": "2. Indica come avete svolto il compito e cosa hai fatto tu"},
+      {"domanda": "3. Indica quali crisi hai dovuto affrontare e come le hai risolte"},
+      {"domanda": "4. Che cosa hai imparato da questa unità di apprendimento"},
+      {"domanda": "5. Cosa devi ancora imparare"},
+      {"domanda": "6. Come valuti il lavoro da te svolte"}
+    ]
+}
+**Importante:** Considera il seguente commento per fornire meglio la tua risposta se presente:
+DETTAGLIO UDA: 
